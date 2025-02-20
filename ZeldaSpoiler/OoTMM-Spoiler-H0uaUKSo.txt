@@ -1,0 +1,2693 @@
+Seed: 5d938b1b688f59e5fce2686b9bb2310d388b9418a53f54875807859bcfa532782d3c7aa4ef4d9c675f2d1ee0d9bd3c93
+Version: dev-add903c
+SettingsString: v1.eJyFU01v2zAM/SuGzj2s7XbpLU3RDuiADE2GARt2YGxa1iyLGiXFy4r+91FO4rhZsZwM8fHj8T36WWnoMKgbRRTVheqoQnl0yUYjT29hiyzw9YXSBFYgDY6cQIGcznXgtn2DjLkY/Jw6DyEsm1TXNncKETgap3NFB9Y+4nYPLmTgjWLsaIOVwGsK4RSdNA8lp/UUjJzwQpXU/xsMDflXfepkrfRArUdmu0zPpsw5S6nI2/RodBMHPiOUBw+b1jVxBWub6QwyrNiAFehZxa3P2zK4ijr1IhR6ybUYwqwSLQ/joulwxbBBu8y4uqmlXuIVES/qlaDZCY9ZYNA4b8BpHM1poQU2LT1AnOT9IYbHrPAY0ciponviyELgGA+t8d/QVnCgUzPisgTGkqmf6CfjPjOK+U6kuEVwYZQ7dGWWQpPbqt1zTv1Rd6iov4cQbwniUWPSmYjZ4LB12HkS0APnTYSHsfarHAfGcdDaJrw3jDMWamM0JGezQa+jJVm5HThtwckP69lBnH0Db9wXrxmq6b3g78gwb4ytJgT3jjH4p+TFn7GFHP6ivqMkh5AdmySLZdnyZTRlG06CQ/tVHnwAul93Sewl9/YF/Uyu/UQlRDNkfFeLxaq4pW5dNkm+fV6reMIeuCouRcT/wFd7+GE4jOJwGcWMS/m7tqddzqQduj1Sa9jkNAyxyGewiy9b+dtislB8pBSwuHxXrKhFWeJt/OoMfn0Gf38G/zDiP17+Ap8Eums=
+
+Settings
+  games: oot
+  mode: multi
+  players: 3
+  teams: 1
+  distinctWorlds: true
+  goal: ganon
+  logic: allLocations
+  itemPool: normal
+  generateSpoilerLog: true
+  probabilisticFoolish: true
+  noPlandoHints: true
+  extraHintRegions: false
+  hintPathDungeons: false
+  hintPathBoss: false
+  hintPathEndBoss: false
+  hintPathEvents: false
+  hintImportance: false
+  songs: anywhere
+  goldSkulltulaTokens: none
+  mapCompassShuffle: starting
+  smallKeyShuffleOot: removed
+  smallKeyShuffleHideout: ownDungeon
+  smallKeyShuffleChestGame: vanilla
+  bossKeyShuffleOot: anywhere
+  silverRupeeShuffle: vanilla
+  ganonBossKey: removed
+  dungeonRewardShuffle: dungeonBlueWarps
+  scrubShuffleOot: true
+  cowShuffleOot: true
+  shopShuffleOot: full
+  shufflePotsOot: none
+  shuffleCratesOot: none
+  shuffleHivesOot: false
+  shuffleGrassOot: none
+  shuffleFreeRupeesOot: none
+  shuffleFreeHeartsOot: none
+  shuffleWonderItemsOot: none
+  shuffleButterfliesOot: false
+  shuffleRedBouldersOot: false
+  shuffleFrogsRupeesOot: false
+  shuffleIciclesOot: false
+  shuffleOcarinasOot: true
+  shuffleMasterSword: true
+  shuffleGerudoCard: true
+  shuffleMaskTrades: false
+  shuffleMerchantsOot: false
+  pondFishShuffle: false
+  divingGameRupeeShuffle: false
+  fairyFountainFairyShuffleOot: false
+  fairySpotShuffleOot: false
+  eggShuffle: true
+  priceOotShops: weighted
+  priceOotScrubs: affordable
+  priceOotMerchants: vanilla
+  startingAge: child
+  swordlessAdult: true
+  timeTravelSword: false
+  doorOfTime: open
+  ageChange: oot
+  dekuTree: open
+  kakarikoGate: open
+  openZdShortcut: false
+  zoraKing: open
+  gerudoFortress: open
+  skipZelda: true
+  lacs: vanilla
+  rainbowBridge: medallions
+  regionState: dungeonBeaten
+  freeScarecrowOot: true
+  preCompletedDungeons: false
+  ootPreplantedBeans: true
+  csmc: agony
+  csmcHearts: true
+  csmcMapCompass: true
+  csmcSkulltula: false
+  csmcCow: true
+  cloakIceTraps: true
+  hookshotAnywhereOot: off
+  climbMostSurfacesOot: off
+  fastBunnyHood: true
+  critWiggleDisable: true
+  restoreBrokenActors: false
+  alterLostWoodsExits: false
+  shadowFastBoat: true
+  progressiveShieldsOot: separate
+  progressiveSwordsOot: separate
+  fillWallets: true
+  bottleContentShuffle: false
+  blueFireArrows: true
+  sunlightArrows: true
+  childWallets: false
+  colossalWallets: true
+  bottomlessWallets: false
+  rupeeScaling: true
+  skeletonKeyOot: false
+  bombchuBehaviorOot: free
+  spinUpgradeOot: true
+  extraChildSwordsOot: true
+  blastMaskOot: false
+  stoneMaskOot: false
+  elegyOot: false
+  ocarinaButtonsShuffleOot: false
+  soulsEnemyOot: false
+  soulsBossOot: false
+  soulsNpcOot: false
+  soulsMiscOot: false
+  coins: false
+  trapRupoor: true
+  songOfDoubleTimeOot: true
+  agelessSwords: false
+  agelessShields: false
+  agelessTunics: false
+  agelessBoots: false
+  agelessSticks: true
+  agelessBoomerang: false
+  agelessHammer: false
+  agelessHookshot: false
+  agelessSlingshot: false
+  agelessBow: false
+  agelessChildTrade: true
+  agelessStrength: false
+  erBoss: none
+  erDungeons: none
+  erGrottos: none
+  erNoPolarity: false
+  erSelfLoops: false
+  erDecoupled: false
+  erMixed: none
+  erWallmasters: none
+  erSpawns: none
+  erRegions: none
+  erOverworld: none
+  erIndoors: none
+  erWarps: none
+  erOneWays: none
+
+Special Conditions
+  BRIDGE:
+    count: 0
+    stones: false
+    medallions: false
+    remains: false
+    skullsGold: false
+    skullsSwamp: false
+    skullsOcean: false
+    fairiesWF: false
+    fairiesSH: false
+    fairiesGB: false
+    fairiesST: false
+    fairyTown: false
+    masksRegular: false
+    masksTransform: false
+    masksOot: false
+    triforce: false
+    coinsRed: false
+    coinsGreen: false
+    coinsBlue: false
+    coinsYellow: false
+  MOON:
+    count: 4
+    stones: false
+    medallions: false
+    remains: true
+    skullsGold: false
+    skullsSwamp: false
+    skullsOcean: false
+    fairiesWF: false
+    fairiesSH: false
+    fairiesGB: false
+    fairiesST: false
+    fairyTown: false
+    masksRegular: false
+    masksTransform: false
+    masksOot: false
+    triforce: false
+    coinsRed: false
+    coinsGreen: false
+    coinsBlue: false
+    coinsYellow: false
+  LACS:
+    count: 0
+    stones: false
+    medallions: false
+    remains: false
+    skullsGold: false
+    skullsSwamp: false
+    skullsOcean: false
+    fairiesWF: false
+    fairiesSH: false
+    fairiesGB: false
+    fairiesST: false
+    fairyTown: false
+    masksRegular: false
+    masksTransform: false
+    masksOot: false
+    triforce: false
+    coinsRed: false
+    coinsGreen: false
+    coinsBlue: false
+    coinsYellow: false
+  GANON_BK:
+    count: 0
+    stones: false
+    medallions: false
+    remains: false
+    skullsGold: false
+    skullsSwamp: false
+    skullsOcean: false
+    fairiesWF: false
+    fairiesSH: false
+    fairiesGB: false
+    fairiesST: false
+    fairyTown: false
+    masksRegular: false
+    masksTransform: false
+    masksOot: false
+    triforce: false
+    coinsRed: false
+    coinsGreen: false
+    coinsBlue: false
+    coinsYellow: false
+  MAJORA:
+    count: 0
+    stones: false
+    medallions: false
+    remains: false
+    skullsGold: false
+    skullsSwamp: false
+    skullsOcean: false
+    fairiesWF: false
+    fairiesSH: false
+    fairiesGB: false
+    fairiesST: false
+    fairyTown: false
+    masksRegular: false
+    masksTransform: false
+    masksOot: false
+    triforce: false
+    coinsRed: false
+    coinsGreen: false
+    coinsBlue: false
+    coinsYellow: false
+
+Tricks
+  Nighttime Gold Skulltulas without Sun's Song
+
+Junk Locations
+  OOT Bombchu Bowling Reward 1
+  OOT Bombchu Bowling Reward 2
+  OOT Gerudo Fortress Archery Reward 1
+  OOT Gerudo Fortress Archery Reward 2
+  OOT Kokiri Forest Cow
+  OOT Skulltula House 10 Tokens
+  OOT Skulltula House 20 Tokens
+  OOT Skulltula House 30 Tokens
+  OOT Skulltula House 40 Tokens
+  OOT Skulltula House 50 Tokens
+
+World Flags
+  World 1
+    Ganon Trials:
+      - Light Trial
+      - Spirit Trial
+
+    Small Key Ring (OoT): none
+    Small Key Ring (MM): none
+    Silver Rupee Pouches: none
+    Open Dungeons (MM): none
+    Open Dungeons (OoT): none
+    Pre-Activated Owl Statues: none
+    Master Quest Dungeons:
+      - Deku Tree
+      - Dodongo Cavern
+      - Jabu-Jabu
+      - Fire Temple
+      - Gerudo Training Grounds
+
+    Majora's Mask JP Layouts: none
+
+  World 2
+    Ganon Trials:
+      - Light Trial
+      - Fire Trial
+      - Water Trial
+
+    Small Key Ring (OoT): none
+    Small Key Ring (MM): none
+    Silver Rupee Pouches: none
+    Open Dungeons (MM): none
+    Open Dungeons (OoT): none
+    Pre-Activated Owl Statues: none
+    Master Quest Dungeons:
+      - Jabu-Jabu
+      - Fire Temple
+      - Water Temple
+      - Ice Cavern
+      - Gerudo Training Grounds
+      - Ganon's Castle
+
+    Majora's Mask JP Layouts: none
+
+  World 3
+    Ganon Trials:
+      - Light Trial
+      - Water Trial
+
+    Small Key Ring (OoT): none
+    Small Key Ring (MM): none
+    Silver Rupee Pouches: none
+    Open Dungeons (MM): none
+    Open Dungeons (OoT): none
+    Pre-Activated Owl Statues: none
+    Master Quest Dungeons:
+      - Deku Tree
+      - Jabu-Jabu
+      - Fire Temple
+      - Spirit Temple
+      - Ice Cavern
+      - Gerudo Training Grounds
+
+    Majora's Mask JP Layouts: none
+
+
+Entrances
+  World 1
+    OOT Market to OOT Market Mask Shop (OOT_SHOP_MASKS) -> OOT Market from OOT Market Mask Shop (OOT_MARKET_FROM_MASK_SHOP)
+
+  World 2
+    OOT Market to OOT Market Mask Shop (OOT_SHOP_MASKS) -> OOT Market from OOT Market Mask Shop (OOT_MARKET_FROM_MASK_SHOP)
+
+  World 3
+    OOT Market to OOT Market Mask Shop (OOT_SHOP_MASKS) -> OOT Market from OOT Market Mask Shop (OOT_MARKET_FROM_MASK_SHOP)
+
+
+Hints
+  World 1:
+    Way of the Hero:
+      OOT Death Mountain Trail Gossip Grotto          World 1 OOT MQ Dodongo Cavern Compass Chest Player 2 Nocturne of Shadow
+      OOT Death Mountain Trail Gossip on Climb        World 1 OOT Deku Theater Nuts Upgrade     Player 2 Progressive Strength (OoT)
+      OOT Gerudo Valley Gossip                        World 1 OOT Spirit Temple Statue Upper Right Player 1 Progressive Ocarina (OoT)
+      OOT Goron City Gossip Near Medigoron            World 1 OOT Desert Colossus Grotto Front Scrub Player 1 Progressive Strength (OoT)
+      OOT Graveyard Gossip                            World 1 OOT Treasure Chest Game HP        Player 1 Din's Fire (OoT)
+      OOT Hyrule Castle Gossip Before Moat            World 1 OOT Shadow Temple After Wind Invisible Player 1 Progressive Strength (OoT)
+      OOT Hyrule Field Gossip Near Castle Town        World 1 OOT Treasure Chest Game HP        Player 1 Din's Fire (OoT)
+      OOT Hyrule Field Gossip Southeast Grotto        World 1 OOT MQ Dodongo Cavern Compass Chest Player 2 Nocturne of Shadow
+      OOT Market Gossip Outside Temple Left-Center    World 1 OOT Shadow Temple After Wind Invisible Player 1 Progressive Strength (OoT)
+      OOT Market Gossip Outside Temple Right-Center   World 1 OOT Deku Theater Nuts Upgrade     Player 2 Progressive Strength (OoT)
+      OOT Sacred Meadow Gossip Atop Maze Temple Side  World 1 OOT MQ Dodongo Cavern Chest Under Grave Player 2 Saria's Song
+      OOT Sacred Meadow Gossip Near Forest Temple     World 1 OOT Spirit Temple Statue Upper Right Player 1 Progressive Ocarina (OoT)
+      OOT Zora Fountain Gossip Near Fairy             World 1 OOT MQ Dodongo Cavern Chest Under Grave Player 2 Saria's Song
+      OOT Zora Fountain Gossip Northwest              World 1 OOT Desert Colossus Grotto Front Scrub Player 1 Progressive Strength (OoT)
+
+    Foolish:
+      OOT Death Mountain Crater Gossip Grotto        World 1 Gerudo's Fortress
+      OOT Goron City Gossip Boulder Maze             World 1 Jabu-Jabu's Belly
+      OOT Hyrule Field Gossip Near Gerudo Valley     World 1 Hyrule Field
+      OOT Kokiri Gossip Near Lost Woods Open         World 1 Hyrule Field
+      OOT Lake Hylia Gossip Southeast Lake           World 1 Graveyard
+      OOT Lost Woods Gossip Grotto                   World 1 Ganon's Castle
+      OOT Lost Woods Gossip Under Bridge             World 1 Jabu-Jabu's Belly
+      OOT Market Gossip Outside Temple Leftmost      World 1 Gerudo's Fortress
+      OOT Sacred Meadow Gossip Atop Maze Woods Side  World 1 Graveyard
+      OOT Zora River Gossip Near Domain              World 1 Ganon's Castle
+
+    Specific Hints:
+      OOT Death Mountain Crater Gossip Wall     OOT Shadow Temple Skull          Player 3 Lens of Truth (OoT) (required)
+      OOT Hyrule Castle Gossip After Climb      OOT Zora River Frogs Game        Player 2 Farore's Wind (OoT) 
+      OOT Hyrule Field Gossip Near Lake Hylia   OOT Great Fairy Defense Upgrade  Player 3 5 Deku Nuts (OoT) (not required)
+      OOT Kakariko Gossip Grotto                OOT Zora River Frogs Game        Player 2 Farore's Wind (OoT) 
+      OOT Kokiri Gossip Left of Deku Tree       OOT Kakariko Song Shadow         Player 1 Requiem of Spirit (not required)
+      OOT Kokiri Gossip Near Lost Woods Grotto  OOT Kakariko Song Shadow         Player 1 Requiem of Spirit (not required)
+      OOT Lake Hylia Gossip Near River          OOT Shadow Temple Skull          Player 3 Lens of Truth (OoT) (required)
+      OOT Zora River Gossip High Pillar         OOT Great Fairy Defense Upgrade  Player 3 5 Deku Nuts (OoT) (not required)
+
+    Regional Hints:
+      OOT Desert Colossus Gossip                  World 3 Graveyard      Player 1 Progressive Hookshot (OoT) (required)
+      OOT Dodongo Cavern Gossip                   World 2 Hyrule Field   Player 1 Mirror Shield (OoT) (required)
+      OOT Hyrule Castle Gossip Grotto             World 3 Goron City     Player 1 Boss Key (Shadow Temple) (required)
+      OOT Kokiri Gossip Right of Deku Tree        World 3 Graveyard      Player 1 Progressive Hookshot (OoT) (required)
+      OOT Lake Hylia Gossip Southwest Lake        World 3 Goron City     Player 1 Boss Key (Shadow Temple) (required)
+      OOT Market Gossip Outside Temple Rightmost  World 2 Shadow Temple  Player 1 Iron Boots (OoT) (required)
+      OOT Zora Domain Gossip                      World 2 Hyrule Field   Player 1 Mirror Shield (OoT) (required)
+      OOT Zora River Gossip Grotto                World 2 Shadow Temple  Player 1 Iron Boots (OoT) (required)
+
+    Foolish Regions:
+      Ganon's Castle         : 20
+      Jabu-Jabu's Belly      : 13
+      Deku Tree              : 9
+      Graveyard              : 8
+      Zora's River           : 8
+      Hyrule Field           : 6
+      Sacred Forest Meadow   : 5
+      Zora's Fountain        : 3
+      Temple of Time         : 3
+      Hyrule Castle          : 2
+      Outside Ganon's Castle : 1
+      Gerudo's Fortress      : 1
+      Haunted Wasteland      : 1
+
+  World 2:
+    Way of the Hero:
+      OOT Death Mountain Crater Gossip Grotto         World 2 OOT Market Potion Shop Item 6   Player 2 Din's Fire (OoT)
+      OOT Death Mountain Trail Gossip Grotto          World 2 OOT Deku Tree Slingshot Chest   Player 2 Progressive Hookshot (OoT)
+      OOT Goron City Gossip Boulder Maze              World 2 OOT Forest Temple Bow           Player 1 Gerudo's Membership Card
+      OOT Graveyard Gossip                            World 2 OOT Deku Tree Slingshot Chest   Player 2 Progressive Hookshot (OoT)
+      OOT Hyrule Castle Gossip Before Moat            World 2 OOT Market Potion Shop Item 1   Player 3 Progressive Strength (OoT)
+      OOT Hyrule Field Gossip Near Lake Hylia         World 2 OOT Market Potion Shop Item 1   Player 3 Progressive Strength (OoT)
+      OOT Hyrule Field Gossip Southeast Grotto        World 2 OOT Forest Temple Well          Player 2 Hover Boots (OoT)
+      OOT Kakariko Gossip Grotto                      World 2 OOT Forest Temple Well          Player 2 Hover Boots (OoT)
+      OOT Kokiri Gossip Left of Deku Tree             World 2 OOT Market Potion Shop Item 6   Player 2 Din's Fire (OoT)
+      OOT Kokiri Gossip Near Lost Woods Grotto        World 2 OOT Forest Temple Bow           Player 1 Gerudo's Membership Card
+      OOT Lake Hylia Gossip Near River                World 2 OOT Spirit Temple Silver Gauntlets Player 3 Progressive Strength (OoT)
+      OOT Sacred Meadow Gossip Atop Maze Temple Side  World 2 OOT MQ Ganon Castle Water Trial Chest Player 1 Song of Storms (OoT)
+      OOT Zora Fountain Gossip Northwest              World 2 OOT Spirit Temple Silver Gauntlets Player 3 Progressive Strength (OoT)
+      OOT Zora River Gossip Grotto                    World 2 OOT MQ Ganon Castle Water Trial Chest Player 1 Song of Storms (OoT)
+
+    Foolish:
+      OOT Desert Colossus Gossip                     World 2 Hyrule Castle
+      OOT Dodongo Cavern Gossip                      World 2 Outside Ganon's Castle
+      OOT Hyrule Castle Gossip After Climb           World 2 Hyrule Castle
+      OOT Hyrule Castle Gossip Grotto                World 2 Outside Ganon's Castle
+      OOT Kokiri Gossip Right of Deku Tree           World 2 Temple of Time
+      OOT Market Gossip Outside Temple Leftmost      World 2 Temple of Time
+      OOT Sacred Meadow Gossip Atop Maze Woods Side  World 2 Kokiri Forest
+      OOT Sacred Meadow Gossip Near Forest Temple    World 2 Kokiri Forest
+      OOT Zora River Gossip High Pillar              World 2 Ice Cavern
+      OOT Zora River Gossip Near Domain              World 2 Ice Cavern
+
+    Specific Hints:
+      OOT Death Mountain Trail Gossip on Climb       OOT Death Mountain Crater Scrub Child    Player 2 Progressive Sword (OoT) (sometimes required)
+      OOT Hyrule Field Gossip Near Castle Town       OOT Fishing Pond Child                   Player 1 Progressive Sword (OoT) (sometimes required)
+                                                     OOT Fishing Pond Adult                   Player 1 Deku Stick Upgrade (OoT) 
+      OOT Hyrule Field Gossip Near Gerudo Valley     OOT Great Fairy Defense Upgrade          Player 3 Purple Rupee (OoT) 
+      OOT Lake Hylia Gossip Southeast Lake           OOT Fishing Pond Child                   Player 1 Progressive Sword (OoT) (sometimes required)
+                                                     OOT Fishing Pond Adult                   Player 1 Deku Stick Upgrade (OoT) 
+      OOT Lake Hylia Gossip Southwest Lake           OOT Zora River Frogs Game                Player 2 Stone of Agony (OoT) (required)
+      OOT Lost Woods Gossip Grotto                   OOT Great Fairy Defense Upgrade          Player 3 Purple Rupee (OoT) 
+      OOT Lost Woods Gossip Under Bridge             OOT Death Mountain Trail Prescription    Player 3 Piece of Heart (OoT) 
+                                                     OOT Death Mountain Trail Claim Check     Player 2 Heart Container (OoT) 
+                                                     OOT Death Mountain Trail Biggoron Sword  Player 1 Progressive Scale (Oot) (not required)
+      OOT Market Gossip Outside Temple Right-Center  OOT Death Mountain Trail Prescription    Player 3 Piece of Heart (OoT) 
+                                                     OOT Death Mountain Trail Claim Check     Player 2 Heart Container (OoT) 
+                                                     OOT Death Mountain Trail Biggoron Sword  Player 1 Progressive Scale (Oot) (not required)
+      OOT Market Gossip Outside Temple Rightmost     OOT Zora River Frogs Game                Player 2 Stone of Agony (OoT) (required)
+      OOT Zora Domain Gossip                         OOT Death Mountain Crater Scrub Child    Player 2 Progressive Sword (OoT) (sometimes required)
+
+    Regional Hints:
+      OOT Death Mountain Crater Gossip Wall         World 3 Gerudo Valley   Player 2 Progressive Hookshot (OoT) (required)
+      OOT Gerudo Valley Gossip                      World 3 Gerudo Valley   Player 2 Progressive Hookshot (OoT) (required)
+      OOT Goron City Gossip Near Medigoron          World 1 Kakariko        Player 2 Progressive Wallet (OoT) (required)
+      OOT Kokiri Gossip Near Lost Woods Open        World 1 Kakariko        Player 2 Progressive Wallet (OoT) (required)
+      OOT Market Gossip Outside Temple Left-Center  World 3 Ganon's Castle  Player 2 Song of Storms (OoT) (required)
+      OOT Zora Fountain Gossip Near Fairy           World 3 Ganon's Castle  Player 2 Song of Storms (OoT) (required)
+
+    Foolish Regions:
+      Kokiri Forest          : 14
+      Graveyard              : 8
+      Desert Colossus        : 5
+      Ice Cavern             : 5
+      Zora's Fountain        : 3
+      Temple of Time         : 3
+      Hyrule Castle          : 2
+      Outside Ganon's Castle : 1
+      Gerudo's Fortress      : 1
+      Haunted Wasteland      : 1
+
+  World 3:
+    Way of the Hero:
+      OOT Death Mountain Trail Gossip Grotto         World 3 OOT Market Potion Shop Item 7              Player 3 Progressive Scale (Oot)
+      OOT Desert Colossus Gossip                     World 3 OOT Zora River Storms Grotto Back Scrub    Player 3 Progressive Wallet (OoT)
+      OOT Gerudo Valley Gossip                       World 3 OOT Lon Lon Ranch Grotto Right Scrub       Player 1 Mask of Truth (OoT)
+      OOT Goron City Gossip Boulder Maze             World 3 OOT Mido's House Top Right                 Player 2 Lens of Truth (OoT)
+      OOT Goron City Gossip Near Medigoron           World 3 OOT Mido's House Top Right                 Player 2 Lens of Truth (OoT)
+      OOT Hyrule Field Gossip Near Gerudo Valley     World 3 OOT MQ Spirit Temple Dinolfos Room Chest   Player 2 Progressive Ocarina (OoT)
+      OOT Kokiri Gossip Near Lost Woods Open         World 3 OOT MQ Spirit Temple Dinolfos Room Chest   Player 2 Progressive Ocarina (OoT)
+      OOT Kokiri Gossip Right of Deku Tree           World 3 OOT Lon Lon Ranch Grotto Right Scrub       Player 1 Mask of Truth (OoT)
+      OOT Lake Hylia Gossip Near River               World 3 OOT MQ Gerudo Training Grounds Maze Second Chest Player 1 Light Arrows (OoT)
+      OOT Lost Woods Gossip Under Bridge             World 3 OOT Market Bazaar Item 5                   Player 1 Song of Time (OoT)
+      OOT Market Gossip Outside Temple Right-Center  World 3 OOT Market Potion Shop Item 7              Player 3 Progressive Scale (Oot)
+      OOT Market Gossip Outside Temple Rightmost     World 3 OOT Market Bazaar Item 5                   Player 1 Song of Time (OoT)
+      OOT Sacred Meadow Gossip Near Forest Temple    World 3 OOT Zora River Storms Grotto Back Scrub    Player 3 Progressive Wallet (OoT)
+      OOT Zora Domain Gossip                         World 3 OOT MQ Gerudo Training Grounds Maze Second Chest Player 1 Light Arrows (OoT)
+
+    Foolish:
+      OOT Death Mountain Crater Gossip Grotto       World 3 Fire Temple
+      OOT Death Mountain Crater Gossip Wall         World 3 Lake Hylia
+      OOT Death Mountain Trail Gossip on Climb      World 3 Hyrule Castle
+      OOT Hyrule Castle Gossip Grotto               World 3 Ice Cavern
+      OOT Hyrule Field Gossip Near Castle Town      World 3 Lake Hylia
+      OOT Hyrule Field Gossip Southeast Grotto      World 3 Hyrule Castle
+      OOT Lake Hylia Gossip Southwest Lake          World 3 Ice Cavern
+      OOT Market Gossip Outside Temple Left-Center  World 3 Shadow Temple
+      OOT Zora Fountain Gossip Northwest            World 3 Shadow Temple
+      OOT Zora River Gossip Grotto                  World 3 Fire Temple
+
+    Specific Hints:
+      OOT Dodongo Cavern Gossip                       OOT Zora Domain Tunic          Player 3 Empty Bottle (OoT) (not required)
+                                                      OOT Zora Domain Eyeball Frog   Player 1 Blue Rupee (OoT) 
+      OOT Graveyard Gossip                            OOT Forest Temple Floormaster  Player 1 Rupoor (OoT) 
+      OOT Hyrule Castle Gossip Before Moat            OOT Treasure Chest Game HP     Player 3 Heart Container (OoT) 
+      OOT Kokiri Gossip Left of Deku Tree             OOT Zora Domain Tunic          Player 3 Empty Bottle (OoT) (not required)
+                                                      OOT Zora Domain Eyeball Frog   Player 1 Blue Rupee (OoT) 
+      OOT Lake Hylia Gossip Southeast Lake            OOT Zora River Frogs Game      Player 2 5 Deku Nuts (OoT) (not required)
+      OOT Lost Woods Gossip Grotto                    OOT Treasure Chest Game HP     Player 3 Heart Container (OoT) 
+      OOT Sacred Meadow Gossip Atop Maze Temple Side  OOT Forest Temple Floormaster  Player 1 Rupoor (OoT) 
+      OOT Sacred Meadow Gossip Atop Maze Woods Side   OOT Zora River Frogs Game      Player 2 5 Deku Nuts (OoT) (not required)
+
+    Regional Hints:
+      OOT Hyrule Castle Gossip After Climb       World 2 Fire Temple    Player 3 Song of Storms (OoT) (required)
+      OOT Hyrule Field Gossip Near Lake Hylia    World 1 Kokiri Forest  Player 3 Zora Tunic (OoT) (sometimes required)
+      OOT Kakariko Gossip Grotto                 World 2 Fire Temple    Player 3 Song of Storms (OoT) (required)
+      OOT Kokiri Gossip Near Lost Woods Grotto   World 2 Goron City     Player 3 Progressive Wallet (OoT) (required)
+      OOT Market Gossip Outside Temple Leftmost  World 1 Kokiri Forest  Player 3 Zora Tunic (OoT) (sometimes required)
+      OOT Zora Fountain Gossip Near Fairy        World 2 Goron City     Player 3 Progressive Wallet (OoT) (required)
+      OOT Zora River Gossip High Pillar          World 1 Fire Temple    Player 3 Hover Boots (OoT) (required)
+      OOT Zora River Gossip Near Domain          World 1 Fire Temple    Player 3 Hover Boots (OoT) (required)
+
+    Foolish Regions:
+      Shadow Temple          : 18
+      Fire Temple            : 13
+      Lake Hylia             : 10
+      Death Mountain Crater  : 9
+      Ice Cavern             : 5
+      Temple of Time         : 3
+      Hyrule Castle          : 2
+      Outside Ganon's Castle : 1
+      Gerudo's Fortress      : 1
+
+
+Paths
+  Way of the Hero
+    World 1 OOT Bottom of the Well East: Player 3 Din's Fire (OoT)
+    World 1 OOT Death Mountain Crater Sheik Song: Player 3 Progressive Wallet (OoT)
+    World 1 OOT Deku Theater Nuts Upgrade: Player 2 Progressive Strength (OoT)
+    World 1 OOT Desert Colossus Grotto Front Scrub: Player 1 Progressive Strength (OoT)
+    World 1 OOT Dodongo Cavern Boss: Player 1 Forest Medallion
+    World 1 OOT Forest Temple Boss: Player 1 Water Medallion
+    World 1 OOT Ganon Castle SR Light Alcove Left: Player 1 Silver Rupee (Ganon's Castle - Light Trial)
+    World 1 OOT Ganon Castle SR Light Alcove Right: Player 1 Silver Rupee (Ganon's Castle - Light Trial)
+    World 1 OOT Ganon Castle SR Light Center Left: Player 1 Silver Rupee (Ganon's Castle - Light Trial)
+    World 1 OOT Ganon Castle SR Light Center Right: Player 1 Silver Rupee (Ganon's Castle - Light Trial)
+    World 1 OOT Ganon Castle SR Light Center Top: Player 1 Silver Rupee (Ganon's Castle - Light Trial)
+    World 1 OOT Ganon Castle SR Spirit Back Left: Player 1 Silver Rupee (Ganon's Castle - Spirit Trial)
+    World 1 OOT Ganon Castle SR Spirit Back Right: Player 1 Silver Rupee (Ganon's Castle - Spirit Trial)
+    World 1 OOT Ganon Castle SR Spirit Center Bottom: Player 1 Silver Rupee (Ganon's Castle - Spirit Trial)
+    World 1 OOT Ganon Castle SR Spirit Center Midair: Player 1 Silver Rupee (Ganon's Castle - Spirit Trial)
+    World 1 OOT Ganon Castle SR Spirit Front Right: Player 1 Silver Rupee (Ganon's Castle - Spirit Trial)
+    World 1 OOT Gerudo Valley Grotto Front Scrub: Player 1 Master Sword
+    World 1 OOT Goron Shop Item 8: Player 1 Stone of Agony (OoT)
+    World 1 OOT Ice Cavern Map: Player 1 Epona's Song (OoT)
+    World 1 OOT Ice Cavern SR Scythe Back: Player 1 Silver Rupee (Ice Cavern - Scythe)
+    World 1 OOT Ice Cavern SR Scythe Center Left: Player 1 Silver Rupee (Ice Cavern - Scythe)
+    World 1 OOT Ice Cavern SR Scythe Center Right: Player 1 Silver Rupee (Ice Cavern - Scythe)
+    World 1 OOT Ice Cavern SR Scythe Left: Player 1 Silver Rupee (Ice Cavern - Scythe)
+    World 1 OOT Ice Cavern SR Scythe Midair: Player 1 Silver Rupee (Ice Cavern - Scythe)
+    World 1 OOT Jabu-Jabu Boss: Player 1 Fire Medallion
+    World 1 OOT Kakariko Anju Egg: Player 2 Progressive Wallet (OoT)
+    World 1 OOT Kakariko Bazaar Item 2: Player 1 Megaton Hammer (OoT)
+    World 1 OOT Kakariko Bazaar Item 3: Player 3 Progressive Ocarina (OoT)
+    World 1 OOT Kakariko Grotto Front: Player 3 Boss Key (Water Temple)
+    World 1 OOT Kakariko Potion Shop Odd Potion: Player 3 Iron Boots (OoT)
+    World 1 OOT Kokiri Forest Kokiri Sword Chest: Player 2 Megaton Hammer (OoT)
+    World 1 OOT Kokiri Shop Item 1: Player 2 Progressive Wallet (OoT)
+    World 1 OOT Lon Lon Ranch Silo Cow Back: Player 1 Progressive Strength (OoT)
+    World 1 OOT Lost Woods Grotto Scrub Back: Player 2 Boss Key (Shadow Temple)
+    World 1 OOT MQ Dodongo Cavern Chest Under Grave: Player 2 Saria's Song
+    World 1 OOT MQ Dodongo Cavern Compass Chest: Player 2 Nocturne of Shadow
+    World 1 OOT MQ Dodongo Cavern Lobby Scrub Back: Player 3 Light Arrows (OoT)
+    World 1 OOT MQ Fire Temple 1f Lava Room Goron Chest: Player 3 Hover Boots (OoT)
+    World 1 OOT MQ Gerudo Training Grounds Entryway Left Chest: Player 3 Poacher's Saw
+    World 1 OOT Market Bombchu Shop Item 5: Player 3 Bottle of Milk (OoT)
+    World 1 OOT Shadow Temple After Wind Invisible: Player 1 Progressive Strength (OoT)
+    World 1 OOT Shadow Temple Boss: Player 1 Light Medallion
+    World 1 OOT Shadow Temple Hover Boots: Player 3 Mirror Shield (OoT)
+    World 1 OOT Shadow Temple SR Scythe 1: Player 1 Silver Rupee (Shadow Temple - Scythe)
+    World 1 OOT Shadow Temple SR Scythe 2: Player 1 Silver Rupee (Shadow Temple - Scythe)
+    World 1 OOT Shadow Temple SR Scythe 3: Player 1 Silver Rupee (Shadow Temple - Scythe)
+    World 1 OOT Shadow Temple SR Scythe 4: Player 1 Silver Rupee (Shadow Temple - Scythe)
+    World 1 OOT Shadow Temple SR Scythe 5: Player 1 Silver Rupee (Shadow Temple - Scythe)
+    World 1 OOT Shadow Temple SR Spikes Back Left: Player 1 Silver Rupee (Shadow Temple - Spikes)
+    World 1 OOT Shadow Temple SR Spikes Center: Player 1 Silver Rupee (Shadow Temple - Spikes)
+    World 1 OOT Shadow Temple SR Spikes Front Left: Player 1 Silver Rupee (Shadow Temple - Spikes)
+    World 1 OOT Shadow Temple SR Spikes Midair: Player 1 Silver Rupee (Shadow Temple - Spikes)
+    World 1 OOT Shadow Temple SR Spikes Right: Player 1 Silver Rupee (Shadow Temple - Spikes)
+    World 1 OOT Shadow Temple Silver Rupees: Player 2 Magic Upgrade (OoT)
+    World 1 OOT Shadow Temple Skull: Player 3 Lens of Truth (OoT)
+    World 1 OOT Spirit Temple Boss: Player 1 Spirit Medallion
+    World 1 OOT Spirit Temple Statue Upper Right: Player 1 Progressive Ocarina (OoT)
+    World 1 OOT Treasure Chest Game HP: Player 1 Din's Fire (OoT)
+    World 1 OOT Water Temple Boss: Player 1 Shadow Medallion
+    World 1 OOT Windmill HP: Player 3 Stone of Agony (OoT)
+    World 1 OOT Zora Shop Item 3: Player 1 Boss Key (Forest Temple)
+    World 2 OOT Bottom of the Well Back West: Player 3 Boss Key (Shadow Temple)
+    World 2 OOT Bottom of the Well Front West: Player 2 Master Sword
+    World 2 OOT Bottom of the Well Underwater 2: Player 2 Progressive Strength (OoT)
+    World 2 OOT Death Mountain Crater Alcove HP: Player 1 Progressive Wallet (OoT)
+    World 2 OOT Death Mountain Crater Grotto Left Scrub: Player 2 Boss Key (Forest Temple)
+    World 2 OOT Deku Theater Nuts Upgrade: Player 2 Sun's Song (OoT)
+    World 2 OOT Deku Tree Boss Container: Player 3 Master Sword
+    World 2 OOT Deku Tree Map Chest: Player 3 Nocturne of Shadow
+    World 2 OOT Deku Tree Slingshot Chest: Player 2 Progressive Hookshot (OoT)
+    World 2 OOT Dodongo Cavern Boss: Player 2 Shadow Medallion
+    World 2 OOT Dodongo Cavern Bridge Chest: Player 3 Gerudo's Membership Card
+    World 2 OOT Dodongo Cavern Lobby Scrub: Player 1 Hover Boots (OoT)
+    World 2 OOT Forest Temple Boss: Player 2 Light Medallion
+    World 2 OOT Forest Temple Bow: Player 1 Gerudo's Membership Card
+    World 2 OOT Forest Temple Well: Player 2 Hover Boots (OoT)
+    World 2 OOT Gerudo Valley Waterfall HP: Player 1 Boomerang
+    World 2 OOT Goron Shop Item 2: Player 3 Progressive Wallet (OoT)
+    World 2 OOT Hyrule Field Cow: Player 1 Mirror Shield (OoT)
+    World 2 OOT Jabu-Jabu Boss: Player 2 Forest Medallion
+    World 2 OOT Kakariko Anju Egg: Player 2 Boomerang
+    World 2 OOT Kakariko Bazaar Item 3: Player 1 Odd Mushroom
+    World 2 OOT Lost Woods Poacher's Saw: Player 2 Mirror Shield (OoT)
+    World 2 OOT MQ Fire Temple Early Lower Left Chest: Player 2 Gerudo's Membership Card
+    World 2 OOT MQ Fire Temple Maze Upper Chest: Player 3 Song of Storms (OoT)
+    World 2 OOT MQ Ganon Castle SR Fire Back-Left: Player 2 Silver Rupee (Ganon's Castle - Fire Trial)
+    World 2 OOT MQ Ganon Castle SR Fire Center-Left: Player 2 Silver Rupee (Ganon's Castle - Fire Trial)
+    World 2 OOT MQ Ganon Castle SR Fire Front-Left: Player 2 Silver Rupee (Ganon's Castle - Fire Trial)
+    World 2 OOT MQ Ganon Castle SR Fire High Above Lava: Player 2 Silver Rupee (Ganon's Castle - Fire Trial)
+    World 2 OOT MQ Ganon Castle SR Fire Under Pillar: Player 2 Silver Rupee (Ganon's Castle - Fire Trial)
+    World 2 OOT MQ Ganon Castle SR Water Above Ground: Player 2 Silver Rupee (Ganon's Castle - Water Trial)
+    World 2 OOT MQ Ganon Castle SR Water Alcove: Player 2 Silver Rupee (Ganon's Castle - Water Trial)
+    World 2 OOT MQ Ganon Castle SR Water Deep Hole: Player 2 Silver Rupee (Ganon's Castle - Water Trial)
+    World 2 OOT MQ Ganon Castle SR Water Shallow Hole: Player 2 Silver Rupee (Ganon's Castle - Water Trial)
+    World 2 OOT MQ Ganon Castle SR Water Under Alcove: Player 2 Silver Rupee (Ganon's Castle - Water Trial)
+    World 2 OOT MQ Ganon Castle Spirit Trial Back Right Sun Chest: Player 3 Boss Key (Fire Temple)
+    World 2 OOT MQ Ganon Castle Water Trial Chest: Player 1 Song of Storms (OoT)
+    World 2 OOT MQ Gerudo Training Grounds Maze Right Side Middle Chest: Player 3 Zelda's Lullaby
+    World 2 OOT MQ Gerudo Training Grounds SR Slopes Front-Left: Player 2 Silver Rupee (Gerudo Training Ground - Slopes)
+    World 2 OOT MQ Gerudo Training Grounds SR Slopes Front-Right: Player 2 Silver Rupee (Gerudo Training Ground - Slopes)
+    World 2 OOT MQ Gerudo Training Grounds SR Slopes Front: Player 2 Silver Rupee (Gerudo Training Ground - Slopes)
+    World 2 OOT MQ Gerudo Training Grounds SR Slopes Middle: Player 2 Silver Rupee (Gerudo Training Ground - Slopes)
+    World 2 OOT MQ Gerudo Training Grounds SR Slopes Top Right: Player 2 Silver Rupee (Gerudo Training Ground - Slopes)
+    World 2 OOT MQ Jabu-Jabu Map Chest: Player 2 Mask of Truth (OoT)
+    World 2 OOT MQ Jabu-Jabu Pre-Boss Chest: Player 3 Megaton Hammer (OoT)
+    World 2 OOT MQ Jabu-Jabu SoT Room Lower Chest: Player 3 Progressive Strength (OoT)
+    World 2 OOT Market Bazaar Item 1: Player 2 Light Arrows (OoT)
+    World 2 OOT Market Bombchu Shop Item 1: Player 2 Song of Time (OoT)
+    World 2 OOT Market Bombchu Shop Item 3: Player 1 Nocturne of Shadow
+    World 2 OOT Market Potion Shop Item 1: Player 3 Progressive Strength (OoT)
+    World 2 OOT Market Potion Shop Item 6: Player 2 Din's Fire (OoT)
+    World 2 OOT Sacred Meadow Storms Grotto Back Scrub: Player 2 Progressive Strength (OoT)
+    World 2 OOT Shadow Temple Boss Key Room 2: Player 1 Iron Boots (OoT)
+    World 2 OOT Shadow Temple Boss: Player 2 Fire Medallion
+    World 2 OOT Shadow Temple Hover Boots: Player 1 Boss Key (Water Temple)
+    World 2 OOT Spirit Temple Boss: Player 2 Water Medallion
+    World 2 OOT Spirit Temple Silver Gauntlets: Player 3 Progressive Strength (OoT)
+    World 2 OOT Temple of Time Medallion: Player 2 Spirit Medallion
+    World 2 OOT Zora River Bean Seller: Player 2 Zelda's Lullaby
+    World 2 OOT Zora River Frogs Game: Player 2 Stone of Agony (OoT)
+    World 3 OOT Deku Tree Boss: Player 3 Fire Medallion
+    World 3 OOT Desert Colossus Grotto Front Scrub: Player 1 Boss Key (Spirit Temple)
+    World 3 OOT Dodongo Cavern Boss: Player 3 Water Medallion
+    World 3 OOT Fire Temple Boss: Player 3 Shadow Medallion
+    World 3 OOT Ganon Castle SR Light Alcove Left: Player 3 Silver Rupee (Ganon's Castle - Light Trial)
+    World 3 OOT Ganon Castle SR Light Alcove Right: Player 3 Silver Rupee (Ganon's Castle - Light Trial)
+    World 3 OOT Ganon Castle SR Light Center Left: Player 3 Silver Rupee (Ganon's Castle - Light Trial)
+    World 3 OOT Ganon Castle SR Light Center Right: Player 3 Silver Rupee (Ganon's Castle - Light Trial)
+    World 3 OOT Ganon Castle SR Light Center Top: Player 3 Silver Rupee (Ganon's Castle - Light Trial)
+    World 3 OOT Ganon Castle SR Spirit Back Left: Player 3 Silver Rupee (Ganon's Castle - Spirit Trial)
+    World 3 OOT Ganon Castle SR Spirit Back Right: Player 3 Silver Rupee (Ganon's Castle - Spirit Trial)
+    World 3 OOT Ganon Castle SR Spirit Center Bottom: Player 3 Silver Rupee (Ganon's Castle - Spirit Trial)
+    World 3 OOT Ganon Castle SR Spirit Center Midair: Player 3 Silver Rupee (Ganon's Castle - Spirit Trial)
+    World 3 OOT Ganon Castle SR Spirit Front Right: Player 3 Silver Rupee (Ganon's Castle - Spirit Trial)
+    World 3 OOT Ganon Castle Spirit Chest 1: Player 2 Song of Storms (OoT)
+    World 3 OOT Gerudo Valley Broken Goron Sword: Player 1 Progressive Ocarina (OoT)
+    World 3 OOT Gerudo Valley Chest: Player 2 Progressive Hookshot (OoT)
+    World 3 OOT Goron City Grotto Right Scrub: Player 1 Boss Key (Shadow Temple)
+    World 3 OOT Graveyard Dampe Tomb Reward 1: Player 1 Progressive Hookshot (OoT)
+    World 3 OOT Hyrule Field Grotto Open: Player 3 Progressive Hookshot (OoT)
+    World 3 OOT Kakariko Anju Bottle: Player 1 Lens of Truth (OoT)
+    World 3 OOT Kakariko Potion Shop Item 6: Player 1 Progressive Hookshot (OoT)
+    World 3 OOT Lon Lon Ranch Grotto Right Scrub: Player 1 Mask of Truth (OoT)
+    World 3 OOT MQ Deku Tree Before Water Platform Chest: Player 1 Progressive Wallet (OoT)
+    World 3 OOT MQ Gerudo Training Grounds Maze Second Chest: Player 1 Light Arrows (OoT)
+    World 3 OOT MQ Gerudo Training Grounds Maze Third Chest: Player 3 Song of Time (OoT)
+    World 3 OOT MQ Gerudo Training Grounds SR Slopes Front-Left: Player 3 Silver Rupee (Gerudo Training Ground - Slopes)
+    World 3 OOT MQ Gerudo Training Grounds SR Slopes Front-Right: Player 3 Silver Rupee (Gerudo Training Ground - Slopes)
+    World 3 OOT MQ Gerudo Training Grounds SR Slopes Front: Player 3 Silver Rupee (Gerudo Training Ground - Slopes)
+    World 3 OOT MQ Gerudo Training Grounds SR Slopes Middle: Player 3 Silver Rupee (Gerudo Training Ground - Slopes)
+    World 3 OOT MQ Gerudo Training Grounds SR Slopes Top Right: Player 3 Silver Rupee (Gerudo Training Ground - Slopes)
+    World 3 OOT MQ Gerudo Training Grounds Torch Slug Room Switch Chest: Player 2 Odd Potion
+    World 3 OOT MQ Jabu-Jabu Map Chest: Player 2 Boss Key (Spirit Temple)
+    World 3 OOT MQ Jabu-Jabu Third Room East Chest: Player 2 Progressive Ocarina (OoT)
+    World 3 OOT MQ Spirit Temple Dinolfos Room Chest: Player 2 Progressive Ocarina (OoT)
+    World 3 OOT MQ Spirit Temple SR Adult Bottom-Center: Player 3 Silver Rupee (Spirit Temple - Adult)
+    World 3 OOT MQ Spirit Temple SR Adult Bottom: Player 3 Silver Rupee (Spirit Temple - Adult)
+    World 3 OOT MQ Spirit Temple SR Adult Center-Top: Player 3 Silver Rupee (Spirit Temple - Adult)
+    World 3 OOT MQ Spirit Temple SR Adult Skulltula: Player 3 Silver Rupee (Spirit Temple - Adult)
+    World 3 OOT MQ Spirit Temple SR Adult Top: Player 3 Silver Rupee (Spirit Temple - Adult)
+    World 3 OOT Market Bazaar Item 5: Player 1 Song of Time (OoT)
+    World 3 OOT Market Bombchu Shop Item 8: Player 1 Zelda's Lullaby
+    World 3 OOT Market Dog Lady HP: Player 3 Boss Key (Spirit Temple)
+    World 3 OOT Market Potion Shop Item 7: Player 3 Progressive Scale (Oot)
+    World 3 OOT Mido's House Top Right: Player 2 Lens of Truth (OoT)
+    World 3 OOT Shadow Temple Boss: Player 3 Forest Medallion
+    World 3 OOT Spirit Temple Boss: Player 3 Spirit Medallion
+    World 3 OOT Water Temple Boss: Player 3 Light Medallion
+    World 3 OOT Windmill Song of Storms: Player 3 Progressive Hookshot (OoT)
+    World 3 OOT Zelda's Song: Player 1 Magic Upgrade (OoT)
+    World 3 OOT Zora Fountain Bottom HP: Player 2 Epona's Song (OoT)
+    World 3 OOT Zora River Storms Grotto Back Scrub: Player 3 Progressive Wallet (OoT)
+
+
+===========================================================================
+Spheres
+  Sphere 0
+    Event - World 1 Time Travel
+    Event - World 2 Time Travel
+    Event - World 3 Time Travel
+    Location - World 1 OOT Kokiri Forest Kokiri Sword Chest: Player 2 Megaton Hammer (OoT)
+    Location - World 1 OOT Mido's House Bottom Left: Player 3 Goron Tunic (OoT)
+    Location - World 2 OOT Deku Tree Map Chest: Player 3 Nocturne of Shadow
+    Location - World 2 OOT Gerudo Valley Waterfall HP: Player 1 Boomerang
+    Location - World 2 OOT Kakariko Impa House HP: Player 3 Fairy Slingshot
+    Location - World 2 OOT Market Bazaar Item 1: Player 2 Light Arrows (OoT)
+    Location - World 2 OOT Market Bombchu Shop Item 1: Player 2 Song of Time (OoT)
+    Location - World 3 OOT Hyrule Field Grotto Open: Player 3 Progressive Hookshot (OoT)
+    Location - World 3 OOT Kakariko Anju Bottle: Player 1 Lens of Truth (OoT)
+    Location - World 3 OOT Kakariko Grotto Back: Player 1 Cojiro
+    Location - World 3 OOT Lon Lon Ranch Silo HP: Player 2 Goron Tunic (OoT)
+    Location - World 3 OOT Market Bombchu Shop Item 8: Player 1 Zelda's Lullaby
+    Location - World 3 OOT Market Dog Lady HP: Player 3 Boss Key (Spirit Temple)
+    Location - World 3 OOT Market Potion Shop Item 8: Player 2 Iron Boots (OoT)
+    Location - World 3 OOT Mido's House Top Right: Player 2 Lens of Truth (OoT)
+    Location - World 3 OOT Saria's Song: Player 3 Fairy Bow (OoT)
+    Location - World 3 OOT Zelda's Song: Player 1 Magic Upgrade (OoT)
+
+  Sphere 1
+    Location - World 1 OOT Death Mountain Crater Alcove HP: Player 2 Bomb Bag (OoT)
+    Location - World 1 OOT Kakariko Anju Egg: Player 2 Progressive Wallet (OoT)
+    Location - World 1 OOT Lake Hylia Grotto Left Scrub: Player 3 Deku Shield (OoT)
+    Location - World 1 OOT Lost Woods Odd Mushroom: Player 3 Magic Upgrade (OoT)
+    Location - World 1 OOT Treasure Chest Game HP: Player 1 Din's Fire (OoT)
+    Location - World 1 OOT Windmill HP: Player 3 Stone of Agony (OoT)
+    Location - World 2 OOT Death Mountain Crater Alcove HP: Player 1 Progressive Wallet (OoT)
+    Location - World 2 OOT Death Mountain Crater Scrub Child: Player 2 Progressive Sword (OoT)
+    Location - World 2 OOT Dodongo Cavern Lobby Scrub: Player 1 Hover Boots (OoT)
+    Location - World 2 OOT Kakariko Anju Egg: Player 2 Boomerang
+    Location - World 2 OOT Kakariko Bazaar Item 3: Player 1 Odd Mushroom
+    Location - World 2 OOT Lon Lon Ranch Grotto Left Scrub: Player 1 Goron Tunic (OoT)
+    Location - World 2 OOT Lost Woods Scrub Near Theater Right: Player 2 Fairy Slingshot
+    Location - World 2 OOT Temple of Time Medallion: Player 2 Spirit Medallion
+    Location - World 3 OOT Goron City Grotto Right Scrub: Player 1 Boss Key (Shadow Temple)
+    Location - World 3 OOT Goron Shop Item 1: Player 3 Bomb Bag (OoT)
+    Location - World 3 OOT Graveyard Dampe Tomb Reward 1: Player 1 Progressive Hookshot (OoT)
+    Location - World 3 OOT Kakariko Potion Shop Item 6: Player 1 Progressive Hookshot (OoT)
+    Location - World 3 OOT Lon Lon Ranch Grotto Right Scrub: Player 1 Mask of Truth (OoT)
+    Location - World 3 OOT Lost Woods Scrub Sticks Upgrade: Player 2 Deku Shield (OoT)
+    Location - World 3 OOT MQ Deku Tree Before Water Platform Chest: Player 1 Progressive Wallet (OoT)
+
+  Sphere 2
+    Event - World 2 Beat Gohma
+    Event - World 2 Beat King Dodongo
+    Event - World 3 Beat Gohma
+    Event - World 3 Beat King Dodongo
+    Location - World 1 OOT Death Mountain Crater Sheik Song: Player 3 Progressive Wallet (OoT)
+    Location - World 1 OOT Deku Theater Nuts Upgrade: Player 2 Progressive Strength (OoT)
+    Location - World 1 OOT Goron Shop Item 8: Player 1 Stone of Agony (OoT)
+    Location - World 1 OOT Kakariko Bazaar Item 2: Player 1 Megaton Hammer (OoT)
+    Location - World 1 OOT Kakariko Bazaar Item 3: Player 3 Progressive Ocarina (OoT)
+    Location - World 1 OOT Kakariko Potion Shop Odd Potion: Player 3 Iron Boots (OoT)
+    Location - World 1 OOT Kokiri Shop Item 1: Player 2 Progressive Wallet (OoT)
+    Location - World 1 OOT Kokiri Shop Item 6: Player 3 Zora Tunic (OoT)
+    Location - World 1 OOT Kokiri Shop Item 8: Player 1 Bomb Bag (OoT)
+    Location - World 1 OOT Market Bombchu Shop Item 5: Player 3 Bottle of Milk (OoT)
+    Location - World 2 OOT Death Mountain Crater Grotto Center Scrub: Player 2 Bottle of Milk (OoT)
+    Location - World 2 OOT Death Mountain Crater Grotto Left Scrub: Player 2 Boss Key (Forest Temple)
+    Location - World 2 OOT Deku Tree Slingshot Chest: Player 2 Progressive Hookshot (OoT)
+    Location - World 2 OOT Dodongo Cavern Bridge Chest: Player 3 Gerudo's Membership Card
+    Location - World 2 OOT Goron Shop Item 2: Player 3 Progressive Wallet (OoT)
+    Location - World 2 OOT Kakariko Bazaar Item 4: Player 2 Zora Tunic (OoT)
+    Location - World 2 OOT Market Bombchu Shop Item 6: Player 3 Requiem of Spirit
+    Location - World 2 OOT Market Potion Shop Item 1: Player 3 Progressive Strength (OoT)
+    Location - World 2 OOT Market Potion Shop Item 6: Player 2 Din's Fire (OoT)
+    Location - World 2 OOT Zora River Bean Seller: Player 2 Zelda's Lullaby
+
+  Sphere 3
+    Event - World 1 Beat King Dodongo
+    Location - World 1 OOT Kakariko Grotto Front: Player 3 Boss Key (Water Temple)
+    Location - World 1 OOT Lost Woods Grotto Scrub Back: Player 2 Boss Key (Shadow Temple)
+    Location - World 1 OOT MQ Dodongo Cavern Chest Under Grave: Player 2 Saria's Song
+    Location - World 1 OOT MQ Dodongo Cavern Compass Chest: Player 2 Nocturne of Shadow
+    Location - World 1 OOT MQ Dodongo Cavern Lobby Scrub Back: Player 3 Light Arrows (OoT)
+    Location - World 1 OOT MQ Fire Temple 1f Lava Room Goron Chest: Player 3 Hover Boots (OoT)
+    Location - World 2 OOT Deku Tree Boss Container: Player 3 Master Sword
+    Location - World 2 OOT Dodongo Cavern Boss Container: Player 1 Bottle of Milk (OoT)
+    Location - World 2 OOT Dodongo Cavern Boss: Player 2 Shadow Medallion
+    Location - World 2 OOT MQ Fire Temple Early Lower Left Chest: Player 2 Gerudo's Membership Card
+    Location - World 2 OOT Market Bombchu Shop Item 3: Player 1 Nocturne of Shadow
+    Location - World 3 OOT Deku Tree Boss: Player 3 Fire Medallion
+    Location - World 3 OOT Dodongo Cavern Boss: Player 3 Water Medallion
+    Location - World 3 OOT MQ Gerudo Training Grounds Maze Second Chest: Player 1 Light Arrows (OoT)
+    Location - World 3 OOT MQ Gerudo Training Grounds Maze Third Chest: Player 3 Song of Time (OoT)
+    Location - World 3 OOT Market Potion Shop Item 7: Player 3 Progressive Scale (Oot)
+    Location - World 3 OOT Windmill Song of Storms: Player 3 Progressive Hookshot (OoT)
+
+  Sphere 4
+    Event - World 3 Beat Morpha
+    Location - World 1 OOT Dodongo Cavern Boss: Player 1 Forest Medallion
+    Location - World 3 OOT MQ Jabu-Jabu Map Chest: Player 2 Boss Key (Spirit Temple)
+    Location - World 3 OOT MQ Jabu-Jabu Third Room East Chest: Player 2 Progressive Ocarina (OoT)
+
+  Sphere 5
+    Event - World 2 Beat Barinade
+    Location - World 2 OOT Forest Temple Well: Player 2 Hover Boots (OoT)
+    Location - World 2 OOT MQ Jabu-Jabu Map Chest: Player 2 Mask of Truth (OoT)
+    Location - World 2 OOT MQ Jabu-Jabu Pre-Boss Chest: Player 3 Megaton Hammer (OoT)
+    Location - World 2 OOT MQ Jabu-Jabu SoT Room Lower Chest: Player 3 Progressive Strength (OoT)
+    Location - World 3 OOT Water Temple Boss: Player 3 Light Medallion
+
+  Sphere 6
+    Location - World 2 OOT Deku Theater Nuts Upgrade: Player 2 Sun's Song (OoT)
+    Location - World 2 OOT Jabu-Jabu Boss: Player 2 Forest Medallion
+    Location - World 3 OOT Desert Colossus Grotto Front Scrub: Player 1 Boss Key (Spirit Temple)
+    Location - World 3 OOT Gerudo Valley Chest: Player 2 Progressive Hookshot (OoT)
+    Location - World 3 OOT MQ Spirit Temple Dinolfos Room Chest: Player 2 Progressive Ocarina (OoT)
+    Location - World 3 OOT MQ Spirit Temple SR Adult Bottom-Center: Player 3 Silver Rupee (Spirit Temple - Adult)
+    Location - World 3 OOT MQ Spirit Temple SR Adult Bottom: Player 3 Silver Rupee (Spirit Temple - Adult)
+    Location - World 3 OOT MQ Spirit Temple SR Adult Center-Top: Player 3 Silver Rupee (Spirit Temple - Adult)
+    Location - World 3 OOT MQ Spirit Temple SR Adult Skulltula: Player 3 Silver Rupee (Spirit Temple - Adult)
+    Location - World 3 OOT MQ Spirit Temple SR Adult Top: Player 3 Silver Rupee (Spirit Temple - Adult)
+
+  Sphere 7
+    Location - World 2 OOT Bottom of the Well Underwater 2: Player 2 Progressive Strength (OoT)
+    Location - World 2 OOT Forest Temple Bow: Player 1 Gerudo's Membership Card
+
+  Sphere 8
+    Location - World 1 OOT MQ Gerudo Training Grounds Entryway Left Chest: Player 3 Poacher's Saw
+
+  Sphere 9
+    Location - World 3 OOT Gerudo Valley Broken Goron Sword: Player 1 Progressive Ocarina (OoT)
+
+  Sphere 10
+    Location - World 1 OOT Great Fairy Magic Upgrade: Player 1 Fairy Slingshot
+    Location - World 1 OOT Ice Cavern SR Scythe Back: Player 1 Silver Rupee (Ice Cavern - Scythe)
+    Location - World 1 OOT Ice Cavern SR Scythe Center Left: Player 1 Silver Rupee (Ice Cavern - Scythe)
+    Location - World 1 OOT Ice Cavern SR Scythe Center Right: Player 1 Silver Rupee (Ice Cavern - Scythe)
+    Location - World 1 OOT Ice Cavern SR Scythe Left: Player 1 Silver Rupee (Ice Cavern - Scythe)
+    Location - World 1 OOT Ice Cavern SR Scythe Midair: Player 1 Silver Rupee (Ice Cavern - Scythe)
+    Location - World 1 OOT Shadow Temple After Wind Invisible: Player 1 Progressive Strength (OoT)
+    Location - World 1 OOT Shadow Temple SR Scythe 1: Player 1 Silver Rupee (Shadow Temple - Scythe)
+    Location - World 1 OOT Shadow Temple SR Scythe 2: Player 1 Silver Rupee (Shadow Temple - Scythe)
+    Location - World 1 OOT Shadow Temple SR Scythe 3: Player 1 Silver Rupee (Shadow Temple - Scythe)
+    Location - World 1 OOT Shadow Temple SR Scythe 4: Player 1 Silver Rupee (Shadow Temple - Scythe)
+    Location - World 1 OOT Shadow Temple SR Scythe 5: Player 1 Silver Rupee (Shadow Temple - Scythe)
+    Location - World 1 OOT Shadow Temple SR Spikes Back Left: Player 1 Silver Rupee (Shadow Temple - Spikes)
+    Location - World 1 OOT Shadow Temple SR Spikes Center: Player 1 Silver Rupee (Shadow Temple - Spikes)
+    Location - World 1 OOT Shadow Temple SR Spikes Front Left: Player 1 Silver Rupee (Shadow Temple - Spikes)
+    Location - World 1 OOT Shadow Temple SR Spikes Midair: Player 1 Silver Rupee (Shadow Temple - Spikes)
+    Location - World 1 OOT Shadow Temple SR Spikes Right: Player 1 Silver Rupee (Shadow Temple - Spikes)
+    Location - World 1 OOT Zora Shop Item 3: Player 1 Boss Key (Forest Temple)
+
+  Sphere 11
+    Event - World 1 Beat Barinade
+    Location - World 1 OOT Ice Cavern Map: Player 1 Epona's Song (OoT)
+    Location - World 1 OOT Shadow Temple Silver Rupees: Player 2 Magic Upgrade (OoT)
+    Location - World 1 OOT Shadow Temple Skull: Player 3 Lens of Truth (OoT)
+
+  Sphere 12
+    Event - World 2 Beat Bongo-Bongo
+    Location - World 1 OOT Jabu-Jabu Boss: Player 1 Fire Medallion
+    Location - World 1 OOT Lon Lon Ranch Silo Cow Back: Player 1 Progressive Strength (OoT)
+    Location - World 2 OOT Bottom of the Well Back West: Player 3 Boss Key (Shadow Temple)
+    Location - World 2 OOT Bottom of the Well Front West: Player 2 Master Sword
+    Location - World 2 OOT MQ Fire Temple Maze Upper Chest: Player 3 Song of Storms (OoT)
+    Location - World 2 OOT MQ Gerudo Training Grounds SR Slopes Front-Left: Player 2 Silver Rupee (Gerudo Training Ground - Slopes)
+    Location - World 2 OOT MQ Gerudo Training Grounds SR Slopes Front-Right: Player 2 Silver Rupee (Gerudo Training Ground - Slopes)
+    Location - World 2 OOT MQ Gerudo Training Grounds SR Slopes Front: Player 2 Silver Rupee (Gerudo Training Ground - Slopes)
+    Location - World 2 OOT MQ Gerudo Training Grounds SR Slopes Middle: Player 2 Silver Rupee (Gerudo Training Ground - Slopes)
+    Location - World 2 OOT MQ Gerudo Training Grounds SR Slopes Top Right: Player 2 Silver Rupee (Gerudo Training Ground - Slopes)
+    Location - World 2 OOT MQ Water Temple Compass Chest: Player 1 Fairy Bow (OoT)
+    Location - World 2 OOT Shadow Temple Boss Key Room 2: Player 1 Iron Boots (OoT)
+    Location - World 2 OOT Shadow Temple Hover Boots: Player 1 Boss Key (Water Temple)
+    Location - World 2 OOT Spirit Temple Silver Gauntlets: Player 3 Progressive Strength (OoT)
+
+  Sphere 13
+    Location - World 1 OOT Desert Colossus Grotto Front Scrub: Player 1 Progressive Strength (OoT)
+    Location - World 1 OOT Spirit Temple Statue Upper Right: Player 1 Progressive Ocarina (OoT)
+    Location - World 2 OOT MQ Gerudo Training Grounds Maze Right Side Middle Chest: Player 3 Zelda's Lullaby
+    Location - World 2 OOT MQ Gerudo Training Grounds Torch Slug Room Clear Chest: Player 2 Fairy Bow (OoT)
+    Location - World 2 OOT Shadow Temple Boss: Player 2 Fire Medallion
+    Location - World 3 OOT Zora River Storms Grotto Back Scrub: Player 3 Progressive Wallet (OoT)
+
+  Sphere 14
+    Event - World 2 Beat Phantom Ganon
+    Location - World 3 OOT Market Bazaar Item 5: Player 1 Song of Time (OoT)
+    Location - World 3 OOT Zora Fountain Bottom HP: Player 2 Epona's Song (OoT)
+
+  Sphere 15
+    Location - World 1 OOT Bottom of the Well East: Player 3 Din's Fire (OoT)
+    Location - World 2 OOT Forest Temple Boss: Player 2 Light Medallion
+
+  Sphere 16
+    Event - World 3 Beat Bongo-Bongo
+    Location - World 3 OOT Haunted Wasteland Chest: Player 1 Zora Tunic (OoT)
+    Location - World 3 OOT MQ Gerudo Training Grounds SR Slopes Front-Left: Player 3 Silver Rupee (Gerudo Training Ground - Slopes)
+    Location - World 3 OOT MQ Gerudo Training Grounds SR Slopes Front-Right: Player 3 Silver Rupee (Gerudo Training Ground - Slopes)
+    Location - World 3 OOT MQ Gerudo Training Grounds SR Slopes Front: Player 3 Silver Rupee (Gerudo Training Ground - Slopes)
+    Location - World 3 OOT MQ Gerudo Training Grounds SR Slopes Middle: Player 3 Silver Rupee (Gerudo Training Ground - Slopes)
+    Location - World 3 OOT MQ Gerudo Training Grounds SR Slopes Top Right: Player 3 Silver Rupee (Gerudo Training Ground - Slopes)
+
+  Sphere 17
+    Location - World 3 OOT MQ Gerudo Training Grounds Torch Slug Room Switch Chest: Player 2 Odd Potion
+    Location - World 3 OOT Shadow Temple Boss: Player 3 Forest Medallion
+
+  Sphere 18
+    Location - World 2 OOT Lost Woods Poacher's Saw: Player 2 Mirror Shield (OoT)
+
+  Sphere 19
+    Event - World 2 Beat Twinrova
+
+  Sphere 20
+    Location - World 2 OOT Spirit Temple Boss: Player 2 Water Medallion
+
+  Sphere 21
+    Event - World 2 Rainbow Bridge
+
+  Sphere 22
+    Location - World 2 OOT MQ Ganon Castle SR Fire Back-Left: Player 2 Silver Rupee (Ganon's Castle - Fire Trial)
+    Location - World 2 OOT MQ Ganon Castle SR Fire Center-Left: Player 2 Silver Rupee (Ganon's Castle - Fire Trial)
+    Location - World 2 OOT MQ Ganon Castle SR Fire Front-Left: Player 2 Silver Rupee (Ganon's Castle - Fire Trial)
+    Location - World 2 OOT MQ Ganon Castle SR Fire High Above Lava: Player 2 Silver Rupee (Ganon's Castle - Fire Trial)
+    Location - World 2 OOT MQ Ganon Castle SR Water Above Ground: Player 2 Silver Rupee (Ganon's Castle - Water Trial)
+    Location - World 2 OOT MQ Ganon Castle SR Water Alcove: Player 2 Silver Rupee (Ganon's Castle - Water Trial)
+    Location - World 2 OOT MQ Ganon Castle SR Water Deep Hole: Player 2 Silver Rupee (Ganon's Castle - Water Trial)
+    Location - World 2 OOT MQ Ganon Castle SR Water Shallow Hole: Player 2 Silver Rupee (Ganon's Castle - Water Trial)
+    Location - World 2 OOT MQ Ganon Castle SR Water Under Alcove: Player 2 Silver Rupee (Ganon's Castle - Water Trial)
+    Location - World 2 OOT MQ Ganon Castle Spirit Trial Back Right Sun Chest: Player 3 Boss Key (Fire Temple)
+    Location - World 2 OOT MQ Ganon Castle Water Trial Chest: Player 1 Song of Storms (OoT)
+
+  Sphere 23
+    Event - World 3 Beat Volvagia
+    Location - World 1 OOT Gerudo Valley Grotto Front Scrub: Player 1 Master Sword
+
+  Sphere 24
+    Event - World 1 Beat Bongo-Bongo
+    Event - World 1 Beat Morpha
+    Event - World 1 Beat Phantom Ganon
+    Location - World 1 OOT Shadow Temple Hover Boots: Player 3 Mirror Shield (OoT)
+    Location - World 3 OOT Fire Temple Boss: Player 3 Shadow Medallion
+
+  Sphere 25
+    Event - World 3 Beat Twinrova
+    Location - World 1 OOT Forest Temple Boss: Player 1 Water Medallion
+    Location - World 1 OOT Shadow Temple Boss: Player 1 Light Medallion
+    Location - World 1 OOT Water Temple Boss: Player 1 Shadow Medallion
+
+  Sphere 26
+    Location - World 3 OOT Spirit Temple Boss: Player 3 Spirit Medallion
+
+  Sphere 27
+    Event - World 3 Rainbow Bridge
+
+  Sphere 28
+    Location - World 3 OOT Ganon Castle SR Light Alcove Left: Player 3 Silver Rupee (Ganon's Castle - Light Trial)
+    Location - World 3 OOT Ganon Castle SR Light Alcove Right: Player 3 Silver Rupee (Ganon's Castle - Light Trial)
+    Location - World 3 OOT Ganon Castle SR Light Center Left: Player 3 Silver Rupee (Ganon's Castle - Light Trial)
+    Location - World 3 OOT Ganon Castle SR Light Center Right: Player 3 Silver Rupee (Ganon's Castle - Light Trial)
+    Location - World 3 OOT Ganon Castle SR Light Center Top: Player 3 Silver Rupee (Ganon's Castle - Light Trial)
+    Location - World 3 OOT Ganon Castle SR Spirit Back Left: Player 3 Silver Rupee (Ganon's Castle - Spirit Trial)
+    Location - World 3 OOT Ganon Castle SR Spirit Back Right: Player 3 Silver Rupee (Ganon's Castle - Spirit Trial)
+    Location - World 3 OOT Ganon Castle SR Spirit Center Bottom: Player 3 Silver Rupee (Ganon's Castle - Spirit Trial)
+    Location - World 3 OOT Ganon Castle SR Spirit Center Midair: Player 3 Silver Rupee (Ganon's Castle - Spirit Trial)
+    Location - World 3 OOT Ganon Castle SR Spirit Front Right: Player 3 Silver Rupee (Ganon's Castle - Spirit Trial)
+
+  Sphere 29
+    Event - World 3 Beat Ganon
+    Location - World 3 OOT Ganon Castle Spirit Chest 1: Player 2 Song of Storms (OoT)
+
+  Sphere 30
+    Location - World 2 OOT Zora River Frogs Game: Player 2 Stone of Agony (OoT)
+
+  Sphere 31
+    Location - World 2 OOT Hyrule Field Cow: Player 1 Mirror Shield (OoT)
+    Location - World 2 OOT Sacred Meadow Storms Grotto Back Scrub: Player 2 Progressive Strength (OoT)
+
+  Sphere 32
+    Event - World 1 Beat Twinrova
+    Location - World 2 OOT MQ Ganon Castle SR Fire Under Pillar: Player 2 Silver Rupee (Ganon's Castle - Fire Trial)
+
+  Sphere 33
+    Event - World 2 Beat Ganon
+    Location - World 1 OOT Spirit Temple Boss: Player 1 Spirit Medallion
+
+  Sphere 34
+    Event - World 1 Rainbow Bridge
+
+  Sphere 35
+    Location - World 1 OOT Ganon Castle SR Light Alcove Left: Player 1 Silver Rupee (Ganon's Castle - Light Trial)
+    Location - World 1 OOT Ganon Castle SR Light Alcove Right: Player 1 Silver Rupee (Ganon's Castle - Light Trial)
+    Location - World 1 OOT Ganon Castle SR Light Center Left: Player 1 Silver Rupee (Ganon's Castle - Light Trial)
+    Location - World 1 OOT Ganon Castle SR Light Center Right: Player 1 Silver Rupee (Ganon's Castle - Light Trial)
+    Location - World 1 OOT Ganon Castle SR Light Center Top: Player 1 Silver Rupee (Ganon's Castle - Light Trial)
+    Location - World 1 OOT Ganon Castle SR Spirit Back Left: Player 1 Silver Rupee (Ganon's Castle - Spirit Trial)
+    Location - World 1 OOT Ganon Castle SR Spirit Back Right: Player 1 Silver Rupee (Ganon's Castle - Spirit Trial)
+    Location - World 1 OOT Ganon Castle SR Spirit Center Bottom: Player 1 Silver Rupee (Ganon's Castle - Spirit Trial)
+    Location - World 1 OOT Ganon Castle SR Spirit Center Midair: Player 1 Silver Rupee (Ganon's Castle - Spirit Trial)
+    Location - World 1 OOT Ganon Castle SR Spirit Front Right: Player 1 Silver Rupee (Ganon's Castle - Spirit Trial)
+
+  Sphere 36
+    Event - World 1 Beat Ganon
+
+===========================================================================
+Location List (1748)
+  World 1 (598)
+    Inside Eggs (2):
+      OOT Hatch Chicken: Player 1 30 Arrows (OoT)
+      OOT Hatch Pocket Cucco: Player 1 Recovery Heart (OoT)
+
+    Kokiri Forest (15):
+      OOT Kokiri Forest Cow: Player 2 Rupoor (OoT)
+      OOT Kokiri Forest Kokiri Sword Chest: Player 2 Megaton Hammer (OoT)
+      OOT Kokiri Shop Item 1: Player 2 Progressive Wallet (OoT)
+      OOT Kokiri Shop Item 2: Player 3 Hylian Shield
+      OOT Kokiri Shop Item 3: Player 1 Piece of Heart (OoT)
+      OOT Kokiri Shop Item 4: Player 2 10 Arrows (OoT)
+      OOT Kokiri Shop Item 5: Player 2 Double Defense (OoT)
+      OOT Kokiri Shop Item 6: Player 3 Zora Tunic (OoT)
+      OOT Kokiri Shop Item 7: Player 2 Red Rupee (OoT)
+      OOT Kokiri Shop Item 8: Player 1 Bomb Bag (OoT)
+      OOT Mido's House Top Left: Player 3 Zora Mask (OoT)
+      OOT Mido's House Top Right: Player 3 10 Deku Nuts (OoT)
+      OOT Mido's House Bottom Left: Player 3 Goron Tunic (OoT)
+      OOT Mido's House Bottom Right: Player 1 Purple Rupee (OoT)
+      OOT Kokiri Forest Storms Grotto: Player 1 10 Bombchu (OoT)
+
+    Hyrule Field (8):
+      OOT Hyrule Field Ocarina of Time: Player 1 Progressive Wallet (OoT)
+      OOT Hyrule Field Song of Time: Player 3 Bugs (OoT)
+      OOT Hyrule Field Grotto Scrub HP: Player 3 10 Arrows (OoT)
+      OOT Hyrule Field Grotto Open: Player 3 Rupoor (OoT)
+      OOT Hyrule Field Grotto Southeast: Player 1 Piece of Heart (OoT)
+      OOT Hyrule Field Grotto Market: Player 2 Deku Stick (OoT)
+      OOT Hyrule Field Grotto Tektite HP: Player 3 Heart Container (OoT)
+      OOT Hyrule Field Cow: Player 1 Piece of Heart (OoT)
+
+    Market (41):
+      OOT Market Bazaar Item 1: Player 2 Recovery Heart (OoT)
+      OOT Market Bazaar Item 2: Player 2 10 Arrows (OoT)
+      OOT Market Bazaar Item 3: Player 3 10 Bombchu (OoT)
+      OOT Market Bazaar Item 4: Player 3 Rupoor (OoT)
+      OOT Market Bazaar Item 5: Player 3 30 Deku Seeds
+      OOT Market Bazaar Item 6: Player 1 Lon Lon Milk (OoT)
+      OOT Market Bazaar Item 7: Player 2 Green Potion (OoT)
+      OOT Market Bazaar Item 8: Player 1 Rupoor (OoT)
+      OOT Market Potion Shop Item 1: Player 2 Piece of Heart (OoT)
+      OOT Market Potion Shop Item 2: Player 3 Blue Fire
+      OOT Market Potion Shop Item 3: Player 3 5 Bombchu (OoT)
+      OOT Market Potion Shop Item 4: Player 3 5 Bombs (OoT)
+      OOT Market Potion Shop Item 5: Player 1 Piece of Heart (OoT)
+      OOT Market Potion Shop Item 6: Player 2 Piece of Heart (OoT)
+      OOT Market Potion Shop Item 7: Player 1 Deku Shield (OoT)
+      OOT Market Potion Shop Item 8: Player 3 Deku Nut Upgrade (OoT)
+      OOT Market Bombchu Shop Item 1: Player 2 Gold Rupee (OoT)
+      OOT Market Bombchu Shop Item 2: Player 3 Green Rupee (OoT)
+      OOT Market Bombchu Shop Item 3: Player 3 Purple Rupee (OoT)
+      OOT Market Bombchu Shop Item 4: Player 2 Piece of Heart (OoT)
+      OOT Market Bombchu Shop Item 5: Player 3 Bottle of Milk (OoT)
+      OOT Market Bombchu Shop Item 6: Player 3 Bolero of Fire
+      OOT Market Bombchu Shop Item 7: Player 1 Purple Rupee (OoT)
+      OOT Market Bombchu Shop Item 8: Player 3 Heart Container (OoT)
+      OOT Market Pot House Big Poes: Player 1 Rupoor (OoT)
+      OOT Market Dog Lady HP: Player 3 30 Arrows (OoT)
+      OOT Bombchu Bowling Reward 1: Player 1 Red Rupee (OoT)
+      OOT Bombchu Bowling Reward 2: Player 1 Blue Rupee (OoT)
+      OOT Shooting Gallery Child: Player 3 5 Deku Nuts (OoT)
+      OOT Treasure Chest Game Buy Key: Player 1 Small Key (Chest Game)
+      OOT Treasure Chest Game Room 1 Chest Left: Player 1 Small Key (Chest Game)
+      OOT Treasure Chest Game Room 1 Chest Right: Player 1 Green Rupee (OoT)
+      OOT Treasure Chest Game Room 2 Chest Left: Player 1 Small Key (Chest Game)
+      OOT Treasure Chest Game Room 2 Chest Right: Player 1 Green Rupee (OoT)
+      OOT Treasure Chest Game Room 3 Chest Left: Player 1 Small Key (Chest Game)
+      OOT Treasure Chest Game Room 3 Chest Right: Player 1 Blue Rupee (OoT)
+      OOT Treasure Chest Game Room 4 Chest Left: Player 1 Small Key (Chest Game)
+      OOT Treasure Chest Game Room 4 Chest Right: Player 1 Blue Rupee (OoT)
+      OOT Treasure Chest Game Room 5 Chest Left: Player 1 Small Key (Chest Game)
+      OOT Treasure Chest Game Room 5 Chest Right: Player 1 Red Rupee (OoT)
+      OOT Treasure Chest Game HP: Player 1 Din's Fire (OoT)
+
+    Lon Lon Ranch (11):
+      OOT Lon Lon Ranch Malon Song: Player 1 Red Potion (OoT)
+      OOT Lon Lon Ranch Stables Cow Left: Player 2 5 Bombs (OoT)
+      OOT Lon Lon Ranch Stables Cow Right: Player 3 Piece of Heart (OoT)
+      OOT Lon Lon Ranch Silo HP: Player 3 30 Arrows (OoT)
+      OOT Lon Lon Ranch Silo Cow Front: Player 2 5 Bombs (OoT)
+      OOT Lon Lon Ranch Silo Cow Back: Player 1 Progressive Strength (OoT)
+      OOT Lon Lon Ranch Talon Bottle: Player 3 Boomerang
+      OOT Lon Lon Ranch Talon Buy Milk: Player 1 Lon Lon Milk (OoT)
+      OOT Lon Lon Ranch Grotto Left Scrub: Player 1 Recovery Heart (OoT)
+      OOT Lon Lon Ranch Grotto Center Scrub: Player 2 Blue Rupee (OoT)
+      OOT Lon Lon Ranch Grotto Right Scrub: Player 1 10 Arrows (OoT)
+
+    Hyrule Castle (2):
+      OOT Malon Egg: Player 2 Deku Stick (OoT)
+      OOT Great Fairy Din's Fire: Player 2 Blue Rupee (OoT)
+
+    POCKET (2):
+      OOT Zelda's Letter: Player 2 Heart Container (OoT)
+      OOT Zelda's Song: Player 3 Deku Stick (OoT)
+
+    Outside Ganon's Castle (1):
+      OOT Great Fairy Defense Upgrade: Player 3 5 Deku Nuts (OoT)
+
+    Lost Woods (14):
+      OOT Lost Woods Target: Player 3 Progressive Sword (OoT)
+      OOT Lost Woods Skull Kid: Player 3 20 Bombchu (OoT)
+      OOT Lost Woods Memory Game: Player 3 5 Bombs (OoT)
+      OOT Lost Woods Scrub Sticks Upgrade: Player 2 Lon Lon Milk (OoT)
+      OOT Lost Woods Odd Mushroom: Player 3 Magic Upgrade (OoT)
+      OOT Lost Woods Poacher's Saw: Player 3 Blue Rupee (OoT)
+      OOT Lost Woods Grotto Generic: Player 1 20 Bombs (OoT)
+      OOT Lost Woods Gift from Saria: Player 1 Green Rupee (OoT)
+      OOT Lost Woods Scrub Near Theater Left: Player 1 Blue Rupee (OoT)
+      OOT Lost Woods Scrub Near Theater Right: Player 2 Deku Shield (OoT)
+      OOT Deku Theater Sticks Upgrade: Player 3 Gold Rupee (OoT)
+      OOT Deku Theater Nuts Upgrade: Player 2 Progressive Strength (OoT)
+      OOT Lost Woods Grotto Scrub Nuts Upgrade: Player 2 Rupoor (OoT)
+      OOT Lost Woods Grotto Scrub Back: Player 2 Boss Key (Shadow Temple)
+
+    Sacred Forest Meadow (5):
+      OOT Sacred Meadow Grotto: Player 3 5 Bombs (OoT)
+      OOT Saria's Song: Player 3 Deku Stick (OoT)
+      OOT Sacred Meadow Sheik Song: Player 1 Double Defense (OoT)
+      OOT Sacred Meadow Storms Grotto Front Scrub: Player 2 Purple Rupee (OoT)
+      OOT Sacred Meadow Storms Grotto Back Scrub: Player 2 Spooky Mask
+
+    Kakariko (35):
+      OOT Kakariko Anju Bottle: Player 1 Red Potion (OoT)
+      OOT Kakariko Anju Egg: Player 2 Progressive Wallet (OoT)
+      OOT Kakariko Anju Cojiro: Player 2 30 Arrows (OoT)
+      OOT Kakariko Song Shadow: Player 1 Requiem of Spirit
+      OOT Kakariko Man on Roof: Player 2 Recovery Heart (OoT)
+      OOT Kakariko Bazaar Item 1: Player 1 5 Bombchu (OoT)
+      OOT Kakariko Bazaar Item 2: Player 1 Megaton Hammer (OoT)
+      OOT Kakariko Bazaar Item 3: Player 3 Progressive Ocarina (OoT)
+      OOT Kakariko Bazaar Item 4: Player 1 Blue Rupee (OoT)
+      OOT Kakariko Bazaar Item 5: Player 1 5 Arrows (OoT)
+      OOT Kakariko Bazaar Item 6: Player 1 Rupoor (OoT)
+      OOT Kakariko Bazaar Item 7: Player 2 Blue Rupee (OoT)
+      OOT Kakariko Bazaar Item 8: Player 2 Recovery Heart (OoT)
+      OOT Kakariko Potion Shop Item 1: Player 2 Red Rupee (OoT)
+      OOT Kakariko Potion Shop Item 2: Player 2 Lon Lon Milk (OoT)
+      OOT Kakariko Potion Shop Item 3: Player 2 Lon Lon Milk (OoT)
+      OOT Kakariko Potion Shop Item 4: Player 2 Serenade of Water
+      OOT Kakariko Potion Shop Item 5: Player 2 30 Deku Seeds
+      OOT Kakariko Potion Shop Item 6: Player 2 Rupoor (OoT)
+      OOT Kakariko Potion Shop Item 7: Player 3 Purple Rupee (OoT)
+      OOT Kakariko Potion Shop Item 8: Player 3 Green Potion (OoT)
+      OOT Kakariko Potion Shop Odd Potion: Player 3 Iron Boots (OoT)
+      OOT Kakariko Potion Shop Buy Blue Potion: Player 1 Blue Potion (OoT)
+      OOT Shooting Gallery Adult: Player 3 10 Arrows (OoT)
+      OOT Kakariko Cow: Player 2 Fairy (OoT)
+      OOT Kakariko Impa House HP: Player 3 Blue Rupee (OoT)
+      OOT Windmill HP: Player 3 Stone of Agony (OoT)
+      OOT Windmill Song of Storms: Player 3 10 Bombchu (OoT)
+      OOT Skulltula House 10 Tokens: Player 1 Recovery Heart (OoT)
+      OOT Skulltula House 20 Tokens: Player 3 Rupoor (OoT)
+      OOT Skulltula House 30 Tokens: Player 2 Deku Stick (OoT)
+      OOT Skulltula House 40 Tokens: Player 1 Recovery Heart (OoT)
+      OOT Skulltula House 50 Tokens: Player 1 5 Arrows (OoT)
+      OOT Kakariko Grotto Front: Player 3 Boss Key (Water Temple)
+      OOT Kakariko Grotto Back: Player 3 Green Potion (OoT)
+
+    Graveyard (8):
+      OOT Graveyard Dampe Game: Player 2 Piece of Heart (OoT)
+      OOT Graveyard Crate HP: Player 3 20 Bombchu (OoT)
+      OOT Graveyard Royal Tomb Song: Player 3 Rupoor (OoT)
+      OOT Graveyard Royal Tomb Chest: Player 1 Rupoor (OoT)
+      OOT Graveyard Fairy Tomb: Player 3 Lon Lon Milk (OoT)
+      OOT Graveyard ReDead Tomb: Player 2 Rupoor (OoT)
+      OOT Graveyard Dampe Tomb Reward 1: Player 1 Eyeball Frog
+      OOT Graveyard Dampe Tomb Reward 2: Player 3 Rupoor (OoT)
+
+    Death Mountain Trail (8):
+      OOT Death Mountain Trail Chest: Player 1 5 Deku Nuts (OoT)
+      OOT Death Mountain Trail HP: Player 1 5 Bombs (OoT)
+      OOT Death Mountain Trail Prescription: Player 3 Lon Lon Milk (OoT)
+      OOT Death Mountain Trail Claim Check: Player 1 Deku Stick (OoT)
+      OOT Death Mountain Trail Biggoron Sword: Player 2 Piece of Heart (OoT)
+      OOT Death Mountain Trail Grotto: Player 2 Gold Rupee (OoT)
+      OOT Death Mountain Trail Cow: Player 1 5 Deku Nuts (OoT)
+      OOT Great Fairy Magic Upgrade: Player 1 Fairy Slingshot
+
+    Goron City (19):
+      OOT Goron City Maze Center 1: Player 3 Recovery Heart (OoT)
+      OOT Goron City Maze Center 2: Player 1 Red Potion (OoT)
+      OOT Goron City Maze Left: Player 3 Piece of Heart (OoT)
+      OOT Goron City Big Pot HP: Player 3 Lon Lon Milk (OoT)
+      OOT Goron City Tunic: Player 1 5 Deku Nuts (OoT)
+      OOT Goron City Bomb Bag: Player 3 Recovery Heart (OoT)
+      OOT Goron City Medigoron Giant Knife: Player 1 Piece of Heart (OoT)
+      OOT Darunia: Player 2 Piece of Heart (OoT)
+      OOT Goron Shop Item 1: Player 2 20 Bombchu (OoT)
+      OOT Goron Shop Item 2: Player 2 Recovery Heart (OoT)
+      OOT Goron Shop Item 3: Player 1 Blue Rupee (OoT)
+      OOT Goron Shop Item 4: Player 1 Farore's Wind (OoT)
+      OOT Goron Shop Item 5: Player 2 10 Deku Nuts (OoT)
+      OOT Goron Shop Item 6: Player 3 Recovery Heart (OoT)
+      OOT Goron Shop Item 7: Player 3 Piece of Heart (OoT)
+      OOT Goron Shop Item 8: Player 1 Stone of Agony (OoT)
+      OOT Goron City Grotto Left Scrub: Player 1 Blue Rupee (OoT)
+      OOT Goron City Grotto Center Scrub: Player 3 10 Bombs (OoT)
+      OOT Goron City Grotto Right Scrub: Player 3 Double Defense (OoT)
+
+    Zora's River (13):
+      OOT Zora River Bean Seller: Player 1 Blue Rupee (OoT)
+      OOT Zora River HP Pillar: Player 3 Red Rupee (OoT)
+      OOT Zora River HP Platform: Player 2 Piece of Heart (OoT)
+      OOT Zora River Frogs Storms: Player 2 Magic Upgrade (OoT)
+      OOT Zora River Frogs Zeldas Lullaby: Player 1 Purple Rupee (OoT)
+      OOT Zora River Frogs Eponas Song: Player 1 Purple Rupee (OoT)
+      OOT Zora River Frogs Sarias Song: Player 1 Purple Rupee (OoT)
+      OOT Zora River Frogs Suns Song: Player 1 Purple Rupee (OoT)
+      OOT Zora River Frogs Song of Time: Player 1 Purple Rupee (OoT)
+      OOT Zora River Frogs Game: Player 2 Farore's Wind (OoT)
+      OOT Zora River Storms Grotto Front Scrub: Player 1 Rupoor (OoT)
+      OOT Zora River Storms Grotto Back Scrub: Player 3 30 Arrows (OoT)
+      OOT Zora River Grotto: Player 1 10 Arrows (OoT)
+
+    Zora's Domain (12):
+      OOT Zora Domain Waterfall Chest: Player 3 10 Arrows (OoT)
+      OOT Zora Domain Diving Game: Player 2 Progressive Scale (Oot)
+      OOT Zora Domain Tunic: Player 3 Rupoor (OoT)
+      OOT Zora Domain Eyeball Frog: Player 2 Rupoor (OoT)
+      OOT Zora Shop Item 1: Player 1 5 Deku Nuts (OoT)
+      OOT Zora Shop Item 2: Player 2 Fish (OoT)
+      OOT Zora Shop Item 3: Player 1 Boss Key (Forest Temple)
+      OOT Zora Shop Item 4: Player 2 Minuet of Forest
+      OOT Zora Shop Item 5: Player 1 Green Rupee (OoT)
+      OOT Zora Shop Item 6: Player 1 5 Bombs (OoT)
+      OOT Zora Shop Item 7: Player 1 Piece of Heart (OoT)
+      OOT Zora Shop Item 8: Player 2 Rupoor (OoT)
+
+    Lake Hylia (10):
+      OOT Lake Hylia Underwater Bottle: Player 3 10 Bombchu (OoT)
+      OOT Lake Hylia Fire Arrow: Player 2 10 Arrows (OoT)
+      OOT Lake Hylia HP: Player 2 10 Arrows (OoT)
+      OOT Laboratory Dive: Player 3 Piece of Heart (OoT)
+      OOT Laboratory Eye Drops: Player 2 Gold Rupee (OoT)
+      OOT Fishing Pond Child: Player 2 Purple Rupee (OoT)
+      OOT Fishing Pond Adult: Player 2 Cojiro
+      OOT Lake Hylia Grotto Left Scrub: Player 3 Deku Shield (OoT)
+      OOT Lake Hylia Grotto Center Scrub: Player 2 Rupoor (OoT)
+      OOT Lake Hylia Grotto Right Scrub: Player 3 Fairy Slingshot
+
+    Zora's Fountain (3):
+      OOT Zora Fountain Iceberg HP: Player 1 Heart Container (OoT)
+      OOT Zora Fountain Bottom HP: Player 3 Piece of Heart (OoT)
+      OOT Great Fairy Farore's Wind: Player 1 Rupoor (OoT)
+
+    Temple of Time (3):
+      OOT Temple of Time Master Sword: Player 2 Recovery Heart (OoT)
+      OOT Temple of Time Sheik Song: Player 1 Rupoor (OoT)
+      OOT Temple of Time Light Arrows: Player 2 5 Deku Nuts (OoT)
+
+    Sacred Realm (1):
+      OOT Temple of Time Medallion: Player 1 Goron's Ruby
+
+    Death Mountain Crater (9):
+      OOT Death Mountain Crater Alcove HP: Player 2 Bomb Bag (OoT)
+      OOT Death Mountain Crater Scrub Child: Player 3 Purple Rupee (OoT)
+      OOT Death Mountain Crater Volcano HP: Player 2 Recovery Heart (OoT)
+      OOT Death Mountain Crater Sheik Song: Player 3 Progressive Wallet (OoT)
+      OOT Death Mountain Crater Grotto: Player 1 Purple Rupee (OoT)
+      OOT Death Mountain Crater Grotto Left Scrub: Player 3 Piece of Heart (OoT)
+      OOT Death Mountain Crater Grotto Center Scrub: Player 1 Progressive Sword (OoT)
+      OOT Death Mountain Crater Grotto Right Scrub: Player 1 10 Arrows (OoT)
+      OOT Great Fairy Magic Upgrade 2: Player 2 Heart Container (OoT)
+
+    Gerudo Valley (7):
+      OOT Gerudo Valley Crate HP: Player 1 10 Bombchu (OoT)
+      OOT Gerudo Valley Waterfall HP: Player 2 Red Rupee (OoT)
+      OOT Gerudo Valley Cow: Player 1 30 Bombs (OoT)
+      OOT Gerudo Valley Chest: Player 3 5 Bombs (OoT)
+      OOT Gerudo Valley Broken Goron Sword: Player 3 Heart Container (OoT)
+      OOT Gerudo Valley Grotto Front Scrub: Player 1 Master Sword
+      OOT Gerudo Valley Grotto Back Scrub: Player 1 Rupoor (OoT)
+
+    Gerudo's Fortress (3):
+      OOT Gerudo Fortress Archery Reward 1: Player 3 10 Arrows (OoT)
+      OOT Gerudo Fortress Archery Reward 2: Player 3 5 Bombs (OoT)
+      OOT Gerudo Fortress Chest: Player 3 Deku Stick Upgrade (OoT)
+
+    Haunted Wasteland (2):
+      OOT Haunted Wasteland Carpet Merchant: Player 1 20 Bombchu (OoT)
+      OOT Haunted Wasteland Chest: Player 3 5 Bombs (OoT)
+
+    Desert Colossus (5):
+      OOT Desert Colossus HP: Player 2 10 Arrows (OoT)
+      OOT Desert Colossus Song Spirit: Player 1 Empty Bottle (OoT)
+      OOT Great Fairy Nayru's Love: Player 1 Red Potion (OoT)
+      OOT Desert Colossus Grotto Front Scrub: Player 1 Progressive Strength (OoT)
+      OOT Desert Colossus Grotto Back Scrub: Player 1 Gold Rupee (OoT)
+
+    Deku Tree (10):
+      OOT Deku Tree Boss Container: Player 3 10 Arrows (OoT)
+      OOT Deku Tree Boss: Player 1 Zora's Sapphire
+      OOT MQ Deku Tree Map Chest: Player 3 5 Deku Nuts (OoT)
+      OOT MQ Deku Tree Compass Chest: Player 2 Keaton Mask (OoT)
+      OOT MQ Deku Tree Slingshot Chest: Player 2 30 Arrows (OoT)
+      OOT MQ Deku Tree Slingshot Room Far Chest: Player 1 Lon Lon Milk (OoT)
+      OOT MQ Deku Tree Basement Chest: Player 3 Red Potion (OoT)
+      OOT MQ Deku Tree Before Water Platform Chest: Player 2 30 Bombs (OoT)
+      OOT MQ Deku Tree After Water Platform Chest: Player 1 Blue Rupee (OoT)
+      OOT MQ Deku Tree Scrub: Player 1 Fish (OoT)
+
+    Dodongo's Cavern (18):
+      OOT Dodongo Cavern Boss Chest: Player 2 Piece of Heart (OoT)
+      OOT Dodongo Cavern Boss Container: Player 1 Bomb Bag (OoT)
+      OOT Dodongo Cavern Boss: Player 1 Forest Medallion
+      OOT MQ Dodongo Cavern Map Chest: Player 3 Green Potion (OoT)
+      OOT MQ Dodongo Cavern Lobby Scrub Front: Player 3 Piece of Heart (OoT)
+      OOT MQ Dodongo Cavern Lobby Scrub Back: Player 3 Light Arrows (OoT)
+      OOT MQ Dodongo Cavern SR Beamos: Player 1 Silver Rupee (Dodongo's Cavern)
+      OOT MQ Dodongo Cavern SR Crate: Player 1 Silver Rupee (Dodongo's Cavern)
+      OOT MQ Dodongo Cavern SR Upper Corner Low: Player 1 Silver Rupee (Dodongo's Cavern)
+      OOT MQ Dodongo Cavern SR Vines: Player 1 Silver Rupee (Dodongo's Cavern)
+      OOT MQ Dodongo Cavern SR Upper Corner High: Player 1 Silver Rupee (Dodongo's Cavern)
+      OOT MQ Dodongo Cavern Staircase Scrub: Player 2 Recovery Heart (OoT)
+      OOT MQ Dodongo Cavern Compass Chest: Player 2 Nocturne of Shadow
+      OOT MQ Dodongo Cavern Upper Ledge Chest: Player 3 Fish (OoT)
+      OOT MQ Dodongo Cavern Larvae Room Chest: Player 3 Red Potion (OoT)
+      OOT MQ Dodongo Cavern Tunnel Side Scrub: Player 1 Blue Rupee (OoT)
+      OOT MQ Dodongo Cavern Bomb Bag Chest: Player 2 Piece of Heart (OoT)
+      OOT MQ Dodongo Cavern Chest Under Grave: Player 2 Saria's Song
+
+    Jabu-Jabu's Belly (14):
+      OOT Jabu-Jabu Boss Container: Player 3 Mask of Truth (OoT)
+      OOT Jabu-Jabu Boss: Player 1 Fire Medallion
+      OOT MQ Jabu-Jabu Map Chest: Player 3 Progressive Scale (Oot)
+      OOT MQ Jabu-Jabu Entry Chest: Player 3 Rupoor (OoT)
+      OOT MQ Jabu-Jabu Second Room B1 Chest: Player 1 10 Bombchu (OoT)
+      OOT MQ Jabu-Jabu Compass Chest: Player 1 Pocket Egg
+      OOT MQ Jabu-Jabu Second Room 1F Chest: Player 2 Deku Stick (OoT)
+      OOT MQ Jabu-Jabu Third Room West Chest: Player 2 Lon Lon Milk (OoT)
+      OOT MQ Jabu-Jabu Third Room East Chest: Player 1 Fairy Slingshot
+      OOT MQ Jabu-Jabu Boomerang Chest: Player 2 Blue Rupee (OoT)
+      OOT MQ Jabu-Jabu SoT Room Lower Chest: Player 1 Green Potion (OoT)
+      OOT MQ Jabu-Jabu Cow: Player 1 Recovery Heart (OoT)
+      OOT MQ Jabu-Jabu Back Chest: Player 1 Blue Rupee (OoT)
+      OOT MQ Jabu-Jabu Pre-Boss Chest: Player 1 Recovery Heart (OoT)
+
+    Forest Temple (15):
+      OOT Forest Temple Boss: Player 1 Water Medallion
+      OOT Forest Temple Boss Container: Player 2 Fairy Bow (OoT)
+      OOT Forest Temple Tree Small Key: Player 1 Rupoor (OoT)
+      OOT Forest Temple Mini-Boss Key: Player 3 Goron Tunic (OoT)
+      OOT Forest Temple Floormaster: Player 3 30 Deku Seeds
+      OOT Forest Temple Map: Player 2 30 Deku Seeds
+      OOT Forest Temple Garden: Player 1 Boss Key (Fire Temple)
+      OOT Forest Temple Well: Player 3 Prescription
+      OOT Forest Temple Maze: Player 1 Spin Attack Upgrade (OoT)
+      OOT Forest Temple Boss Key: Player 3 Purple Rupee (OoT)
+      OOT Forest Temple Poe Key: Player 3 Rupoor (OoT)
+      OOT Forest Temple Bow: Player 3 Heart Container (OoT)
+      OOT Forest Temple Compass: Player 3 Rupoor (OoT)
+      OOT Forest Temple Checkerboard: Player 1 10 Bombs (OoT)
+      OOT Forest Temple Antichamber: Player 1 Lon Lon Milk (OoT)
+
+    Fire Temple (14):
+      OOT Fire Temple Boss Container: Player 2 Hylian Shield
+      OOT Fire Temple Boss: Player 1 Kokiri's Emerald
+      OOT MQ Fire Temple Early Lower Left Chest: Player 2 5 Bombs (OoT)
+      OOT MQ Fire Temple Map Chest: Player 1 Rupoor (OoT)
+      OOT MQ Fire Temple Pre-Boss Chest: Player 3 5 Deku Nuts (OoT)
+      OOT MQ Fire Temple Hammer Chest: Player 3 Cojiro
+      OOT MQ Fire Temple Boss Key Chest: Player 3 Rupoor (OoT)
+      OOT MQ Fire Temple 1f Lava Room Goron Chest: Player 3 Hover Boots (OoT)
+      OOT MQ Fire Temple Compass Chest: Player 2 Heart Container (OoT)
+      OOT MQ Fire Temple Maze Lower Chest: Player 1 Eye Drops
+      OOT MQ Fire Temple Maze Upper Chest: Player 3 5 Bombs (OoT)
+      OOT MQ Fire Temple Maze Side Room Chest: Player 2 Piece of Heart (OoT)
+      OOT MQ Fire Temple Flare Dancer Key: Player 3 Minuet of Forest
+      OOT MQ Fire Temple Topmost Chest: Player 3 30 Deku Seeds
+
+    Water Temple (12):
+      OOT Water Temple Boss HC: Player 3 Progressive Sword (OoT)
+      OOT Water Temple Boss: Player 1 Shadow Medallion
+      OOT Water Temple Bombable Chest: Player 1 Rupoor (OoT)
+      OOT Water Temple Map: Player 1 Fairy Slingshot
+      OOT Water Temple Shell Chest: Player 2 10 Bombs (OoT)
+      OOT Water Temple Under Center: Player 1 30 Arrows (OoT)
+      OOT Water Temple Compass: Player 3 Ice Trap
+      OOT Water Temple Dragon Chest: Player 2 10 Bombs (OoT)
+      OOT Water Temple Corridor Chest: Player 1 5 Deku Nuts (OoT)
+      OOT Water Temple Boss Key Chest: Player 2 Hylian Shield
+      OOT Water Temple Longshot: Player 2 10 Arrows (OoT)
+      OOT Water Temple River Chest: Player 3 Red Rupee (OoT)
+
+    Spirit Temple (36):
+      OOT Spirit Temple Boss HC: Player 3 Piece of Heart (OoT)
+      OOT Spirit Temple Boss: Player 1 Spirit Medallion
+      OOT Spirit Temple Child First Chest: Player 1 Poe (OoT)
+      OOT Spirit Temple Child Second Chest: Player 3 Blue Rupee (OoT)
+      OOT Spirit Temple SR Child 1: Player 1 Silver Rupee (Spirit Temple - Child)
+      OOT Spirit Temple SR Child 2: Player 1 Silver Rupee (Spirit Temple - Child)
+      OOT Spirit Temple SR Child 3: Player 1 Silver Rupee (Spirit Temple - Child)
+      OOT Spirit Temple SR Child 4: Player 1 Silver Rupee (Spirit Temple - Child)
+      OOT Spirit Temple SR Child 5: Player 1 Silver Rupee (Spirit Temple - Child)
+      OOT Spirit Temple Child Climb 1: Player 2 5 Deku Nuts (OoT)
+      OOT Spirit Temple Child Climb 2: Player 2 5 Deku Nuts (OoT)
+      OOT Spirit Temple Sun Block Room Torches: Player 3 Purple Rupee (OoT)
+      OOT Spirit Temple SR Sun 1: Player 1 Silver Rupee (Spirit Temple - Sun Block)
+      OOT Spirit Temple SR Sun 2: Player 1 Silver Rupee (Spirit Temple - Sun Block)
+      OOT Spirit Temple SR Sun 3: Player 1 Silver Rupee (Spirit Temple - Sun Block)
+      OOT Spirit Temple SR Sun 4: Player 1 Silver Rupee (Spirit Temple - Sun Block)
+      OOT Spirit Temple SR Sun 5: Player 1 Silver Rupee (Spirit Temple - Sun Block)
+      OOT Spirit Temple Silver Gauntlets: Player 2 30 Deku Seeds
+      OOT Spirit Temple Adult Lullaby: Player 3 Red Rupee (OoT)
+      OOT Spirit Temple Adult Silver Rupees: Player 3 Blue Rupee (OoT)
+      OOT Spirit Temple SR Boulders 1: Player 1 Silver Rupee (Spirit Temple - Boulders)
+      OOT Spirit Temple SR Boulders 2: Player 1 Silver Rupee (Spirit Temple - Boulders)
+      OOT Spirit Temple SR Boulders 3: Player 1 Silver Rupee (Spirit Temple - Boulders)
+      OOT Spirit Temple SR Boulders 4: Player 1 Silver Rupee (Spirit Temple - Boulders)
+      OOT Spirit Temple SR Boulders 5: Player 1 Silver Rupee (Spirit Temple - Boulders)
+      OOT Spirit Temple Adult Suns on Wall 1: Player 1 Pocket Cucco
+      OOT Spirit Temple Adult Suns on Wall 2: Player 3 Empty Bottle (OoT)
+      OOT Spirit Temple Statue Base: Player 1 Blue Rupee (OoT)
+      OOT Spirit Temple Statue Hands: Player 3 Deku Shield (OoT)
+      OOT Spirit Temple Statue Upper Right: Player 1 Progressive Ocarina (OoT)
+      OOT Spirit Temple Adult Late Sun on Wall: Player 3 Piece of Heart (OoT)
+      OOT Spirit Temple Adult Invisible 1: Player 2 Recovery Heart (OoT)
+      OOT Spirit Temple Adult Invisible 2: Player 3 Fairy Bow (OoT)
+      OOT Spirit Temple Mirror Shield: Player 2 10 Bombchu (OoT)
+      OOT Spirit Temple Adult Boss Key Chest: Player 3 Piece of Heart (OoT)
+      OOT Spirit Temple Adult Topmost Sun on Wall: Player 1 Purple Rupee (OoT)
+
+    Shadow Temple (34):
+      OOT Shadow Temple Boss HC: Player 3 Heart Container (OoT)
+      OOT Shadow Temple Boss: Player 1 Light Medallion
+      OOT Shadow Temple Map: Player 3 Rupoor (OoT)
+      OOT Shadow Temple Hover Boots: Player 3 Mirror Shield (OoT)
+      OOT Shadow Temple Compass: Player 2 Gold Rupee (OoT)
+      OOT Shadow Temple SR Scythe 1: Player 1 Silver Rupee (Shadow Temple - Scythe)
+      OOT Shadow Temple SR Scythe 2: Player 1 Silver Rupee (Shadow Temple - Scythe)
+      OOT Shadow Temple SR Scythe 3: Player 1 Silver Rupee (Shadow Temple - Scythe)
+      OOT Shadow Temple SR Scythe 4: Player 1 Silver Rupee (Shadow Temple - Scythe)
+      OOT Shadow Temple SR Scythe 5: Player 1 Silver Rupee (Shadow Temple - Scythe)
+      OOT Shadow Temple Silver Rupees: Player 2 Magic Upgrade (OoT)
+      OOT Shadow Temple Spinning Blades Visible: Player 2 5 Bombs (OoT)
+      OOT Shadow Temple Spinning Blades Invisible: Player 1 Ice Trap
+      OOT Shadow Temple SR Pit 1: Player 1 Silver Rupee (Shadow Temple - Large Pits)
+      OOT Shadow Temple SR Pit 2: Player 1 Silver Rupee (Shadow Temple - Large Pits)
+      OOT Shadow Temple SR Pit 3: Player 1 Silver Rupee (Shadow Temple - Large Pits)
+      OOT Shadow Temple SR Pit 4: Player 1 Silver Rupee (Shadow Temple - Large Pits)
+      OOT Shadow Temple SR Pit 5: Player 1 Silver Rupee (Shadow Temple - Large Pits)
+      OOT Shadow Temple Falling Spikes Lower: Player 3 Epona's Song (OoT)
+      OOT Shadow Temple Falling Spikes Upper 1: Player 2 Rupoor (OoT)
+      OOT Shadow Temple Falling Spikes Upper 2: Player 2 Purple Rupee (OoT)
+      OOT Shadow Temple SR Spikes Back Left: Player 1 Silver Rupee (Shadow Temple - Spikes)
+      OOT Shadow Temple SR Spikes Right: Player 1 Silver Rupee (Shadow Temple - Spikes)
+      OOT Shadow Temple SR Spikes Center: Player 1 Silver Rupee (Shadow Temple - Spikes)
+      OOT Shadow Temple SR Spikes Front Left: Player 1 Silver Rupee (Shadow Temple - Spikes)
+      OOT Shadow Temple SR Spikes Midair: Player 1 Silver Rupee (Shadow Temple - Spikes)
+      OOT Shadow Temple Invisible Spike Room: Player 3 Piece of Heart (OoT)
+      OOT Shadow Temple Skull: Player 3 Lens of Truth (OoT)
+      OOT Shadow Temple Wind Room Hint: Player 3 Piece of Heart (OoT)
+      OOT Shadow Temple After Wind: Player 1 Rupoor (OoT)
+      OOT Shadow Temple After Wind Invisible: Player 1 Progressive Strength (OoT)
+      OOT Shadow Temple Boss Key Room 1: Player 2 Piece of Heart (OoT)
+      OOT Shadow Temple Boss Key Room 2: Player 1 Red Potion (OoT)
+      OOT Shadow Temple Invisible Floormaster: Player 3 Recovery Heart (OoT)
+
+    Bottom of the Well (19):
+      OOT Bottom of the Well Coffin: Player 2 5 Bombchu (OoT)
+      OOT Bottom of the Well Compass: Player 2 Fish (OoT)
+      OOT Bottom of the Well Under Debris: Player 3 10 Deku Nuts (OoT)
+      OOT Bottom of the Well Back West: Player 3 5 Deku Nuts (OoT)
+      OOT Bottom of the Well East: Player 3 Din's Fire (OoT)
+      OOT Bottom of the Well Front West: Player 1 Piece of Heart (OoT)
+      OOT Bottom of the Well Underwater: Player 2 Progressive Sword (OoT)
+      OOT Bottom of the Well East Cage: Player 2 Deku Stick Upgrade (OoT)
+      OOT Bottom of the Well Blood Chest: Player 2 Ice Trap
+      OOT Bottom of the Well Underwater 2: Player 2 Red Potion (OoT)
+      OOT Bottom of the Well Map: Player 2 Piece of Heart (OoT)
+      OOT Bottom of the Well Pits: Player 1 Recovery Heart (OoT)
+      OOT Bottom of the Well Lens: Player 1 20 Bombchu (OoT)
+      OOT Bottom of the Well Lens Side Chest: Player 3 20 Bombs (OoT)
+      OOT Bottom of the Well SR 1: Player 1 Silver Rupee (Bottom of the Well)
+      OOT Bottom of the Well SR 2: Player 1 Silver Rupee (Bottom of the Well)
+      OOT Bottom of the Well SR 3: Player 1 Silver Rupee (Bottom of the Well)
+      OOT Bottom of the Well SR 4: Player 1 Silver Rupee (Bottom of the Well)
+      OOT Bottom of the Well SR 5: Player 1 Silver Rupee (Bottom of the Well)
+
+    Ice Cavern (15):
+      OOT Ice Cavern SR Scythe Left: Player 1 Silver Rupee (Ice Cavern - Scythe)
+      OOT Ice Cavern SR Scythe Center Left: Player 1 Silver Rupee (Ice Cavern - Scythe)
+      OOT Ice Cavern SR Scythe Back: Player 1 Silver Rupee (Ice Cavern - Scythe)
+      OOT Ice Cavern SR Scythe Center Right: Player 1 Silver Rupee (Ice Cavern - Scythe)
+      OOT Ice Cavern SR Scythe Midair: Player 1 Silver Rupee (Ice Cavern - Scythe)
+      OOT Ice Cavern Compass: Player 1 Blue Rupee (OoT)
+      OOT Ice Cavern HP: Player 3 Piece of Heart (OoT)
+      OOT Ice Cavern Map: Player 1 Epona's Song (OoT)
+      OOT Ice Cavern SR Blocks Back Left: Player 1 Silver Rupee (Ice Cavern - Block)
+      OOT Ice Cavern SR Blocks Back Right: Player 1 Silver Rupee (Ice Cavern - Block)
+      OOT Ice Cavern SR Blocks Center: Player 1 Silver Rupee (Ice Cavern - Block)
+      OOT Ice Cavern SR Blocks Alcove: Player 1 Silver Rupee (Ice Cavern - Block)
+      OOT Ice Cavern SR Blocks Front Left: Player 1 Silver Rupee (Ice Cavern - Block)
+      OOT Ice Cavern Iron Boots: Player 1 Red Rupee (OoT)
+      OOT Ice Cavern Sheik Song: Player 2 Piece of Heart (OoT)
+
+    NONE (1):
+      OOT Gerudo Member Card: Player 2 5 Bombchu (OoT)
+
+    Gerudo's Training Ground (31):
+      OOT MQ Gerudo Training Grounds Entryway Left Chest: Player 3 Poacher's Saw
+      OOT MQ Gerudo Training Grounds Entryway Right Chest: Player 1 Green Potion (OoT)
+      OOT MQ Gerudo Training Grounds Maze First Chest: Player 1 Green Potion (OoT)
+      OOT MQ Gerudo Training Grounds Maze Second Chest: Player 2 Blue Rupee (OoT)
+      OOT MQ Gerudo Training Grounds Maze Third Chest: Player 3 Recovery Heart (OoT)
+      OOT MQ Gerudo Training Grounds Maze Fourth Chest: Player 2 5 Bombs (OoT)
+      OOT MQ Gerudo Training Grounds Maze Right Side Middle Chest: Player 3 Lon Lon Milk (OoT)
+      OOT MQ Gerudo Training Grounds Maze Right Side Right Chest: Player 2 5 Bombs (OoT)
+      OOT MQ Gerudo Training Grounds Right Side Dinolfos Chest: Player 3 5 Bombs (OoT)
+      OOT MQ Gerudo Training Grounds SR Lava Back-Left: Player 1 Silver Rupee (Gerudo Training Ground - Lava)
+      OOT MQ Gerudo Training Grounds SR Lava Back-Right: Player 1 Silver Rupee (Gerudo Training Ground - Lava)
+      OOT MQ Gerudo Training Grounds SR Lava Center: Player 1 Silver Rupee (Gerudo Training Ground - Lava)
+      OOT MQ Gerudo Training Grounds SR Lava Front-Right: Player 1 Silver Rupee (Gerudo Training Ground - Lava)
+      OOT MQ Gerudo Training Grounds SR Lava Front-Left: Player 1 Silver Rupee (Gerudo Training Ground - Lava)
+      OOT MQ Gerudo Training Grounds SR Lava Front: Player 1 Silver Rupee (Gerudo Training Ground - Lava)
+      OOT MQ Gerudo Training Grounds Water Room Chest: Player 3 Recovery Heart (OoT)
+      OOT MQ Gerudo Training Grounds SR Water Top-Left: Player 1 Silver Rupee (Gerudo Training Ground - Water)
+      OOT MQ Gerudo Training Grounds SR Water Center: Player 1 Silver Rupee (Gerudo Training Ground - Water)
+      OOT MQ Gerudo Training Grounds SR Water Bottom-Right: Player 1 Silver Rupee (Gerudo Training Ground - Water)
+      OOT MQ Gerudo Training Grounds Left Side Iron Knuckle Chest: Player 1 10 Arrows (OoT)
+      OOT MQ Gerudo Training Grounds SR Slopes Top Right: Player 1 Silver Rupee (Gerudo Training Ground - Slopes)
+      OOT MQ Gerudo Training Grounds SR Slopes Middle: Player 1 Silver Rupee (Gerudo Training Ground - Slopes)
+      OOT MQ Gerudo Training Grounds SR Slopes Front: Player 1 Silver Rupee (Gerudo Training Ground - Slopes)
+      OOT MQ Gerudo Training Grounds SR Slopes Front-Left: Player 1 Silver Rupee (Gerudo Training Ground - Slopes)
+      OOT MQ Gerudo Training Grounds SR Slopes Front-Right: Player 1 Silver Rupee (Gerudo Training Ground - Slopes)
+      OOT MQ Gerudo Training Grounds Stalfos Room Chest: Player 2 Fairy Bow (OoT)
+      OOT MQ Gerudo Training Grounds Silver Block Room Chest: Player 2 Lon Lon Milk (OoT)
+      OOT MQ Gerudo Training Grounds Ice Arrows Chest: Player 1 30 Deku Seeds
+      OOT MQ Gerudo Training Grounds Spinning Statue Chest: Player 2 10 Bombchu (OoT)
+      OOT MQ Gerudo Training Grounds Torch Slug Room Clear Chest: Player 2 5 Deku Nuts (OoT)
+      OOT MQ Gerudo Training Grounds Torch Slug Room Switch Chest: Player 1 5 Bombchu (OoT)
+
+    Ganon's Castle (40):
+      OOT Ganon Castle Leftmost Scrub: Player 3 Piece of Heart (OoT)
+      OOT Ganon Castle Left-Center Scrub: Player 1 10 Arrows (OoT)
+      OOT Ganon Castle Right-Center Scrub: Player 1 Blue Rupee (OoT)
+      OOT Ganon Castle Rightmost Scrub: Player 3 Bunny Hood (OoT)
+      OOT Ganon Castle Light Chest Around 1: Player 2 Lon Lon Milk (OoT)
+      OOT Ganon Castle Light Chest Around 2: Player 2 Bugs (OoT)
+      OOT Ganon Castle Light Chest Around 3: Player 3 20 Bombchu (OoT)
+      OOT Ganon Castle Light Chest Around 4: Player 1 Heart Container (OoT)
+      OOT Ganon Castle Light Chest Around 5: Player 1 Spooky Mask
+      OOT Ganon Castle Light Chest Around 6: Player 3 10 Arrows (OoT)
+      OOT Ganon Castle Light Chest Center: Player 1 20 Bombs (OoT)
+      OOT Ganon Castle Light Chest Lullaby: Player 1 Fish (OoT)
+      OOT Ganon Castle SR Light Alcove Right: Player 1 Silver Rupee (Ganon's Castle - Light Trial)
+      OOT Ganon Castle SR Light Alcove Left: Player 1 Silver Rupee (Ganon's Castle - Light Trial)
+      OOT Ganon Castle SR Light Center Top: Player 1 Silver Rupee (Ganon's Castle - Light Trial)
+      OOT Ganon Castle SR Light Center Right: Player 1 Silver Rupee (Ganon's Castle - Light Trial)
+      OOT Ganon Castle SR Light Center Left: Player 1 Silver Rupee (Ganon's Castle - Light Trial)
+      OOT Ganon Castle Forest Chest: Player 1 30 Arrows (OoT)
+      OOT Ganon Castle SR Forest Center Right: Player 1 Silver Rupee (Ganon's Castle - Forest Trial)
+      OOT Ganon Castle SR Forest Front: Player 1 Silver Rupee (Ganon's Castle - Forest Trial)
+      OOT Ganon Castle SR Forest Back Right: Player 1 Silver Rupee (Ganon's Castle - Forest Trial)
+      OOT Ganon Castle SR Forest Back Middle: Player 1 Silver Rupee (Ganon's Castle - Forest Trial)
+      OOT Ganon Castle SR Forest Center Left: Player 1 Silver Rupee (Ganon's Castle - Forest Trial)
+      OOT Ganon Castle SR Fire Back Right: Player 1 Silver Rupee (Ganon's Castle - Fire Trial)
+      OOT Ganon Castle SR Fire Left: Player 1 Silver Rupee (Ganon's Castle - Fire Trial)
+      OOT Ganon Castle SR Fire Far Right: Player 1 Silver Rupee (Ganon's Castle - Fire Trial)
+      OOT Ganon Castle SR Fire Front Right: Player 1 Silver Rupee (Ganon's Castle - Fire Trial)
+      OOT Ganon Castle SR Fire Black Pillar: Player 1 Silver Rupee (Ganon's Castle - Fire Trial)
+      OOT Ganon Castle Water Chest 1: Player 3 Blue Rupee (OoT)
+      OOT Ganon Castle Water Chest 2: Player 1 Blue Rupee (OoT)
+      OOT Ganon Castle SR Spirit Center Midair: Player 1 Silver Rupee (Ganon's Castle - Spirit Trial)
+      OOT Ganon Castle SR Spirit Front Right: Player 1 Silver Rupee (Ganon's Castle - Spirit Trial)
+      OOT Ganon Castle SR Spirit Center Bottom: Player 1 Silver Rupee (Ganon's Castle - Spirit Trial)
+      OOT Ganon Castle SR Spirit Back Left: Player 1 Silver Rupee (Ganon's Castle - Spirit Trial)
+      OOT Ganon Castle SR Spirit Back Right: Player 1 Silver Rupee (Ganon's Castle - Spirit Trial)
+      OOT Ganon Castle Spirit Chest 1: Player 1 Piece of Heart (OoT)
+      OOT Ganon Castle Spirit Chest 2: Player 3 10 Bombchu (OoT)
+      OOT Ganon Castle Shadow Chest 1: Player 2 10 Arrows (OoT)
+      OOT Ganon Castle Shadow Chest 2: Player 2 Red Potion (OoT)
+      OOT Ganon Castle Boss Key: Player 1 Rupoor (OoT)
+
+
+  World 2 (570)
+    Inside Eggs (2):
+      OOT Hatch Chicken: Player 1 Rupoor (OoT)
+      OOT Hatch Pocket Cucco: Player 3 5 Arrows (OoT)
+
+    Kokiri Forest (15):
+      OOT Kokiri Forest Cow: Player 1 10 Bombs (OoT)
+      OOT Kokiri Forest Kokiri Sword Chest: Player 1 Rupoor (OoT)
+      OOT Kokiri Shop Item 1: Player 1 10 Bombchu (OoT)
+      OOT Kokiri Shop Item 2: Player 2 Rupoor (OoT)
+      OOT Kokiri Shop Item 3: Player 2 Bunny Hood (OoT)
+      OOT Kokiri Shop Item 4: Player 1 Lon Lon Milk (OoT)
+      OOT Kokiri Shop Item 5: Player 2 Recovery Heart (OoT)
+      OOT Kokiri Shop Item 6: Player 3 Ice Trap
+      OOT Kokiri Shop Item 7: Player 3 5 Deku Nuts (OoT)
+      OOT Kokiri Shop Item 8: Player 1 Blue Rupee (OoT)
+      OOT Mido's House Top Left: Player 2 Deku Shield (OoT)
+      OOT Mido's House Top Right: Player 2 Rupoor (OoT)
+      OOT Mido's House Bottom Left: Player 3 Blue Rupee (OoT)
+      OOT Mido's House Bottom Right: Player 1 Piece of Heart (OoT)
+      OOT Kokiri Forest Storms Grotto: Player 2 Blue Rupee (OoT)
+
+    Hyrule Field (8):
+      OOT Hyrule Field Ocarina of Time: Player 2 30 Deku Seeds
+      OOT Hyrule Field Song of Time: Player 3 Red Potion (OoT)
+      OOT Hyrule Field Grotto Scrub HP: Player 3 Green Potion (OoT)
+      OOT Hyrule Field Grotto Open: Player 1 30 Deku Seeds
+      OOT Hyrule Field Grotto Southeast: Player 1 Deku Stick (OoT)
+      OOT Hyrule Field Grotto Market: Player 3 Piece of Heart (OoT)
+      OOT Hyrule Field Grotto Tektite HP: Player 3 Poe (OoT)
+      OOT Hyrule Field Cow: Player 1 Mirror Shield (OoT)
+
+    Market (41):
+      OOT Market Bazaar Item 1: Player 2 Light Arrows (OoT)
+      OOT Market Bazaar Item 2: Player 3 Rupoor (OoT)
+      OOT Market Bazaar Item 3: Player 1 Green Potion (OoT)
+      OOT Market Bazaar Item 4: Player 2 10 Deku Nuts (OoT)
+      OOT Market Bazaar Item 5: Player 1 Rupoor (OoT)
+      OOT Market Bazaar Item 6: Player 2 20 Bombchu (OoT)
+      OOT Market Bazaar Item 7: Player 3 Fairy Bow (OoT)
+      OOT Market Bazaar Item 8: Player 1 Blue Fire
+      OOT Market Potion Shop Item 1: Player 3 Progressive Strength (OoT)
+      OOT Market Potion Shop Item 2: Player 1 Blue Rupee (OoT)
+      OOT Market Potion Shop Item 3: Player 1 Purple Rupee (OoT)
+      OOT Market Potion Shop Item 4: Player 2 5 Arrows (OoT)
+      OOT Market Potion Shop Item 5: Player 1 Deku Nut Upgrade (OoT)
+      OOT Market Potion Shop Item 6: Player 2 Din's Fire (OoT)
+      OOT Market Potion Shop Item 7: Player 3 Piece of Heart (OoT)
+      OOT Market Potion Shop Item 8: Player 1 5 Bombs (OoT)
+      OOT Market Bombchu Shop Item 1: Player 2 Song of Time (OoT)
+      OOT Market Bombchu Shop Item 2: Player 1 Deku Stick (OoT)
+      OOT Market Bombchu Shop Item 3: Player 1 Nocturne of Shadow
+      OOT Market Bombchu Shop Item 4: Player 3 5 Deku Nuts (OoT)
+      OOT Market Bombchu Shop Item 5: Player 3 Rupoor (OoT)
+      OOT Market Bombchu Shop Item 6: Player 3 Requiem of Spirit
+      OOT Market Bombchu Shop Item 7: Player 1 Recovery Heart (OoT)
+      OOT Market Bombchu Shop Item 8: Player 1 Rupoor (OoT)
+      OOT Market Pot House Big Poes: Player 3 Blue Rupee (OoT)
+      OOT Market Dog Lady HP: Player 2 Broken Goron's Sword
+      OOT Bombchu Bowling Reward 1: Player 1 Blue Rupee (OoT)
+      OOT Bombchu Bowling Reward 2: Player 3 10 Bombs (OoT)
+      OOT Shooting Gallery Child: Player 1 Goron Mask (OoT)
+      OOT Treasure Chest Game Buy Key: Player 2 Small Key (Chest Game)
+      OOT Treasure Chest Game Room 1 Chest Left: Player 2 Small Key (Chest Game)
+      OOT Treasure Chest Game Room 1 Chest Right: Player 2 Green Rupee (OoT)
+      OOT Treasure Chest Game Room 2 Chest Left: Player 2 Small Key (Chest Game)
+      OOT Treasure Chest Game Room 2 Chest Right: Player 2 Green Rupee (OoT)
+      OOT Treasure Chest Game Room 3 Chest Left: Player 2 Small Key (Chest Game)
+      OOT Treasure Chest Game Room 3 Chest Right: Player 2 Blue Rupee (OoT)
+      OOT Treasure Chest Game Room 4 Chest Left: Player 2 Small Key (Chest Game)
+      OOT Treasure Chest Game Room 4 Chest Right: Player 2 Blue Rupee (OoT)
+      OOT Treasure Chest Game Room 5 Chest Left: Player 2 Small Key (Chest Game)
+      OOT Treasure Chest Game Room 5 Chest Right: Player 2 Red Rupee (OoT)
+      OOT Treasure Chest Game HP: Player 2 5 Deku Nuts (OoT)
+
+    Lon Lon Ranch (11):
+      OOT Lon Lon Ranch Malon Song: Player 2 20 Bombs (OoT)
+      OOT Lon Lon Ranch Stables Cow Left: Player 1 Piece of Heart (OoT)
+      OOT Lon Lon Ranch Stables Cow Right: Player 3 30 Deku Seeds
+      OOT Lon Lon Ranch Silo HP: Player 2 Odd Mushroom
+      OOT Lon Lon Ranch Silo Cow Front: Player 1 Recovery Heart (OoT)
+      OOT Lon Lon Ranch Silo Cow Back: Player 2 Piece of Heart (OoT)
+      OOT Lon Lon Ranch Talon Bottle: Player 2 10 Arrows (OoT)
+      OOT Lon Lon Ranch Talon Buy Milk: Player 2 Lon Lon Milk (OoT)
+      OOT Lon Lon Ranch Grotto Left Scrub: Player 1 Goron Tunic (OoT)
+      OOT Lon Lon Ranch Grotto Center Scrub: Player 3 10 Arrows (OoT)
+      OOT Lon Lon Ranch Grotto Right Scrub: Player 2 Weird Egg
+
+    Hyrule Castle (2):
+      OOT Malon Egg: Player 2 Deku Stick (OoT)
+      OOT Great Fairy Din's Fire: Player 1 Heart Container (OoT)
+
+    POCKET (2):
+      OOT Zelda's Letter: Player 2 20 Bombs (OoT)
+      OOT Zelda's Song: Player 3 Deku Shield (OoT)
+
+    Outside Ganon's Castle (1):
+      OOT Great Fairy Defense Upgrade: Player 3 Purple Rupee (OoT)
+
+    Lost Woods (14):
+      OOT Lost Woods Target: Player 3 Purple Rupee (OoT)
+      OOT Lost Woods Skull Kid: Player 2 Rupoor (OoT)
+      OOT Lost Woods Memory Game: Player 2 10 Bombchu (OoT)
+      OOT Lost Woods Scrub Sticks Upgrade: Player 1 Zora Mask (OoT)
+      OOT Lost Woods Odd Mushroom: Player 1 30 Deku Seeds
+      OOT Lost Woods Poacher's Saw: Player 2 Mirror Shield (OoT)
+      OOT Lost Woods Grotto Generic: Player 3 Bomb Bag (OoT)
+      OOT Lost Woods Gift from Saria: Player 3 Ice Arrows (OoT)
+      OOT Lost Woods Scrub Near Theater Left: Player 3 Blue Rupee (OoT)
+      OOT Lost Woods Scrub Near Theater Right: Player 2 Fairy Slingshot
+      OOT Deku Theater Sticks Upgrade: Player 1 Lon Lon Milk (OoT)
+      OOT Deku Theater Nuts Upgrade: Player 2 Sun's Song (OoT)
+      OOT Lost Woods Grotto Scrub Nuts Upgrade: Player 3 Recovery Heart (OoT)
+      OOT Lost Woods Grotto Scrub Back: Player 1 20 Bombchu (OoT)
+
+    Sacred Forest Meadow (5):
+      OOT Sacred Meadow Grotto: Player 1 Ice Trap
+      OOT Saria's Song: Player 3 10 Bombchu (OoT)
+      OOT Sacred Meadow Sheik Song: Player 1 5 Bombs (OoT)
+      OOT Sacred Meadow Storms Grotto Front Scrub: Player 2 Blue Fire
+      OOT Sacred Meadow Storms Grotto Back Scrub: Player 2 Progressive Strength (OoT)
+
+    Kakariko (35):
+      OOT Kakariko Anju Bottle: Player 2 Rupoor (OoT)
+      OOT Kakariko Anju Egg: Player 2 Boomerang
+      OOT Kakariko Anju Cojiro: Player 2 Spin Attack Upgrade (OoT)
+      OOT Kakariko Song Shadow: Player 1 Piece of Heart (OoT)
+      OOT Kakariko Man on Roof: Player 2 Piece of Heart (OoT)
+      OOT Kakariko Bazaar Item 1: Player 2 Rupoor (OoT)
+      OOT Kakariko Bazaar Item 2: Player 1 20 Bombchu (OoT)
+      OOT Kakariko Bazaar Item 3: Player 1 Odd Mushroom
+      OOT Kakariko Bazaar Item 4: Player 2 Zora Tunic (OoT)
+      OOT Kakariko Bazaar Item 5: Player 2 Lon Lon Milk (OoT)
+      OOT Kakariko Bazaar Item 6: Player 1 5 Deku Nuts (OoT)
+      OOT Kakariko Bazaar Item 7: Player 2 5 Bombchu (OoT)
+      OOT Kakariko Bazaar Item 8: Player 3 30 Deku Seeds
+      OOT Kakariko Potion Shop Item 1: Player 2 20 Bombs (OoT)
+      OOT Kakariko Potion Shop Item 2: Player 3 5 Deku Nuts (OoT)
+      OOT Kakariko Potion Shop Item 3: Player 1 Piece of Heart (OoT)
+      OOT Kakariko Potion Shop Item 4: Player 3 5 Bombs (OoT)
+      OOT Kakariko Potion Shop Item 5: Player 2 Piece of Heart (OoT)
+      OOT Kakariko Potion Shop Item 6: Player 1 Red Potion (OoT)
+      OOT Kakariko Potion Shop Item 7: Player 3 Blue Rupee (OoT)
+      OOT Kakariko Potion Shop Item 8: Player 1 5 Arrows (OoT)
+      OOT Kakariko Potion Shop Odd Potion: Player 1 Prelude of Light
+      OOT Kakariko Potion Shop Buy Blue Potion: Player 2 Blue Potion (OoT)
+      OOT Shooting Gallery Adult: Player 1 Gold Rupee (OoT)
+      OOT Kakariko Cow: Player 1 Piece of Heart (OoT)
+      OOT Kakariko Impa House HP: Player 3 Fairy Slingshot
+      OOT Windmill HP: Player 3 Pocket Egg
+      OOT Windmill Song of Storms: Player 1 Piece of Heart (OoT)
+      OOT Skulltula House 10 Tokens: Player 3 Red Rupee (OoT)
+      OOT Skulltula House 20 Tokens: Player 1 Red Rupee (OoT)
+      OOT Skulltula House 30 Tokens: Player 2 Rupoor (OoT)
+      OOT Skulltula House 40 Tokens: Player 1 Blue Rupee (OoT)
+      OOT Skulltula House 50 Tokens: Player 3 Rupoor (OoT)
+      OOT Kakariko Grotto Front: Player 1 Rupoor (OoT)
+      OOT Kakariko Grotto Back: Player 1 Sun's Song (OoT)
+
+    Graveyard (8):
+      OOT Graveyard Dampe Game: Player 1 Fairy (OoT)
+      OOT Graveyard Crate HP: Player 1 Deku Nut Upgrade (OoT)
+      OOT Graveyard Royal Tomb Song: Player 1 Piece of Heart (OoT)
+      OOT Graveyard Royal Tomb Chest: Player 2 Requiem of Spirit
+      OOT Graveyard Fairy Tomb: Player 2 Recovery Heart (OoT)
+      OOT Graveyard ReDead Tomb: Player 1 Rupoor (OoT)
+      OOT Graveyard Dampe Tomb Reward 1: Player 3 Recovery Heart (OoT)
+      OOT Graveyard Dampe Tomb Reward 2: Player 1 Piece of Heart (OoT)
+
+    Death Mountain Trail (8):
+      OOT Death Mountain Trail Chest: Player 3 Red Rupee (OoT)
+      OOT Death Mountain Trail HP: Player 3 Rupoor (OoT)
+      OOT Death Mountain Trail Prescription: Player 3 Piece of Heart (OoT)
+      OOT Death Mountain Trail Claim Check: Player 2 Heart Container (OoT)
+      OOT Death Mountain Trail Biggoron Sword: Player 1 Progressive Scale (Oot)
+      OOT Death Mountain Trail Grotto: Player 1 Blue Rupee (OoT)
+      OOT Death Mountain Trail Cow: Player 3 Rupoor (OoT)
+      OOT Great Fairy Magic Upgrade: Player 2 Giant's Knife
+
+    Goron City (19):
+      OOT Goron City Maze Center 1: Player 2 Green Rupee (OoT)
+      OOT Goron City Maze Center 2: Player 2 Recovery Heart (OoT)
+      OOT Goron City Maze Left: Player 2 Poe (OoT)
+      OOT Goron City Big Pot HP: Player 1 10 Deku Nuts (OoT)
+      OOT Goron City Tunic: Player 1 30 Arrows (OoT)
+      OOT Goron City Bomb Bag: Player 3 Heart Container (OoT)
+      OOT Goron City Medigoron Giant Knife: Player 2 Lon Lon Milk (OoT)
+      OOT Darunia: Player 3 Prelude of Light
+      OOT Goron Shop Item 1: Player 2 5 Bombs (OoT)
+      OOT Goron Shop Item 2: Player 3 Progressive Wallet (OoT)
+      OOT Goron Shop Item 3: Player 1 Poacher's Saw
+      OOT Goron Shop Item 4: Player 2 Blue Rupee (OoT)
+      OOT Goron Shop Item 5: Player 3 Green Rupee (OoT)
+      OOT Goron Shop Item 6: Player 3 10 Arrows (OoT)
+      OOT Goron Shop Item 7: Player 3 Piece of Heart (OoT)
+      OOT Goron Shop Item 8: Player 1 Purple Rupee (OoT)
+      OOT Goron City Grotto Left Scrub: Player 3 Piece of Heart (OoT)
+      OOT Goron City Grotto Center Scrub: Player 2 Piece of Heart (OoT)
+      OOT Goron City Grotto Right Scrub: Player 1 10 Bombchu (OoT)
+
+    Zora's River (13):
+      OOT Zora River Bean Seller: Player 2 Zelda's Lullaby
+      OOT Zora River HP Pillar: Player 3 Red Potion (OoT)
+      OOT Zora River HP Platform: Player 2 Gerudo Mask
+      OOT Zora River Frogs Storms: Player 2 Rupoor (OoT)
+      OOT Zora River Frogs Zeldas Lullaby: Player 2 Purple Rupee (OoT)
+      OOT Zora River Frogs Eponas Song: Player 2 Purple Rupee (OoT)
+      OOT Zora River Frogs Sarias Song: Player 2 Purple Rupee (OoT)
+      OOT Zora River Frogs Suns Song: Player 2 Purple Rupee (OoT)
+      OOT Zora River Frogs Song of Time: Player 2 Purple Rupee (OoT)
+      OOT Zora River Frogs Game: Player 2 Stone of Agony (OoT)
+      OOT Zora River Storms Grotto Front Scrub: Player 1 Piece of Heart (OoT)
+      OOT Zora River Storms Grotto Back Scrub: Player 3 Fire Arrows (OoT)
+      OOT Zora River Grotto: Player 3 10 Arrows (OoT)
+
+    Zora's Domain (12):
+      OOT Zora Domain Waterfall Chest: Player 2 5 Deku Nuts (OoT)
+      OOT Zora Domain Diving Game: Player 3 Deku Nut Upgrade (OoT)
+      OOT Zora Domain Tunic: Player 2 Piece of Heart (OoT)
+      OOT Zora Domain Eyeball Frog: Player 1 20 Bombchu (OoT)
+      OOT Zora Shop Item 1: Player 2 Piece of Heart (OoT)
+      OOT Zora Shop Item 2: Player 1 Goron Tunic (OoT)
+      OOT Zora Shop Item 3: Player 2 Deku Shield (OoT)
+      OOT Zora Shop Item 4: Player 3 Magic Upgrade (OoT)
+      OOT Zora Shop Item 5: Player 1 Rupoor (OoT)
+      OOT Zora Shop Item 6: Player 2 Green Rupee (OoT)
+      OOT Zora Shop Item 7: Player 3 Nayru's Love (OoT)
+      OOT Zora Shop Item 8: Player 2 Rupoor (OoT)
+
+    Lake Hylia (10):
+      OOT Lake Hylia Underwater Bottle: Player 2 Piece of Heart (OoT)
+      OOT Lake Hylia Fire Arrow: Player 2 Pocket Egg
+      OOT Lake Hylia HP: Player 2 Recovery Heart (OoT)
+      OOT Laboratory Dive: Player 2 Eyeball Frog
+      OOT Laboratory Eye Drops: Player 1 Ice Trap
+      OOT Fishing Pond Child: Player 1 Progressive Sword (OoT)
+      OOT Fishing Pond Adult: Player 1 Deku Stick Upgrade (OoT)
+      OOT Lake Hylia Grotto Left Scrub: Player 1 Red Rupee (OoT)
+      OOT Lake Hylia Grotto Center Scrub: Player 3 30 Arrows (OoT)
+      OOT Lake Hylia Grotto Right Scrub: Player 1 Recovery Heart (OoT)
+
+    Zora's Fountain (3):
+      OOT Zora Fountain Iceberg HP: Player 3 10 Bombs (OoT)
+      OOT Zora Fountain Bottom HP: Player 3 Blue Rupee (OoT)
+      OOT Great Fairy Farore's Wind: Player 1 10 Bombchu (OoT)
+
+    Temple of Time (3):
+      OOT Temple of Time Master Sword: Player 3 Red Potion (OoT)
+      OOT Temple of Time Sheik Song: Player 3 30 Arrows (OoT)
+      OOT Temple of Time Light Arrows: Player 1 Piece of Heart (OoT)
+
+    Sacred Realm (1):
+      OOT Temple of Time Medallion: Player 2 Spirit Medallion
+
+    Death Mountain Crater (9):
+      OOT Death Mountain Crater Alcove HP: Player 1 Progressive Wallet (OoT)
+      OOT Death Mountain Crater Scrub Child: Player 2 Progressive Sword (OoT)
+      OOT Death Mountain Crater Volcano HP: Player 2 Red Rupee (OoT)
+      OOT Death Mountain Crater Sheik Song: Player 1 10 Arrows (OoT)
+      OOT Death Mountain Crater Grotto: Player 1 30 Arrows (OoT)
+      OOT Death Mountain Crater Grotto Left Scrub: Player 2 Boss Key (Forest Temple)
+      OOT Death Mountain Crater Grotto Center Scrub: Player 2 Bottle of Milk (OoT)
+      OOT Death Mountain Crater Grotto Right Scrub: Player 1 Red Potion (OoT)
+      OOT Great Fairy Magic Upgrade 2: Player 2 Rupoor (OoT)
+
+    Gerudo Valley (7):
+      OOT Gerudo Valley Crate HP: Player 3 Purple Rupee (OoT)
+      OOT Gerudo Valley Waterfall HP: Player 1 Boomerang
+      OOT Gerudo Valley Cow: Player 2 Rupoor (OoT)
+      OOT Gerudo Valley Chest: Player 2 Heart Container (OoT)
+      OOT Gerudo Valley Broken Goron Sword: Player 2 Red Potion (OoT)
+      OOT Gerudo Valley Grotto Front Scrub: Player 1 Blue Rupee (OoT)
+      OOT Gerudo Valley Grotto Back Scrub: Player 2 Deku Nut Upgrade (OoT)
+
+    Gerudo's Fortress (3):
+      OOT Gerudo Fortress Archery Reward 1: Player 1 Blue Rupee (OoT)
+      OOT Gerudo Fortress Archery Reward 2: Player 2 5 Deku Nuts (OoT)
+      OOT Gerudo Fortress Chest: Player 1 Prescription
+
+    Haunted Wasteland (2):
+      OOT Haunted Wasteland Carpet Merchant: Player 2 20 Bombchu (OoT)
+      OOT Haunted Wasteland Chest: Player 2 Deku Stick (OoT)
+
+    Desert Colossus (5):
+      OOT Desert Colossus HP: Player 1 Gold Rupee (OoT)
+      OOT Desert Colossus Song Spirit: Player 2 Red Potion (OoT)
+      OOT Great Fairy Nayru's Love: Player 1 Piece of Heart (OoT)
+      OOT Desert Colossus Grotto Front Scrub: Player 3 5 Arrows (OoT)
+      OOT Desert Colossus Grotto Back Scrub: Player 2 Fire Arrows (OoT)
+
+    Deku Tree (8):
+      OOT Deku Tree Boss Container: Player 3 Master Sword
+      OOT Deku Tree Boss: Player 2 Kokiri's Emerald
+      OOT Deku Tree Map Chest: Player 3 Nocturne of Shadow
+      OOT Deku Tree Compass Chest: Player 3 Blue Rupee (OoT)
+      OOT Deku Tree Compass Room Side Chest: Player 1 Bunny Hood (OoT)
+      OOT Deku Tree Slingshot Chest: Player 2 Progressive Hookshot (OoT)
+      OOT Deku Tree Slingshot Side Chest: Player 3 Blue Rupee (OoT)
+      OOT Deku Tree Basement Chest: Player 2 Piece of Heart (OoT)
+
+    Dodongo's Cavern (12):
+      OOT Dodongo Cavern Boss Chest: Player 1 Blue Rupee (OoT)
+      OOT Dodongo Cavern Boss Container: Player 1 Bottle of Milk (OoT)
+      OOT Dodongo Cavern Boss: Player 2 Shadow Medallion
+      OOT Dodongo Cavern Map Chest: Player 2 Piece of Heart (OoT)
+      OOT Dodongo Cavern Lobby Scrub: Player 1 Hover Boots (OoT)
+      OOT Dodongo Cavern Green Side Room Scrub: Player 1 Blue Rupee (OoT)
+      OOT Dodongo Cavern Compass Chest: Player 2 Green Potion (OoT)
+      OOT Dodongo Cavern Bomb Bag Side Chest: Player 2 Zora Mask (OoT)
+      OOT Dodongo Cavern Bomb Bag Side Room Left Scrub: Player 3 5 Bombchu (OoT)
+      OOT Dodongo Cavern Bomb Bag Side Room Right Scrub: Player 2 Rupoor (OoT)
+      OOT Dodongo Cavern Bomb Bag Chest: Player 2 Green Potion (OoT)
+      OOT Dodongo Cavern Bridge Chest: Player 3 Gerudo's Membership Card
+
+    Jabu-Jabu's Belly (14):
+      OOT Jabu-Jabu Boss Container: Player 3 Rupoor (OoT)
+      OOT Jabu-Jabu Boss: Player 2 Forest Medallion
+      OOT MQ Jabu-Jabu Map Chest: Player 2 Mask of Truth (OoT)
+      OOT MQ Jabu-Jabu Entry Chest: Player 2 Bolero of Fire
+      OOT MQ Jabu-Jabu Second Room B1 Chest: Player 3 10 Bombs (OoT)
+      OOT MQ Jabu-Jabu Compass Chest: Player 2 Rupoor (OoT)
+      OOT MQ Jabu-Jabu Second Room 1F Chest: Player 1 5 Bombs (OoT)
+      OOT MQ Jabu-Jabu Third Room West Chest: Player 3 Blue Fire
+      OOT MQ Jabu-Jabu Third Room East Chest: Player 3 Poe (OoT)
+      OOT MQ Jabu-Jabu Boomerang Chest: Player 2 5 Deku Nuts (OoT)
+      OOT MQ Jabu-Jabu SoT Room Lower Chest: Player 3 Progressive Strength (OoT)
+      OOT MQ Jabu-Jabu Cow: Player 3 Red Rupee (OoT)
+      OOT MQ Jabu-Jabu Back Chest: Player 3 Progressive Sword (OoT)
+      OOT MQ Jabu-Jabu Pre-Boss Chest: Player 3 Megaton Hammer (OoT)
+
+    Forest Temple (15):
+      OOT Forest Temple Boss: Player 2 Light Medallion
+      OOT Forest Temple Boss Container: Player 3 Rupoor (OoT)
+      OOT Forest Temple Tree Small Key: Player 2 Green Potion (OoT)
+      OOT Forest Temple Mini-Boss Key: Player 3 Piece of Heart (OoT)
+      OOT Forest Temple Floormaster: Player 1 Progressive Sword (OoT)
+      OOT Forest Temple Map: Player 2 Rupoor (OoT)
+      OOT Forest Temple Garden: Player 1 Piece of Heart (OoT)
+      OOT Forest Temple Well: Player 2 Hover Boots (OoT)
+      OOT Forest Temple Maze: Player 1 Nayru's Love (OoT)
+      OOT Forest Temple Boss Key: Player 3 5 Bombs (OoT)
+      OOT Forest Temple Poe Key: Player 3 Saria's Song
+      OOT Forest Temple Bow: Player 1 Gerudo's Membership Card
+      OOT Forest Temple Compass: Player 3 Piece of Heart (OoT)
+      OOT Forest Temple Checkerboard: Player 1 Heart Container (OoT)
+      OOT Forest Temple Antichamber: Player 1 Weird Egg
+
+    Fire Temple (14):
+      OOT Fire Temple Boss Container: Player 1 5 Deku Nuts (OoT)
+      OOT Fire Temple Boss: Player 2 Goron's Ruby
+      OOT MQ Fire Temple Early Lower Left Chest: Player 2 Gerudo's Membership Card
+      OOT MQ Fire Temple Map Chest: Player 2 30 Arrows (OoT)
+      OOT MQ Fire Temple Pre-Boss Chest: Player 2 5 Bombs (OoT)
+      OOT MQ Fire Temple Hammer Chest: Player 1 10 Deku Nuts (OoT)
+      OOT MQ Fire Temple Boss Key Chest: Player 1 Heart Container (OoT)
+      OOT MQ Fire Temple 1f Lava Room Goron Chest: Player 2 Purple Rupee (OoT)
+      OOT MQ Fire Temple Compass Chest: Player 2 30 Arrows (OoT)
+      OOT MQ Fire Temple Maze Lower Chest: Player 3 5 Deku Nuts (OoT)
+      OOT MQ Fire Temple Maze Upper Chest: Player 3 Song of Storms (OoT)
+      OOT MQ Fire Temple Maze Side Room Chest: Player 3 5 Deku Nuts (OoT)
+      OOT MQ Fire Temple Flare Dancer Key: Player 1 Rupoor (OoT)
+      OOT MQ Fire Temple Topmost Chest: Player 1 5 Deku Nuts (OoT)
+
+    Water Temple (8):
+      OOT Water Temple Boss HC: Player 1 Piece of Heart (OoT)
+      OOT Water Temple Boss: Player 2 Zora's Sapphire
+      OOT MQ Water Temple Compass Chest: Player 1 Fairy Bow (OoT)
+      OOT MQ Water Temple Longshot Chest: Player 3 Blue Rupee (OoT)
+      OOT MQ Water Temple Map Chest: Player 3 Rupoor (OoT)
+      OOT MQ Water Temple Boss Key Chest: Player 3 Deku Stick (OoT)
+      OOT MQ Water Temple Side Loop Key: Player 1 Blue Rupee (OoT)
+      OOT MQ Water Temple Central Pillar Chest: Player 1 Green Rupee (OoT)
+
+    Spirit Temple (36):
+      OOT Spirit Temple Boss HC: Player 2 Green Potion (OoT)
+      OOT Spirit Temple Boss: Player 2 Water Medallion
+      OOT Spirit Temple Child First Chest: Player 1 Recovery Heart (OoT)
+      OOT Spirit Temple Child Second Chest: Player 3 Piece of Heart (OoT)
+      OOT Spirit Temple SR Child 1: Player 2 Silver Rupee (Spirit Temple - Child)
+      OOT Spirit Temple SR Child 2: Player 2 Silver Rupee (Spirit Temple - Child)
+      OOT Spirit Temple SR Child 3: Player 2 Silver Rupee (Spirit Temple - Child)
+      OOT Spirit Temple SR Child 4: Player 2 Silver Rupee (Spirit Temple - Child)
+      OOT Spirit Temple SR Child 5: Player 2 Silver Rupee (Spirit Temple - Child)
+      OOT Spirit Temple Child Climb 1: Player 3 10 Arrows (OoT)
+      OOT Spirit Temple Child Climb 2: Player 2 Blue Rupee (OoT)
+      OOT Spirit Temple Sun Block Room Torches: Player 1 30 Deku Seeds
+      OOT Spirit Temple SR Sun 1: Player 2 Silver Rupee (Spirit Temple - Sun Block)
+      OOT Spirit Temple SR Sun 2: Player 2 Silver Rupee (Spirit Temple - Sun Block)
+      OOT Spirit Temple SR Sun 3: Player 2 Silver Rupee (Spirit Temple - Sun Block)
+      OOT Spirit Temple SR Sun 4: Player 2 Silver Rupee (Spirit Temple - Sun Block)
+      OOT Spirit Temple SR Sun 5: Player 2 Silver Rupee (Spirit Temple - Sun Block)
+      OOT Spirit Temple Silver Gauntlets: Player 3 Progressive Strength (OoT)
+      OOT Spirit Temple Adult Lullaby: Player 3 Rupoor (OoT)
+      OOT Spirit Temple Adult Silver Rupees: Player 2 Purple Rupee (OoT)
+      OOT Spirit Temple SR Boulders 1: Player 2 Silver Rupee (Spirit Temple - Boulders)
+      OOT Spirit Temple SR Boulders 2: Player 2 Silver Rupee (Spirit Temple - Boulders)
+      OOT Spirit Temple SR Boulders 3: Player 2 Silver Rupee (Spirit Temple - Boulders)
+      OOT Spirit Temple SR Boulders 4: Player 2 Silver Rupee (Spirit Temple - Boulders)
+      OOT Spirit Temple SR Boulders 5: Player 2 Silver Rupee (Spirit Temple - Boulders)
+      OOT Spirit Temple Adult Suns on Wall 1: Player 3 Heart Container (OoT)
+      OOT Spirit Temple Adult Suns on Wall 2: Player 3 Recovery Heart (OoT)
+      OOT Spirit Temple Statue Base: Player 3 Eye Drops
+      OOT Spirit Temple Statue Hands: Player 1 Broken Goron's Sword
+      OOT Spirit Temple Statue Upper Right: Player 2 Piece of Heart (OoT)
+      OOT Spirit Temple Adult Late Sun on Wall: Player 1 Piece of Heart (OoT)
+      OOT Spirit Temple Adult Invisible 1: Player 3 Claim Check
+      OOT Spirit Temple Adult Invisible 2: Player 1 Gold Rupee (OoT)
+      OOT Spirit Temple Mirror Shield: Player 2 Red Potion (OoT)
+      OOT Spirit Temple Adult Boss Key Chest: Player 2 Progressive Sword (OoT)
+      OOT Spirit Temple Adult Topmost Sun on Wall: Player 2 Progressive Wallet (OoT)
+
+    Shadow Temple (34):
+      OOT Shadow Temple Boss HC: Player 1 Green Rupee (OoT)
+      OOT Shadow Temple Boss: Player 2 Fire Medallion
+      OOT Shadow Temple Map: Player 1 Rupoor (OoT)
+      OOT Shadow Temple Hover Boots: Player 1 Boss Key (Water Temple)
+      OOT Shadow Temple Compass: Player 2 10 Arrows (OoT)
+      OOT Shadow Temple SR Scythe 1: Player 2 Silver Rupee (Shadow Temple - Scythe)
+      OOT Shadow Temple SR Scythe 2: Player 2 Silver Rupee (Shadow Temple - Scythe)
+      OOT Shadow Temple SR Scythe 3: Player 2 Silver Rupee (Shadow Temple - Scythe)
+      OOT Shadow Temple SR Scythe 4: Player 2 Silver Rupee (Shadow Temple - Scythe)
+      OOT Shadow Temple SR Scythe 5: Player 2 Silver Rupee (Shadow Temple - Scythe)
+      OOT Shadow Temple Silver Rupees: Player 1 10 Bombchu (OoT)
+      OOT Shadow Temple Spinning Blades Visible: Player 1 Heart Container (OoT)
+      OOT Shadow Temple Spinning Blades Invisible: Player 1 Empty Bottle (OoT)
+      OOT Shadow Temple SR Pit 1: Player 2 Silver Rupee (Shadow Temple - Large Pits)
+      OOT Shadow Temple SR Pit 2: Player 2 Silver Rupee (Shadow Temple - Large Pits)
+      OOT Shadow Temple SR Pit 3: Player 2 Silver Rupee (Shadow Temple - Large Pits)
+      OOT Shadow Temple SR Pit 4: Player 2 Silver Rupee (Shadow Temple - Large Pits)
+      OOT Shadow Temple SR Pit 5: Player 2 Silver Rupee (Shadow Temple - Large Pits)
+      OOT Shadow Temple Falling Spikes Lower: Player 2 Lon Lon Milk (OoT)
+      OOT Shadow Temple Falling Spikes Upper 1: Player 2 Fairy Slingshot
+      OOT Shadow Temple Falling Spikes Upper 2: Player 3 Green Potion (OoT)
+      OOT Shadow Temple SR Spikes Back Left: Player 2 Silver Rupee (Shadow Temple - Spikes)
+      OOT Shadow Temple SR Spikes Right: Player 2 Silver Rupee (Shadow Temple - Spikes)
+      OOT Shadow Temple SR Spikes Center: Player 2 Silver Rupee (Shadow Temple - Spikes)
+      OOT Shadow Temple SR Spikes Front Left: Player 2 Silver Rupee (Shadow Temple - Spikes)
+      OOT Shadow Temple SR Spikes Midair: Player 2 Silver Rupee (Shadow Temple - Spikes)
+      OOT Shadow Temple Invisible Spike Room: Player 1 Ice Trap
+      OOT Shadow Temple Skull: Player 1 Piece of Heart (OoT)
+      OOT Shadow Temple Wind Room Hint: Player 2 Red Potion (OoT)
+      OOT Shadow Temple After Wind: Player 2 Recovery Heart (OoT)
+      OOT Shadow Temple After Wind Invisible: Player 3 Deku Stick (OoT)
+      OOT Shadow Temple Boss Key Room 1: Player 3 Blue Rupee (OoT)
+      OOT Shadow Temple Boss Key Room 2: Player 1 Iron Boots (OoT)
+      OOT Shadow Temple Invisible Floormaster: Player 1 Blue Rupee (OoT)
+
+    Bottom of the Well (19):
+      OOT Bottom of the Well Coffin: Player 3 Hylian Shield
+      OOT Bottom of the Well Compass: Player 3 Sun's Song (OoT)
+      OOT Bottom of the Well Under Debris: Player 3 Farore's Wind (OoT)
+      OOT Bottom of the Well Back West: Player 3 Boss Key (Shadow Temple)
+      OOT Bottom of the Well East: Player 1 10 Deku Nuts (OoT)
+      OOT Bottom of the Well Front West: Player 2 Master Sword
+      OOT Bottom of the Well Underwater: Player 1 Lon Lon Milk (OoT)
+      OOT Bottom of the Well East Cage: Player 3 30 Arrows (OoT)
+      OOT Bottom of the Well Blood Chest: Player 3 Lon Lon Milk (OoT)
+      OOT Bottom of the Well Underwater 2: Player 2 Progressive Strength (OoT)
+      OOT Bottom of the Well Map: Player 2 5 Bombs (OoT)
+      OOT Bottom of the Well Pits: Player 1 10 Arrows (OoT)
+      OOT Bottom of the Well Lens: Player 1 20 Bombchu (OoT)
+      OOT Bottom of the Well Lens Side Chest: Player 1 5 Arrows (OoT)
+      OOT Bottom of the Well SR 1: Player 2 Silver Rupee (Bottom of the Well)
+      OOT Bottom of the Well SR 2: Player 2 Silver Rupee (Bottom of the Well)
+      OOT Bottom of the Well SR 3: Player 2 Silver Rupee (Bottom of the Well)
+      OOT Bottom of the Well SR 4: Player 2 Silver Rupee (Bottom of the Well)
+      OOT Bottom of the Well SR 5: Player 2 Silver Rupee (Bottom of the Well)
+
+    Ice Cavern (5):
+      OOT MQ Ice Cavern Map Chest: Player 2 Rupoor (OoT)
+      OOT MQ Ice Cavern Compass Chest: Player 2 Green Rupee (OoT)
+      OOT MQ Ice Cavern Piece of Heart: Player 1 Deku Stick (OoT)
+      OOT MQ Ice Cavern Iron Boots: Player 3 Piece of Heart (OoT)
+      OOT MQ Ice Cavern Sheik Song: Player 2 Red Rupee (OoT)
+
+    NONE (1):
+      OOT Gerudo Member Card: Player 1 Rupoor (OoT)
+
+    Gerudo's Training Ground (31):
+      OOT MQ Gerudo Training Grounds Entryway Left Chest: Player 2 Rupoor (OoT)
+      OOT MQ Gerudo Training Grounds Entryway Right Chest: Player 3 Fairy (OoT)
+      OOT MQ Gerudo Training Grounds Maze First Chest: Player 3 10 Arrows (OoT)
+      OOT MQ Gerudo Training Grounds Maze Second Chest: Player 3 5 Deku Nuts (OoT)
+      OOT MQ Gerudo Training Grounds Maze Third Chest: Player 2 Recovery Heart (OoT)
+      OOT MQ Gerudo Training Grounds Maze Fourth Chest: Player 1 Piece of Heart (OoT)
+      OOT MQ Gerudo Training Grounds Maze Right Side Middle Chest: Player 3 Zelda's Lullaby
+      OOT MQ Gerudo Training Grounds Maze Right Side Right Chest: Player 3 Piece of Heart (OoT)
+      OOT MQ Gerudo Training Grounds Right Side Dinolfos Chest: Player 2 20 Bombchu (OoT)
+      OOT MQ Gerudo Training Grounds SR Lava Back-Left: Player 2 Silver Rupee (Gerudo Training Ground - Lava)
+      OOT MQ Gerudo Training Grounds SR Lava Back-Right: Player 2 Silver Rupee (Gerudo Training Ground - Lava)
+      OOT MQ Gerudo Training Grounds SR Lava Center: Player 2 Silver Rupee (Gerudo Training Ground - Lava)
+      OOT MQ Gerudo Training Grounds SR Lava Front-Right: Player 2 Silver Rupee (Gerudo Training Ground - Lava)
+      OOT MQ Gerudo Training Grounds SR Lava Front-Left: Player 2 Silver Rupee (Gerudo Training Ground - Lava)
+      OOT MQ Gerudo Training Grounds SR Lava Front: Player 2 Silver Rupee (Gerudo Training Ground - Lava)
+      OOT MQ Gerudo Training Grounds Water Room Chest: Player 1 Keaton Mask (OoT)
+      OOT MQ Gerudo Training Grounds SR Water Top-Left: Player 2 Silver Rupee (Gerudo Training Ground - Water)
+      OOT MQ Gerudo Training Grounds SR Water Center: Player 2 Silver Rupee (Gerudo Training Ground - Water)
+      OOT MQ Gerudo Training Grounds SR Water Bottom-Right: Player 2 Silver Rupee (Gerudo Training Ground - Water)
+      OOT MQ Gerudo Training Grounds Left Side Iron Knuckle Chest: Player 2 Rupoor (OoT)
+      OOT MQ Gerudo Training Grounds SR Slopes Top Right: Player 2 Silver Rupee (Gerudo Training Ground - Slopes)
+      OOT MQ Gerudo Training Grounds SR Slopes Middle: Player 2 Silver Rupee (Gerudo Training Ground - Slopes)
+      OOT MQ Gerudo Training Grounds SR Slopes Front: Player 2 Silver Rupee (Gerudo Training Ground - Slopes)
+      OOT MQ Gerudo Training Grounds SR Slopes Front-Left: Player 2 Silver Rupee (Gerudo Training Ground - Slopes)
+      OOT MQ Gerudo Training Grounds SR Slopes Front-Right: Player 2 Silver Rupee (Gerudo Training Ground - Slopes)
+      OOT MQ Gerudo Training Grounds Stalfos Room Chest: Player 1 10 Bombs (OoT)
+      OOT MQ Gerudo Training Grounds Silver Block Room Chest: Player 1 Serenade of Water
+      OOT MQ Gerudo Training Grounds Ice Arrows Chest: Player 1 Recovery Heart (OoT)
+      OOT MQ Gerudo Training Grounds Spinning Statue Chest: Player 1 Hylian Shield
+      OOT MQ Gerudo Training Grounds Torch Slug Room Clear Chest: Player 2 Fairy Bow (OoT)
+      OOT MQ Gerudo Training Grounds Torch Slug Room Switch Chest: Player 3 Piece of Heart (OoT)
+
+    Ganon's Castle (34):
+      OOT MQ Ganon Castle Leftmost Scrub: Player 2 Empty Bottle (OoT)
+      OOT MQ Ganon Castle Left-Center Scrub: Player 3 Red Rupee (OoT)
+      OOT MQ Ganon Castle Center Scrub: Player 1 30 Deku Seeds
+      OOT MQ Ganon Castle Right-Center Scrub: Player 2 5 Deku Nuts (OoT)
+      OOT MQ Ganon Castle Rightmost Scrub: Player 2 Deku Stick Upgrade (OoT)
+      OOT MQ Ganon Castle Light Trial Chest: Player 1 5 Bombs (OoT)
+      OOT MQ Ganon Castle Forest Trial Key: Player 1 Recovery Heart (OoT)
+      OOT MQ Ganon Castle Forest Trial First Chest: Player 2 Red Potion (OoT)
+      OOT MQ Ganon Castle Forest Trial Second Chest: Player 2 Piece of Heart (OoT)
+      OOT MQ Ganon Castle SR Fire Under Pillar: Player 2 Silver Rupee (Ganon's Castle - Fire Trial)
+      OOT MQ Ganon Castle SR Fire Center-Left: Player 2 Silver Rupee (Ganon's Castle - Fire Trial)
+      OOT MQ Ganon Castle SR Fire Back-Left: Player 2 Silver Rupee (Ganon's Castle - Fire Trial)
+      OOT MQ Ganon Castle SR Fire High Above Lava: Player 2 Silver Rupee (Ganon's Castle - Fire Trial)
+      OOT MQ Ganon Castle SR Fire Front-Left: Player 2 Silver Rupee (Ganon's Castle - Fire Trial)
+      OOT MQ Ganon Castle Water Trial Chest: Player 1 Song of Storms (OoT)
+      OOT MQ Ganon Castle SR Water Shallow Hole: Player 2 Silver Rupee (Ganon's Castle - Water Trial)
+      OOT MQ Ganon Castle SR Water Above Ground: Player 2 Silver Rupee (Ganon's Castle - Water Trial)
+      OOT MQ Ganon Castle SR Water Alcove: Player 2 Silver Rupee (Ganon's Castle - Water Trial)
+      OOT MQ Ganon Castle SR Water Deep Hole: Player 2 Silver Rupee (Ganon's Castle - Water Trial)
+      OOT MQ Ganon Castle SR Water Under Alcove: Player 2 Silver Rupee (Ganon's Castle - Water Trial)
+      OOT MQ Ganon Castle Spirit Trial First Chest: Player 1 Giant's Knife
+      OOT MQ Ganon Castle Spirit Trial Second Chest: Player 1 Progressive Scale (Oot)
+      OOT MQ Ganon Castle Spirit Trial Back Right Sun Chest: Player 3 Boss Key (Fire Temple)
+      OOT MQ Ganon Castle Spirit Trial Back Left Sun Chest: Player 1 30 Deku Seeds
+      OOT MQ Ganon Castle Spirit Trial Front Left Sun Chest: Player 3 20 Bombchu (OoT)
+      OOT MQ Ganon Castle Spirit Trial Gold Gauntlets Chest: Player 3 Lon Lon Milk (OoT)
+      OOT MQ Ganon Castle Shadow Trial Bomb Flower Chest: Player 2 Red Potion (OoT)
+      OOT MQ Ganon Castle SR Shadow Front-Right: Player 2 Silver Rupee (Ganon's Castle - Shadow Trial)
+      OOT MQ Ganon Castle SR Shadow Front-Center: Player 2 Silver Rupee (Ganon's Castle - Shadow Trial)
+      OOT MQ Ganon Castle SR Shadow Middle: Player 2 Silver Rupee (Ganon's Castle - Shadow Trial)
+      OOT MQ Ganon Castle Shadow Trial Switch Chest: Player 1 Piece of Heart (OoT)
+      OOT MQ Ganon Castle SR Shadow Back-Left: Player 2 Silver Rupee (Ganon's Castle - Shadow Trial)
+      OOT MQ Ganon Castle SR Shadow Back-Center: Player 2 Silver Rupee (Ganon's Castle - Shadow Trial)
+      OOT Ganon Castle Boss Key: Player 1 Green Potion (OoT)
+
+
+  World 3 (580)
+    Inside Eggs (2):
+      OOT Hatch Chicken: Player 1 Blue Fire
+      OOT Hatch Pocket Cucco: Player 3 Piece of Heart (OoT)
+
+    Kokiri Forest (15):
+      OOT Kokiri Forest Cow: Player 3 5 Bombchu (OoT)
+      OOT Kokiri Forest Kokiri Sword Chest: Player 1 Piece of Heart (OoT)
+      OOT Kokiri Shop Item 1: Player 2 Ice Arrows (OoT)
+      OOT Kokiri Shop Item 2: Player 2 Piece of Heart (OoT)
+      OOT Kokiri Shop Item 3: Player 1 Green Potion (OoT)
+      OOT Kokiri Shop Item 4: Player 1 Recovery Heart (OoT)
+      OOT Kokiri Shop Item 5: Player 2 Pocket Cucco
+      OOT Kokiri Shop Item 6: Player 2 Blue Rupee (OoT)
+      OOT Kokiri Shop Item 7: Player 3 Odd Potion
+      OOT Kokiri Shop Item 8: Player 3 Bomb Bag (OoT)
+      OOT Mido's House Top Left: Player 1 5 Bombs (OoT)
+      OOT Mido's House Top Right: Player 2 Lens of Truth (OoT)
+      OOT Mido's House Bottom Left: Player 2 Poe (OoT)
+      OOT Mido's House Bottom Right: Player 1 5 Deku Nuts (OoT)
+      OOT Kokiri Forest Storms Grotto: Player 3 Pocket Cucco
+
+    Hyrule Field (8):
+      OOT Hyrule Field Ocarina of Time: Player 1 Rupoor (OoT)
+      OOT Hyrule Field Song of Time: Player 3 5 Deku Nuts (OoT)
+      OOT Hyrule Field Grotto Scrub HP: Player 1 Red Rupee (OoT)
+      OOT Hyrule Field Grotto Open: Player 3 Progressive Hookshot (OoT)
+      OOT Hyrule Field Grotto Southeast: Player 3 Recovery Heart (OoT)
+      OOT Hyrule Field Grotto Market: Player 1 Bolero of Fire
+      OOT Hyrule Field Grotto Tektite HP: Player 1 Piece of Heart (OoT)
+      OOT Hyrule Field Cow: Player 1 Zora Tunic (OoT)
+
+    Market (41):
+      OOT Market Bazaar Item 1: Player 2 Fish (OoT)
+      OOT Market Bazaar Item 2: Player 2 Heart Container (OoT)
+      OOT Market Bazaar Item 3: Player 2 Recovery Heart (OoT)
+      OOT Market Bazaar Item 4: Player 3 20 Bombchu (OoT)
+      OOT Market Bazaar Item 5: Player 1 Song of Time (OoT)
+      OOT Market Bazaar Item 6: Player 2 Piece of Heart (OoT)
+      OOT Market Bazaar Item 7: Player 3 Green Rupee (OoT)
+      OOT Market Bazaar Item 8: Player 2 20 Bombchu (OoT)
+      OOT Market Potion Shop Item 1: Player 1 Red Rupee (OoT)
+      OOT Market Potion Shop Item 2: Player 3 Zora Tunic (OoT)
+      OOT Market Potion Shop Item 3: Player 3 10 Arrows (OoT)
+      OOT Market Potion Shop Item 4: Player 2 10 Bombchu (OoT)
+      OOT Market Potion Shop Item 5: Player 2 10 Arrows (OoT)
+      OOT Market Potion Shop Item 6: Player 2 Rupoor (OoT)
+      OOT Market Potion Shop Item 7: Player 3 Progressive Scale (Oot)
+      OOT Market Potion Shop Item 8: Player 2 Iron Boots (OoT)
+      OOT Market Bombchu Shop Item 1: Player 3 Spin Attack Upgrade (OoT)
+      OOT Market Bombchu Shop Item 2: Player 2 Poacher's Saw
+      OOT Market Bombchu Shop Item 3: Player 3 Keaton Mask (OoT)
+      OOT Market Bombchu Shop Item 4: Player 3 5 Deku Nuts (OoT)
+      OOT Market Bombchu Shop Item 5: Player 3 Lon Lon Milk (OoT)
+      OOT Market Bombchu Shop Item 6: Player 2 Rupoor (OoT)
+      OOT Market Bombchu Shop Item 7: Player 1 Bomb Bag (OoT)
+      OOT Market Bombchu Shop Item 8: Player 1 Zelda's Lullaby
+      OOT Market Pot House Big Poes: Player 2 5 Arrows (OoT)
+      OOT Market Dog Lady HP: Player 3 Boss Key (Spirit Temple)
+      OOT Bombchu Bowling Reward 1: Player 2 Rupoor (OoT)
+      OOT Bombchu Bowling Reward 2: Player 2 Blue Rupee (OoT)
+      OOT Shooting Gallery Child: Player 3 Fish (OoT)
+      OOT Treasure Chest Game Buy Key: Player 3 Small Key (Chest Game)
+      OOT Treasure Chest Game Room 1 Chest Left: Player 3 Small Key (Chest Game)
+      OOT Treasure Chest Game Room 1 Chest Right: Player 3 Green Rupee (OoT)
+      OOT Treasure Chest Game Room 2 Chest Left: Player 3 Small Key (Chest Game)
+      OOT Treasure Chest Game Room 2 Chest Right: Player 3 Green Rupee (OoT)
+      OOT Treasure Chest Game Room 3 Chest Left: Player 3 Small Key (Chest Game)
+      OOT Treasure Chest Game Room 3 Chest Right: Player 3 Blue Rupee (OoT)
+      OOT Treasure Chest Game Room 4 Chest Left: Player 3 Small Key (Chest Game)
+      OOT Treasure Chest Game Room 4 Chest Right: Player 3 Blue Rupee (OoT)
+      OOT Treasure Chest Game Room 5 Chest Left: Player 3 Small Key (Chest Game)
+      OOT Treasure Chest Game Room 5 Chest Right: Player 3 Red Rupee (OoT)
+      OOT Treasure Chest Game HP: Player 3 Heart Container (OoT)
+
+    Lon Lon Ranch (11):
+      OOT Lon Lon Ranch Malon Song: Player 1 5 Deku Nuts (OoT)
+      OOT Lon Lon Ranch Stables Cow Left: Player 3 Piece of Heart (OoT)
+      OOT Lon Lon Ranch Stables Cow Right: Player 3 Piece of Heart (OoT)
+      OOT Lon Lon Ranch Silo HP: Player 2 Goron Tunic (OoT)
+      OOT Lon Lon Ranch Silo Cow Front: Player 2 5 Deku Nuts (OoT)
+      OOT Lon Lon Ranch Silo Cow Back: Player 3 Weird Egg
+      OOT Lon Lon Ranch Talon Bottle: Player 2 Fairy (OoT)
+      OOT Lon Lon Ranch Talon Buy Milk: Player 3 Lon Lon Milk (OoT)
+      OOT Lon Lon Ranch Grotto Left Scrub: Player 1 Purple Rupee (OoT)
+      OOT Lon Lon Ranch Grotto Center Scrub: Player 3 Hylian Shield
+      OOT Lon Lon Ranch Grotto Right Scrub: Player 1 Mask of Truth (OoT)
+
+    Hyrule Castle (2):
+      OOT Malon Egg: Player 2 5 Bombs (OoT)
+      OOT Great Fairy Din's Fire: Player 2 Goron Mask (OoT)
+
+    POCKET (2):
+      OOT Zelda's Letter: Player 3 Rupoor (OoT)
+      OOT Zelda's Song: Player 1 Magic Upgrade (OoT)
+
+    Outside Ganon's Castle (1):
+      OOT Great Fairy Defense Upgrade: Player 1 Piece of Heart (OoT)
+
+    Lost Woods (14):
+      OOT Lost Woods Target: Player 2 5 Deku Nuts (OoT)
+      OOT Lost Woods Skull Kid: Player 1 Blue Rupee (OoT)
+      OOT Lost Woods Memory Game: Player 3 Recovery Heart (OoT)
+      OOT Lost Woods Scrub Sticks Upgrade: Player 2 Deku Shield (OoT)
+      OOT Lost Woods Odd Mushroom: Player 2 Nayru's Love (OoT)
+      OOT Lost Woods Poacher's Saw: Player 3 Blue Rupee (OoT)
+      OOT Lost Woods Grotto Generic: Player 2 Rupoor (OoT)
+      OOT Lost Woods Gift from Saria: Player 3 Recovery Heart (OoT)
+      OOT Lost Woods Scrub Near Theater Left: Player 1 Deku Stick Upgrade (OoT)
+      OOT Lost Woods Scrub Near Theater Right: Player 3 Deku Stick (OoT)
+      OOT Deku Theater Sticks Upgrade: Player 3 Rupoor (OoT)
+      OOT Deku Theater Nuts Upgrade: Player 2 30 Arrows (OoT)
+      OOT Lost Woods Grotto Scrub Nuts Upgrade: Player 1 Recovery Heart (OoT)
+      OOT Lost Woods Grotto Scrub Back: Player 2 5 Deku Nuts (OoT)
+
+    Sacred Forest Meadow (5):
+      OOT Sacred Meadow Grotto: Player 3 Boss Key (Forest Temple)
+      OOT Saria's Song: Player 3 Fairy Bow (OoT)
+      OOT Sacred Meadow Sheik Song: Player 1 Biggoron's Sword
+      OOT Sacred Meadow Storms Grotto Front Scrub: Player 3 Red Potion (OoT)
+      OOT Sacred Meadow Storms Grotto Back Scrub: Player 3 Fairy Slingshot
+
+    Kakariko (35):
+      OOT Kakariko Anju Bottle: Player 1 Lens of Truth (OoT)
+      OOT Kakariko Anju Egg: Player 1 Rupoor (OoT)
+      OOT Kakariko Anju Cojiro: Player 1 10 Arrows (OoT)
+      OOT Kakariko Song Shadow: Player 2 Progressive Scale (Oot)
+      OOT Kakariko Man on Roof: Player 3 5 Deku Nuts (OoT)
+      OOT Kakariko Bazaar Item 1: Player 2 Rupoor (OoT)
+      OOT Kakariko Bazaar Item 2: Player 2 Purple Rupee (OoT)
+      OOT Kakariko Bazaar Item 3: Player 3 Deku Shield (OoT)
+      OOT Kakariko Bazaar Item 4: Player 3 Lon Lon Milk (OoT)
+      OOT Kakariko Bazaar Item 5: Player 1 Red Rupee (OoT)
+      OOT Kakariko Bazaar Item 6: Player 1 Poe (OoT)
+      OOT Kakariko Bazaar Item 7: Player 2 Skull Mask
+      OOT Kakariko Bazaar Item 8: Player 1 Skull Mask
+      OOT Kakariko Potion Shop Item 1: Player 3 Rupoor (OoT)
+      OOT Kakariko Potion Shop Item 2: Player 3 Piece of Heart (OoT)
+      OOT Kakariko Potion Shop Item 3: Player 1 Lon Lon Milk (OoT)
+      OOT Kakariko Potion Shop Item 4: Player 2 5 Deku Nuts (OoT)
+      OOT Kakariko Potion Shop Item 5: Player 3 Purple Rupee (OoT)
+      OOT Kakariko Potion Shop Item 6: Player 1 Progressive Hookshot (OoT)
+      OOT Kakariko Potion Shop Item 7: Player 1 Blue Rupee (OoT)
+      OOT Kakariko Potion Shop Item 8: Player 1 5 Arrows (OoT)
+      OOT Kakariko Potion Shop Odd Potion: Player 2 5 Deku Nuts (OoT)
+      OOT Kakariko Potion Shop Buy Blue Potion: Player 3 Blue Potion (OoT)
+      OOT Shooting Gallery Adult: Player 2 5 Deku Nuts (OoT)
+      OOT Kakariko Cow: Player 1 Recovery Heart (OoT)
+      OOT Kakariko Impa House HP: Player 2 30 Deku Seeds
+      OOT Windmill HP: Player 2 10 Arrows (OoT)
+      OOT Windmill Song of Storms: Player 3 Progressive Hookshot (OoT)
+      OOT Skulltula House 10 Tokens: Player 1 5 Deku Nuts (OoT)
+      OOT Skulltula House 20 Tokens: Player 1 Rupoor (OoT)
+      OOT Skulltula House 30 Tokens: Player 2 5 Bombchu (OoT)
+      OOT Skulltula House 40 Tokens: Player 1 Red Rupee (OoT)
+      OOT Skulltula House 50 Tokens: Player 1 Rupoor (OoT)
+      OOT Kakariko Grotto Front: Player 3 30 Bombs (OoT)
+      OOT Kakariko Grotto Back: Player 1 Cojiro
+
+    Graveyard (8):
+      OOT Graveyard Dampe Game: Player 1 Piece of Heart (OoT)
+      OOT Graveyard Crate HP: Player 1 Fairy (OoT)
+      OOT Graveyard Royal Tomb Song: Player 2 Piece of Heart (OoT)
+      OOT Graveyard Royal Tomb Chest: Player 2 Rupoor (OoT)
+      OOT Graveyard Fairy Tomb: Player 2 5 Bombs (OoT)
+      OOT Graveyard ReDead Tomb: Player 2 Deku Shield (OoT)
+      OOT Graveyard Dampe Tomb Reward 1: Player 1 Progressive Hookshot (OoT)
+      OOT Graveyard Dampe Tomb Reward 2: Player 1 Heart Container (OoT)
+
+    Death Mountain Trail (8):
+      OOT Death Mountain Trail Chest: Player 3 Gold Rupee (OoT)
+      OOT Death Mountain Trail HP: Player 3 Spooky Mask
+      OOT Death Mountain Trail Prescription: Player 2 Blue Rupee (OoT)
+      OOT Death Mountain Trail Claim Check: Player 2 Rupoor (OoT)
+      OOT Death Mountain Trail Biggoron Sword: Player 3 Blue Rupee (OoT)
+      OOT Death Mountain Trail Grotto: Player 3 Biggoron's Sword
+      OOT Death Mountain Trail Cow: Player 1 Deku Shield (OoT)
+      OOT Great Fairy Magic Upgrade: Player 3 Progressive Ocarina (OoT)
+
+    Goron City (19):
+      OOT Goron City Maze Center 1: Player 3 Bugs (OoT)
+      OOT Goron City Maze Center 2: Player 3 Rupoor (OoT)
+      OOT Goron City Maze Left: Player 2 Lon Lon Milk (OoT)
+      OOT Goron City Big Pot HP: Player 1 Piece of Heart (OoT)
+      OOT Goron City Tunic: Player 3 5 Bombs (OoT)
+      OOT Goron City Bomb Bag: Player 3 5 Arrows (OoT)
+      OOT Goron City Medigoron Giant Knife: Player 2 Blue Rupee (OoT)
+      OOT Darunia: Player 2 Eye Drops
+      OOT Goron Shop Item 1: Player 3 Bomb Bag (OoT)
+      OOT Goron Shop Item 2: Player 1 Hylian Shield
+      OOT Goron Shop Item 3: Player 1 Odd Potion
+      OOT Goron Shop Item 4: Player 2 Piece of Heart (OoT)
+      OOT Goron Shop Item 5: Player 3 Rupoor (OoT)
+      OOT Goron Shop Item 6: Player 2 10 Bombchu (OoT)
+      OOT Goron Shop Item 7: Player 3 Piece of Heart (OoT)
+      OOT Goron Shop Item 8: Player 3 Blue Rupee (OoT)
+      OOT Goron City Grotto Left Scrub: Player 1 Gerudo Mask
+      OOT Goron City Grotto Center Scrub: Player 2 Purple Rupee (OoT)
+      OOT Goron City Grotto Right Scrub: Player 1 Boss Key (Shadow Temple)
+
+    Zora's River (13):
+      OOT Zora River Bean Seller: Player 3 Rupoor (OoT)
+      OOT Zora River HP Pillar: Player 2 Recovery Heart (OoT)
+      OOT Zora River HP Platform: Player 1 Rupoor (OoT)
+      OOT Zora River Frogs Storms: Player 3 Serenade of Water
+      OOT Zora River Frogs Zeldas Lullaby: Player 3 Purple Rupee (OoT)
+      OOT Zora River Frogs Eponas Song: Player 3 Purple Rupee (OoT)
+      OOT Zora River Frogs Sarias Song: Player 3 Purple Rupee (OoT)
+      OOT Zora River Frogs Suns Song: Player 3 Purple Rupee (OoT)
+      OOT Zora River Frogs Song of Time: Player 3 Purple Rupee (OoT)
+      OOT Zora River Frogs Game: Player 2 5 Deku Nuts (OoT)
+      OOT Zora River Storms Grotto Front Scrub: Player 3 Rupoor (OoT)
+      OOT Zora River Storms Grotto Back Scrub: Player 3 Progressive Wallet (OoT)
+      OOT Zora River Grotto: Player 1 Lon Lon Milk (OoT)
+
+    Zora's Domain (12):
+      OOT Zora Domain Waterfall Chest: Player 3 Rupoor (OoT)
+      OOT Zora Domain Diving Game: Player 1 10 Bombs (OoT)
+      OOT Zora Domain Tunic: Player 3 Empty Bottle (OoT)
+      OOT Zora Domain Eyeball Frog: Player 1 Blue Rupee (OoT)
+      OOT Zora Shop Item 1: Player 1 5 Bombs (OoT)
+      OOT Zora Shop Item 2: Player 2 Green Potion (OoT)
+      OOT Zora Shop Item 3: Player 3 Rupoor (OoT)
+      OOT Zora Shop Item 4: Player 3 Recovery Heart (OoT)
+      OOT Zora Shop Item 5: Player 3 Purple Rupee (OoT)
+      OOT Zora Shop Item 6: Player 1 Fire Arrows (OoT)
+      OOT Zora Shop Item 7: Player 1 Hylian Shield
+      OOT Zora Shop Item 8: Player 2 Goron Tunic (OoT)
+
+    Lake Hylia (10):
+      OOT Lake Hylia Underwater Bottle: Player 1 10 Bombchu (OoT)
+      OOT Lake Hylia Fire Arrow: Player 3 5 Deku Nuts (OoT)
+      OOT Lake Hylia HP: Player 1 Blue Rupee (OoT)
+      OOT Laboratory Dive: Player 2 10 Arrows (OoT)
+      OOT Laboratory Eye Drops: Player 1 20 Bombs (OoT)
+      OOT Fishing Pond Child: Player 1 Rupoor (OoT)
+      OOT Fishing Pond Adult: Player 1 Ice Arrows (OoT)
+      OOT Lake Hylia Grotto Left Scrub: Player 2 Bugs (OoT)
+      OOT Lake Hylia Grotto Center Scrub: Player 1 30 Arrows (OoT)
+      OOT Lake Hylia Grotto Right Scrub: Player 3 Gold Rupee (OoT)
+
+    Zora's Fountain (3):
+      OOT Zora Fountain Iceberg HP: Player 3 Blue Rupee (OoT)
+      OOT Zora Fountain Bottom HP: Player 2 Epona's Song (OoT)
+      OOT Great Fairy Farore's Wind: Player 2 Red Rupee (OoT)
+
+    Temple of Time (3):
+      OOT Temple of Time Master Sword: Player 1 Piece of Heart (OoT)
+      OOT Temple of Time Sheik Song: Player 3 10 Arrows (OoT)
+      OOT Temple of Time Light Arrows: Player 1 5 Deku Nuts (OoT)
+
+    Sacred Realm (1):
+      OOT Temple of Time Medallion: Player 3 Zora's Sapphire
+
+    Death Mountain Crater (9):
+      OOT Death Mountain Crater Alcove HP: Player 3 Fairy (OoT)
+      OOT Death Mountain Crater Scrub Child: Player 1 10 Arrows (OoT)
+      OOT Death Mountain Crater Volcano HP: Player 1 5 Deku Nuts (OoT)
+      OOT Death Mountain Crater Sheik Song: Player 1 Bugs (OoT)
+      OOT Death Mountain Crater Grotto: Player 3 5 Deku Nuts (OoT)
+      OOT Death Mountain Crater Grotto Left Scrub: Player 3 Lon Lon Milk (OoT)
+      OOT Death Mountain Crater Grotto Center Scrub: Player 2 5 Deku Nuts (OoT)
+      OOT Death Mountain Crater Grotto Right Scrub: Player 2 Piece of Heart (OoT)
+      OOT Great Fairy Magic Upgrade 2: Player 2 Blue Rupee (OoT)
+
+    Gerudo Valley (7):
+      OOT Gerudo Valley Crate HP: Player 3 Piece of Heart (OoT)
+      OOT Gerudo Valley Waterfall HP: Player 2 Recovery Heart (OoT)
+      OOT Gerudo Valley Cow: Player 2 Prescription
+      OOT Gerudo Valley Chest: Player 2 Progressive Hookshot (OoT)
+      OOT Gerudo Valley Broken Goron Sword: Player 1 Progressive Ocarina (OoT)
+      OOT Gerudo Valley Grotto Front Scrub: Player 2 10 Bombchu (OoT)
+      OOT Gerudo Valley Grotto Back Scrub: Player 1 30 Deku Seeds
+
+    Gerudo's Fortress (3):
+      OOT Gerudo Fortress Archery Reward 1: Player 3 Blue Rupee (OoT)
+      OOT Gerudo Fortress Archery Reward 2: Player 3 Blue Rupee (OoT)
+      OOT Gerudo Fortress Chest: Player 3 Fish (OoT)
+
+    Haunted Wasteland (2):
+      OOT Haunted Wasteland Carpet Merchant: Player 3 20 Bombchu (OoT)
+      OOT Haunted Wasteland Chest: Player 1 Zora Tunic (OoT)
+
+    Desert Colossus (5):
+      OOT Desert Colossus HP: Player 3 Piece of Heart (OoT)
+      OOT Desert Colossus Song Spirit: Player 3 Rupoor (OoT)
+      OOT Great Fairy Nayru's Love: Player 2 Red Potion (OoT)
+      OOT Desert Colossus Grotto Front Scrub: Player 1 Boss Key (Spirit Temple)
+      OOT Desert Colossus Grotto Back Scrub: Player 1 Claim Check
+
+    Deku Tree (10):
+      OOT Deku Tree Boss Container: Player 3 Piece of Heart (OoT)
+      OOT Deku Tree Boss: Player 3 Fire Medallion
+      OOT MQ Deku Tree Map Chest: Player 3 Ice Trap
+      OOT MQ Deku Tree Compass Chest: Player 1 Deku Shield (OoT)
+      OOT MQ Deku Tree Slingshot Chest: Player 3 Rupoor (OoT)
+      OOT MQ Deku Tree Slingshot Room Far Chest: Player 2 Rupoor (OoT)
+      OOT MQ Deku Tree Basement Chest: Player 1 5 Bombs (OoT)
+      OOT MQ Deku Tree Before Water Platform Chest: Player 1 Progressive Wallet (OoT)
+      OOT MQ Deku Tree After Water Platform Chest: Player 1 Piece of Heart (OoT)
+      OOT MQ Deku Tree Scrub: Player 1 5 Bombs (OoT)
+
+    Dodongo's Cavern (12):
+      OOT Dodongo Cavern Boss Chest: Player 2 Purple Rupee (OoT)
+      OOT Dodongo Cavern Boss Container: Player 2 Piece of Heart (OoT)
+      OOT Dodongo Cavern Boss: Player 3 Water Medallion
+      OOT Dodongo Cavern Map Chest: Player 1 Lon Lon Milk (OoT)
+      OOT Dodongo Cavern Lobby Scrub: Player 2 Hylian Shield
+      OOT Dodongo Cavern Green Side Room Scrub: Player 3 30 Arrows (OoT)
+      OOT Dodongo Cavern Compass Chest: Player 2 5 Deku Nuts (OoT)
+      OOT Dodongo Cavern Bomb Bag Side Chest: Player 3 Piece of Heart (OoT)
+      OOT Dodongo Cavern Bomb Bag Side Room Left Scrub: Player 2 Prelude of Light
+      OOT Dodongo Cavern Bomb Bag Side Room Right Scrub: Player 2 Heart Container (OoT)
+      OOT Dodongo Cavern Bomb Bag Chest: Player 3 30 Deku Seeds
+      OOT Dodongo Cavern Bridge Chest: Player 2 Deku Nut Upgrade (OoT)
+
+    Jabu-Jabu's Belly (14):
+      OOT Jabu-Jabu Boss Container: Player 1 Red Potion (OoT)
+      OOT Jabu-Jabu Boss: Player 3 Kokiri's Emerald
+      OOT MQ Jabu-Jabu Map Chest: Player 2 Boss Key (Spirit Temple)
+      OOT MQ Jabu-Jabu Entry Chest: Player 2 Piece of Heart (OoT)
+      OOT MQ Jabu-Jabu Second Room B1 Chest: Player 2 Biggoron's Sword
+      OOT MQ Jabu-Jabu Compass Chest: Player 3 Purple Rupee (OoT)
+      OOT MQ Jabu-Jabu Second Room 1F Chest: Player 3 5 Bombchu (OoT)
+      OOT MQ Jabu-Jabu Third Room West Chest: Player 1 Deku Shield (OoT)
+      OOT MQ Jabu-Jabu Third Room East Chest: Player 2 Progressive Ocarina (OoT)
+      OOT MQ Jabu-Jabu Boomerang Chest: Player 1 5 Deku Nuts (OoT)
+      OOT MQ Jabu-Jabu SoT Room Lower Chest: Player 1 5 Bombs (OoT)
+      OOT MQ Jabu-Jabu Cow: Player 1 Rupoor (OoT)
+      OOT MQ Jabu-Jabu Back Chest: Player 3 5 Bombs (OoT)
+      OOT MQ Jabu-Jabu Pre-Boss Chest: Player 3 Gerudo Mask
+
+    Forest Temple (15):
+      OOT Forest Temple Boss: Player 3 Goron's Ruby
+      OOT Forest Temple Boss Container: Player 3 10 Arrows (OoT)
+      OOT Forest Temple Tree Small Key: Player 1 Deku Stick (OoT)
+      OOT Forest Temple Mini-Boss Key: Player 2 10 Bombs (OoT)
+      OOT Forest Temple Floormaster: Player 1 Rupoor (OoT)
+      OOT Forest Temple Map: Player 3 10 Bombchu (OoT)
+      OOT Forest Temple Garden: Player 2 Empty Bottle (OoT)
+      OOT Forest Temple Well: Player 1 Hylian Shield
+      OOT Forest Temple Maze: Player 3 Blue Rupee (OoT)
+      OOT Forest Temple Boss Key: Player 2 Bomb Bag (OoT)
+      OOT Forest Temple Poe Key: Player 1 Piece of Heart (OoT)
+      OOT Forest Temple Bow: Player 1 Rupoor (OoT)
+      OOT Forest Temple Compass: Player 1 Red Potion (OoT)
+      OOT Forest Temple Checkerboard: Player 1 5 Bombs (OoT)
+      OOT Forest Temple Antichamber: Player 3 Gold Rupee (OoT)
+
+    Fire Temple (14):
+      OOT Fire Temple Boss Container: Player 2 5 Arrows (OoT)
+      OOT Fire Temple Boss: Player 3 Shadow Medallion
+      OOT MQ Fire Temple Early Lower Left Chest: Player 3 Green Rupee (OoT)
+      OOT MQ Fire Temple Map Chest: Player 2 Rupoor (OoT)
+      OOT MQ Fire Temple Pre-Boss Chest: Player 1 Heart Container (OoT)
+      OOT MQ Fire Temple Hammer Chest: Player 3 Green Potion (OoT)
+      OOT MQ Fire Temple Boss Key Chest: Player 3 10 Deku Nuts (OoT)
+      OOT MQ Fire Temple 1f Lava Room Goron Chest: Player 2 Rupoor (OoT)
+      OOT MQ Fire Temple Compass Chest: Player 1 Saria's Song
+      OOT MQ Fire Temple Maze Lower Chest: Player 3 Hylian Shield
+      OOT MQ Fire Temple Maze Upper Chest: Player 2 10 Deku Nuts (OoT)
+      OOT MQ Fire Temple Maze Side Room Chest: Player 2 Piece of Heart (OoT)
+      OOT MQ Fire Temple Flare Dancer Key: Player 2 Bomb Bag (OoT)
+      OOT MQ Fire Temple Topmost Chest: Player 2 Recovery Heart (OoT)
+
+    Water Temple (12):
+      OOT Water Temple Boss HC: Player 1 Recovery Heart (OoT)
+      OOT Water Temple Boss: Player 3 Light Medallion
+      OOT Water Temple Bombable Chest: Player 2 Claim Check
+      OOT Water Temple Map: Player 3 Piece of Heart (OoT)
+      OOT Water Temple Shell Chest: Player 1 Fairy Bow (OoT)
+      OOT Water Temple Under Center: Player 3 30 Arrows (OoT)
+      OOT Water Temple Compass: Player 1 Deku Stick (OoT)
+      OOT Water Temple Dragon Chest: Player 3 Deku Stick Upgrade (OoT)
+      OOT Water Temple Corridor Chest: Player 3 Giant's Knife
+      OOT Water Temple Boss Key Chest: Player 1 Fish (OoT)
+      OOT Water Temple Longshot: Player 3 5 Arrows (OoT)
+      OOT Water Temple River Chest: Player 3 Rupoor (OoT)
+
+    Spirit Temple (34):
+      OOT Spirit Temple Boss HC: Player 1 Recovery Heart (OoT)
+      OOT Spirit Temple Boss: Player 3 Spirit Medallion
+      OOT MQ Spirit Temple Entrance Initial Chest: Player 3 Blue Rupee (OoT)
+      OOT MQ Spirit Temple Lobby Back-Left Chest: Player 3 Rupoor (OoT)
+      OOT MQ Spirit Temple Lobby Back-Right Chest: Player 1 Purple Rupee (OoT)
+      OOT MQ Spirit Temple Compass Chest: Player 1 Recovery Heart (OoT)
+      OOT MQ Spirit Temple Sun Block Room Chest: Player 3 Odd Mushroom
+      OOT MQ Spirit Temple Lobby Front-Right Chest: Player 2 5 Bombs (OoT)
+      OOT Spirit Temple Silver Gauntlets: Player 1 Empty Bottle (OoT)
+      OOT MQ Spirit Temple SR Lobby Rock Right: Player 3 Silver Rupee (Spirit Temple - Lobby)
+      OOT MQ Spirit Temple SR Lobby Rock Left: Player 3 Silver Rupee (Spirit Temple - Lobby)
+      OOT MQ Spirit Temple Map Chest: Player 3 Red Potion (OoT)
+      OOT MQ Spirit Temple Map Room Back Chest: Player 2 Blue Rupee (OoT)
+      OOT MQ Spirit Temple Paradox Chest: Player 2 Blue Rupee (OoT)
+      OOT MQ Spirit Temple Child Upper Ground Chest: Player 1 Rupoor (OoT)
+      OOT MQ Spirit Temple Child Upper Ledge Chest: Player 2 Red Rupee (OoT)
+      OOT MQ Spirit Temple Silver Block Room Target Chest: Player 3 Eyeball Frog
+      OOT MQ Spirit Temple Chest in Box: Player 1 Piece of Heart (OoT)
+      OOT MQ Spirit Temple Statue Room Ledge Chest: Player 3 Lon Lon Milk (OoT)
+      OOT MQ Spirit Temple Purple Leever Chest: Player 2 Piece of Heart (OoT)
+      OOT MQ Spirit Temple Symphony Room Chest: Player 1 10 Arrows (OoT)
+      OOT MQ Spirit Temple SR Lobby In Water: Player 3 Silver Rupee (Spirit Temple - Lobby)
+      OOT MQ Spirit Temple SR Lobby After Water Near Stairs: Player 3 Silver Rupee (Spirit Temple - Lobby)
+      OOT MQ Spirit Temple SR Lobby After Water Near Door: Player 3 Silver Rupee (Spirit Temple - Lobby)
+      OOT MQ Spirit Temple Beamos Room Chest: Player 3 Blue Rupee (OoT)
+      OOT MQ Spirit Temple Dinolfos Room Chest: Player 2 Progressive Ocarina (OoT)
+      OOT MQ Spirit Temple Boss Key Chest: Player 2 Zora Tunic (OoT)
+      OOT Spirit Temple Mirror Shield: Player 1 Green Potion (OoT)
+      OOT MQ Spirit Temple SR Adult Bottom: Player 3 Silver Rupee (Spirit Temple - Adult)
+      OOT MQ Spirit Temple SR Adult Bottom-Center: Player 3 Silver Rupee (Spirit Temple - Adult)
+      OOT MQ Spirit Temple SR Adult Center-Top: Player 3 Silver Rupee (Spirit Temple - Adult)
+      OOT MQ Spirit Temple SR Adult Top: Player 3 Silver Rupee (Spirit Temple - Adult)
+      OOT MQ Spirit Temple SR Adult Skulltula: Player 3 Silver Rupee (Spirit Temple - Adult)
+      OOT MQ Spirit Temple Topmost Chest: Player 1 Red Potion (OoT)
+
+    Shadow Temple (34):
+      OOT Shadow Temple Boss HC: Player 1 Blue Rupee (OoT)
+      OOT Shadow Temple Boss: Player 3 Forest Medallion
+      OOT Shadow Temple Map: Player 2 10 Arrows (OoT)
+      OOT Shadow Temple Hover Boots: Player 2 30 Arrows (OoT)
+      OOT Shadow Temple Compass: Player 1 Piece of Heart (OoT)
+      OOT Shadow Temple SR Scythe 1: Player 3 Silver Rupee (Shadow Temple - Scythe)
+      OOT Shadow Temple SR Scythe 2: Player 3 Silver Rupee (Shadow Temple - Scythe)
+      OOT Shadow Temple SR Scythe 3: Player 3 Silver Rupee (Shadow Temple - Scythe)
+      OOT Shadow Temple SR Scythe 4: Player 3 Silver Rupee (Shadow Temple - Scythe)
+      OOT Shadow Temple SR Scythe 5: Player 3 Silver Rupee (Shadow Temple - Scythe)
+      OOT Shadow Temple Silver Rupees: Player 1 Lon Lon Milk (OoT)
+      OOT Shadow Temple Spinning Blades Visible: Player 3 Piece of Heart (OoT)
+      OOT Shadow Temple Spinning Blades Invisible: Player 1 20 Bombs (OoT)
+      OOT Shadow Temple SR Pit 1: Player 3 Silver Rupee (Shadow Temple - Large Pits)
+      OOT Shadow Temple SR Pit 2: Player 3 Silver Rupee (Shadow Temple - Large Pits)
+      OOT Shadow Temple SR Pit 3: Player 3 Silver Rupee (Shadow Temple - Large Pits)
+      OOT Shadow Temple SR Pit 4: Player 3 Silver Rupee (Shadow Temple - Large Pits)
+      OOT Shadow Temple SR Pit 5: Player 3 Silver Rupee (Shadow Temple - Large Pits)
+      OOT Shadow Temple Falling Spikes Lower: Player 2 Hylian Shield
+      OOT Shadow Temple Falling Spikes Upper 1: Player 2 5 Bombs (OoT)
+      OOT Shadow Temple Falling Spikes Upper 2: Player 2 Recovery Heart (OoT)
+      OOT Shadow Temple SR Spikes Back Left: Player 3 Silver Rupee (Shadow Temple - Spikes)
+      OOT Shadow Temple SR Spikes Right: Player 3 Silver Rupee (Shadow Temple - Spikes)
+      OOT Shadow Temple SR Spikes Center: Player 3 Silver Rupee (Shadow Temple - Spikes)
+      OOT Shadow Temple SR Spikes Front Left: Player 3 Silver Rupee (Shadow Temple - Spikes)
+      OOT Shadow Temple SR Spikes Midair: Player 3 Silver Rupee (Shadow Temple - Spikes)
+      OOT Shadow Temple Invisible Spike Room: Player 2 Piece of Heart (OoT)
+      OOT Shadow Temple Skull: Player 2 Deku Shield (OoT)
+      OOT Shadow Temple Wind Room Hint: Player 2 30 Deku Seeds
+      OOT Shadow Temple After Wind: Player 1 10 Arrows (OoT)
+      OOT Shadow Temple After Wind Invisible: Player 3 Deku Shield (OoT)
+      OOT Shadow Temple Boss Key Room 1: Player 2 Boss Key (Water Temple)
+      OOT Shadow Temple Boss Key Room 2: Player 2 Deku Stick (OoT)
+      OOT Shadow Temple Invisible Floormaster: Player 1 Rupoor (OoT)
+
+    Bottom of the Well (19):
+      OOT Bottom of the Well Coffin: Player 2 Rupoor (OoT)
+      OOT Bottom of the Well Compass: Player 2 Fairy Slingshot
+      OOT Bottom of the Well Under Debris: Player 2 Recovery Heart (OoT)
+      OOT Bottom of the Well Back West: Player 3 Goron Mask (OoT)
+      OOT Bottom of the Well East: Player 1 5 Deku Nuts (OoT)
+      OOT Bottom of the Well Front West: Player 3 Ice Trap
+      OOT Bottom of the Well Underwater: Player 3 10 Bombchu (OoT)
+      OOT Bottom of the Well East Cage: Player 3 Green Potion (OoT)
+      OOT Bottom of the Well Blood Chest: Player 3 5 Bombchu (OoT)
+      OOT Bottom of the Well Underwater 2: Player 1 Purple Rupee (OoT)
+      OOT Bottom of the Well Map: Player 1 30 Arrows (OoT)
+      OOT Bottom of the Well Pits: Player 1 Deku Shield (OoT)
+      OOT Bottom of the Well Lens: Player 2 10 Arrows (OoT)
+      OOT Bottom of the Well Lens Side Chest: Player 2 Red Rupee (OoT)
+      OOT Bottom of the Well SR 1: Player 3 Silver Rupee (Bottom of the Well)
+      OOT Bottom of the Well SR 2: Player 3 Silver Rupee (Bottom of the Well)
+      OOT Bottom of the Well SR 3: Player 3 Silver Rupee (Bottom of the Well)
+      OOT Bottom of the Well SR 4: Player 3 Silver Rupee (Bottom of the Well)
+      OOT Bottom of the Well SR 5: Player 3 Silver Rupee (Bottom of the Well)
+
+    Ice Cavern (5):
+      OOT MQ Ice Cavern Map Chest: Player 3 Recovery Heart (OoT)
+      OOT MQ Ice Cavern Compass Chest: Player 2 Green Rupee (OoT)
+      OOT MQ Ice Cavern Piece of Heart: Player 1 Ice Trap
+      OOT MQ Ice Cavern Iron Boots: Player 1 5 Deku Nuts (OoT)
+      OOT MQ Ice Cavern Sheik Song: Player 2 10 Bombchu (OoT)
+
+    NONE (1):
+      OOT Gerudo Member Card: Player 1 10 Arrows (OoT)
+
+    Gerudo's Training Ground (31):
+      OOT MQ Gerudo Training Grounds Entryway Left Chest: Player 2 Blue Fire
+      OOT MQ Gerudo Training Grounds Entryway Right Chest: Player 3 30 Deku Seeds
+      OOT MQ Gerudo Training Grounds Maze First Chest: Player 1 Piece of Heart (OoT)
+      OOT MQ Gerudo Training Grounds Maze Second Chest: Player 1 Light Arrows (OoT)
+      OOT MQ Gerudo Training Grounds Maze Third Chest: Player 3 Song of Time (OoT)
+      OOT MQ Gerudo Training Grounds Maze Fourth Chest: Player 3 Red Potion (OoT)
+      OOT MQ Gerudo Training Grounds Maze Right Side Middle Chest: Player 2 Boss Key (Fire Temple)
+      OOT MQ Gerudo Training Grounds Maze Right Side Right Chest: Player 3 Blue Rupee (OoT)
+      OOT MQ Gerudo Training Grounds Right Side Dinolfos Chest: Player 3 5 Bombs (OoT)
+      OOT MQ Gerudo Training Grounds SR Lava Back-Left: Player 3 Silver Rupee (Gerudo Training Ground - Lava)
+      OOT MQ Gerudo Training Grounds SR Lava Back-Right: Player 3 Silver Rupee (Gerudo Training Ground - Lava)
+      OOT MQ Gerudo Training Grounds SR Lava Center: Player 3 Silver Rupee (Gerudo Training Ground - Lava)
+      OOT MQ Gerudo Training Grounds SR Lava Front-Right: Player 3 Silver Rupee (Gerudo Training Ground - Lava)
+      OOT MQ Gerudo Training Grounds SR Lava Front-Left: Player 3 Silver Rupee (Gerudo Training Ground - Lava)
+      OOT MQ Gerudo Training Grounds SR Lava Front: Player 3 Silver Rupee (Gerudo Training Ground - Lava)
+      OOT MQ Gerudo Training Grounds Water Room Chest: Player 3 Broken Goron's Sword
+      OOT MQ Gerudo Training Grounds SR Water Top-Left: Player 3 Silver Rupee (Gerudo Training Ground - Water)
+      OOT MQ Gerudo Training Grounds SR Water Center: Player 3 Silver Rupee (Gerudo Training Ground - Water)
+      OOT MQ Gerudo Training Grounds SR Water Bottom-Right: Player 3 Silver Rupee (Gerudo Training Ground - Water)
+      OOT MQ Gerudo Training Grounds Left Side Iron Knuckle Chest: Player 2 Piece of Heart (OoT)
+      OOT MQ Gerudo Training Grounds SR Slopes Top Right: Player 3 Silver Rupee (Gerudo Training Ground - Slopes)
+      OOT MQ Gerudo Training Grounds SR Slopes Middle: Player 3 Silver Rupee (Gerudo Training Ground - Slopes)
+      OOT MQ Gerudo Training Grounds SR Slopes Front: Player 3 Silver Rupee (Gerudo Training Ground - Slopes)
+      OOT MQ Gerudo Training Grounds SR Slopes Front-Left: Player 3 Silver Rupee (Gerudo Training Ground - Slopes)
+      OOT MQ Gerudo Training Grounds SR Slopes Front-Right: Player 3 Silver Rupee (Gerudo Training Ground - Slopes)
+      OOT MQ Gerudo Training Grounds Stalfos Room Chest: Player 3 Recovery Heart (OoT)
+      OOT MQ Gerudo Training Grounds Silver Block Room Chest: Player 2 5 Arrows (OoT)
+      OOT MQ Gerudo Training Grounds Ice Arrows Chest: Player 3 Rupoor (OoT)
+      OOT MQ Gerudo Training Grounds Spinning Statue Chest: Player 2 Rupoor (OoT)
+      OOT MQ Gerudo Training Grounds Torch Slug Room Clear Chest: Player 2 Empty Bottle (OoT)
+      OOT MQ Gerudo Training Grounds Torch Slug Room Switch Chest: Player 2 Odd Potion
+
+    Ganon's Castle (40):
+      OOT Ganon Castle Leftmost Scrub: Player 1 Deku Shield (OoT)
+      OOT Ganon Castle Left-Center Scrub: Player 1 Recovery Heart (OoT)
+      OOT Ganon Castle Right-Center Scrub: Player 3 5 Bombchu (OoT)
+      OOT Ganon Castle Rightmost Scrub: Player 2 10 Bombchu (OoT)
+      OOT Ganon Castle Light Chest Around 1: Player 2 30 Deku Seeds
+      OOT Ganon Castle Light Chest Around 2: Player 1 Minuet of Forest
+      OOT Ganon Castle Light Chest Around 3: Player 2 Green Potion (OoT)
+      OOT Ganon Castle Light Chest Around 4: Player 2 Blue Rupee (OoT)
+      OOT Ganon Castle Light Chest Around 5: Player 3 Empty Bottle (OoT)
+      OOT Ganon Castle Light Chest Around 6: Player 3 20 Bombs (OoT)
+      OOT Ganon Castle Light Chest Center: Player 3 Deku Stick (OoT)
+      OOT Ganon Castle Light Chest Lullaby: Player 2 Heart Container (OoT)
+      OOT Ganon Castle SR Light Alcove Right: Player 3 Silver Rupee (Ganon's Castle - Light Trial)
+      OOT Ganon Castle SR Light Alcove Left: Player 3 Silver Rupee (Ganon's Castle - Light Trial)
+      OOT Ganon Castle SR Light Center Top: Player 3 Silver Rupee (Ganon's Castle - Light Trial)
+      OOT Ganon Castle SR Light Center Right: Player 3 Silver Rupee (Ganon's Castle - Light Trial)
+      OOT Ganon Castle SR Light Center Left: Player 3 Silver Rupee (Ganon's Castle - Light Trial)
+      OOT Ganon Castle Forest Chest: Player 1 Bugs (OoT)
+      OOT Ganon Castle SR Forest Center Right: Player 3 Silver Rupee (Ganon's Castle - Forest Trial)
+      OOT Ganon Castle SR Forest Front: Player 3 Silver Rupee (Ganon's Castle - Forest Trial)
+      OOT Ganon Castle SR Forest Back Right: Player 3 Silver Rupee (Ganon's Castle - Forest Trial)
+      OOT Ganon Castle SR Forest Back Middle: Player 3 Silver Rupee (Ganon's Castle - Forest Trial)
+      OOT Ganon Castle SR Forest Center Left: Player 3 Silver Rupee (Ganon's Castle - Forest Trial)
+      OOT Ganon Castle SR Fire Back Right: Player 3 Silver Rupee (Ganon's Castle - Fire Trial)
+      OOT Ganon Castle SR Fire Left: Player 3 Silver Rupee (Ganon's Castle - Fire Trial)
+      OOT Ganon Castle SR Fire Far Right: Player 3 Silver Rupee (Ganon's Castle - Fire Trial)
+      OOT Ganon Castle SR Fire Front Right: Player 3 Silver Rupee (Ganon's Castle - Fire Trial)
+      OOT Ganon Castle SR Fire Black Pillar: Player 3 Silver Rupee (Ganon's Castle - Fire Trial)
+      OOT Ganon Castle Water Chest 1: Player 3 Ice Trap
+      OOT Ganon Castle Water Chest 2: Player 3 Red Potion (OoT)
+      OOT Ganon Castle SR Spirit Center Midair: Player 3 Silver Rupee (Ganon's Castle - Spirit Trial)
+      OOT Ganon Castle SR Spirit Front Right: Player 3 Silver Rupee (Ganon's Castle - Spirit Trial)
+      OOT Ganon Castle SR Spirit Center Bottom: Player 3 Silver Rupee (Ganon's Castle - Spirit Trial)
+      OOT Ganon Castle SR Spirit Back Left: Player 3 Silver Rupee (Ganon's Castle - Spirit Trial)
+      OOT Ganon Castle SR Spirit Back Right: Player 3 Silver Rupee (Ganon's Castle - Spirit Trial)
+      OOT Ganon Castle Spirit Chest 1: Player 2 Song of Storms (OoT)
+      OOT Ganon Castle Spirit Chest 2: Player 3 Skull Mask
+      OOT Ganon Castle Shadow Chest 1: Player 1 Magic Upgrade (OoT)
+      OOT Ganon Castle Shadow Chest 2: Player 2 Piece of Heart (OoT)
+      OOT Ganon Castle Boss Key: Player 1 Fairy Bow (OoT)
+
+
