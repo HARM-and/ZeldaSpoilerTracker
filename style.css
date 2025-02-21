@@ -1,7 +1,8 @@
 body{
     background-color: rgb(109, 97, 74);
     background-image: url(img/bg.png);
-    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     color: aliceblue;
     margin: 0%;
     padding: 0%;
