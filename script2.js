@@ -126,7 +126,7 @@ for (let i = 0; i < obj.Spheres.length; i++) {
     for (let k = 0; k < worldCnt; k++) {document.write("<div class=\"enTete\" style=\"grid-row: 2; grid-column: "+(k+1)+"\">Monde "+(k+1)+"</div>")}
     for (let j = 0; j < obj.Spheres[i].Sphere.length; j++) {
         if(lastColumn !== obj.Spheres[i].Sphere[j].world.split(" ")[1]){row = 3;}
-        document.write("<div class=\"container\" style=\"grid-row: "+row+"; grid-column: "+obj.Spheres[i].Sphere[j].world.split(" ")[1]+"\"><div class=\"filterPlayer\"><img class=\" "+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+"\" src=\"img/"+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+".png\"></div><div class=\"img-container\"><div class=\"overlay\"></div><img src=\"sprite/"+obj.Spheres[i].Sphere[j].what.replace('%20',' ')+".png\"></div></div>");
+        document.write("<div class=\"container\" style=\"grid-row: "+row+"; grid-column: "+obj.Spheres[i].Sphere[j].world.split(" ")[1]+"\"><div class=\"filterPlayer\"><img class=\" "+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+"\" src=\"img/"+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+".png\"></div><div class=\"img-container\"><div class=\"overlay\">"+obj.Spheres[i].Sphere[j].where+"</div><img src=\"sprite/"+obj.Spheres[i].Sphere[j].what.replace('%20',' ')+".png\"></div></div>");
         row++;
         lastColumn = obj.Spheres[i].Sphere[j].world.split(" ")[1];
     }
