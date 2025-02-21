@@ -6,6 +6,8 @@ body{
 .test{
     display:grid;
     grid-template-rows: auto 1fr auto;
+    
+
     width: 100vw;
     
     /* grid-template-columns: ; */
@@ -16,6 +18,7 @@ body{
     width: 30vh;
     margin: 0.5vh;
     background-color: rgba(255, 255, 255, 0);
+    grid-row-start: 2;
 }
 
 .container *{
