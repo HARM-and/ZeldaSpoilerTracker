@@ -107,10 +107,10 @@ const obj = JSON.parse(txt);
 
 
 for (let i = 0; i < obj.Spheres.length; i++) {
-    document.write("<div>Sphere N°"+i+"</div>")
+    document.write("<div>Sphere N°"+i)
     for (let j = 0; j < obj.Spheres[i].Sphere.length; j++) {
-        document.write("<div class=\"container\"><img class=\"under\" src=\"sprite/"+obj.Spheres[i].Sphere[j].what.replace('%20',' ')+".png\"><img class=\"filterPlayer "+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+"\" src=\"img/"+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+".png\"></div><br>")
+        document.write("<div class=\"container\"><div class=\"filterPlayer\"><img class=\" "+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+"\" src=\"img/"+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+".png\"></div><div class=\"img-container\"><img  src=\"sprite/"+obj.Spheres[i].Sphere[j].what.replace('%20',' ')+".png\"></div></div><br>")
         
     }
-    document.write("<br><br><br>")
+    document.write("</div><br><br><br>")
 }
