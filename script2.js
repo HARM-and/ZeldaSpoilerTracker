@@ -80,7 +80,16 @@ function formatage(textFilePath) { //set a variable
                             txt = txt+"{\"world\":\""+part0where[0]+"\","; // Quel monde ?
                             txt = txt+"\"where\":\""+part0where[1]+"\","; // Où ?
                             txt = txt+"\"who\":\""+part1what[0]+"\","; // Qui ?
-                            txt = txt+"\"what\":\""+part1what[1]+"\"},"; // Quoi ?
+                            if(part1what[1].startsWith("Boss")){
+                                txt = txt+"\"what\":\"Boss Key\"},"; // Quoi ?
+                            }
+                            else if(part1what[1].startsWith("Silver")){
+                                txt = txt+"\"what\":\"Silver Rupee\"},"; // Quoi ?
+                            }
+                            else{
+                                txt = txt+"\"what\":\""+part1what[1]+"\"},"; // Quoi ?
+                            }
+                            
                         }
 
                         
