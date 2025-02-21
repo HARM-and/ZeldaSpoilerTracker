@@ -97,7 +97,7 @@ function formatage(textFilePath) { //set a variable
 
 txt = txt+"{";
 
-formatage('spoiler.txt'); // call function and pass relative path of text file here
+formatage('OoTMM-Spoiler-H0uaUKSo.txt'); // call function and pass relative path of text file here
 
 txt = txt.slice(0,-1);
 txt = txt+"}]}";
