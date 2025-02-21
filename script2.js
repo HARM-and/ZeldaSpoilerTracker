@@ -1,6 +1,7 @@
 let isSpheres = false;
 let isSphere = false;
 let txt = "";
+
 function formatage(textFilePath) { //set a variable
     var rawFile = new XMLHttpRequest();
     rawFile.open("GET", textFilePath, false); //user variable here
@@ -17,28 +18,26 @@ function formatage(textFilePath) { //set a variable
 
                 for (let i = 0; i < fileNameArray.length; i++) {
                     let line = fileNameArray[i].split(": ");
-                    part0 = line[0]
-                    part1 = line[1]
-
-                    
-
+                    part0 = line[0];
+                    part1 = line[1];
 
                     try {
                         part0 = part0.trimStart();
+                        part0 = part0.trimEnd();
                     } catch (error) {
                         
                     }
                     try {
                         part1 = part1.trimStart();
+                        part1 = part1.trimEnd();
                     } catch (error) {
                         
                     }
-
-                    if(part0 == "Spheres"){
-                        isSpheres = true
+                    if(part0.startsWith("Spheres")){
+                        isSpheres = true;
                     }
-                    if(part0 == "==========================================================================="){
-                        isSpheres = false
+                    if(part0.startsWith("=============")){
+                        isSpheres = false;
                     }
                     if(isSpheres){
                         //console.log(part0)
@@ -86,6 +85,7 @@ function formatage(textFilePath) { //set a variable
 
                         
                     }
+                    
 
                 }
 
@@ -96,17 +96,20 @@ function formatage(textFilePath) { //set a variable
 }
 
 txt = txt+"{";
-formatage('OoTMM-Spoiler-H0uaUKSo.txt'); // call function and pass relative path of text file here
+
+formatage('spoiler.txt'); // call function and pass relative path of text file here
+
 txt = txt.slice(0,-1);
 txt = txt+"}]}";
 txt = txt.replace("{\"Sphere\" : [],","{\"Sphere\" : []},{")
+//document.write(txt)
 const obj = JSON.parse(txt);
-// document.write(txt)
+
 
 for (let i = 0; i < obj.Spheres.length; i++) {
     document.write("<div>Sphere N°"+i+"</div>")
     for (let j = 0; j < obj.Spheres[i].Sphere.length; j++) {
-        document.write("<div class=\"container\"><img class=\"under\" src=\"sprite/"+obj.Spheres[i].Sphere[j].what+".png\"><img class=\"filterPlayer\" src=\"img/"+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+".png\"></div><br>")
+        document.write("<div class=\"container\"><img class=\"under\" src=\"sprite/"+obj.Spheres[i].Sphere[j].what.replace('%20',' ')+".png\"><img class=\"filterPlayer\" src=\"img/"+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+".png\"></div><br>")
         
     }
     document.write("<br><br><br>")
