@@ -130,5 +130,5 @@ for (let i = 0; i < obj.Spheres.length; i++) {
         row++;
         lastColumn = obj.Spheres[i].Sphere[j].world.split(" ")[1];
     }
-    document.write("</div><br><br><br>")
+    document.write("</div>")
 }
