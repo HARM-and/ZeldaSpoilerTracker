@@ -3,7 +3,13 @@ body{
     color: aliceblue;
 }
 
-
+.test{
+    display:grid;
+    grid-template-rows: auto 1fr auto;
+    width: 100vw;
+    
+    /* grid-template-columns: ; */
+}
 
 .container{
     height: 17vh;

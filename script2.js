@@ -120,9 +120,9 @@ const obj = JSON.parse(txt);
 
 
 for (let i = 0; i < obj.Spheres.length; i++) {
-    document.write("<div>Sphere N°"+i)
+    document.write("<div class=\"test\" style=\"grid-template-columns: "+(100/worldCnt)+"%;\">Sphere N°"+i)
     for (let j = 0; j < obj.Spheres[i].Sphere.length; j++) {
-        document.write("<div class=\"container\">"+obj.Spheres[i].Sphere[j].world.split(" ")[0]+obj.Spheres[i].Sphere[j].world.split(" ")[1]+"<div class=\"filterPlayer\"><img class=\" "+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+"\" src=\"img/"+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+".png\"></div><div class=\"img-container\"><img  src=\"sprite/"+obj.Spheres[i].Sphere[j].what.replace('%20',' ')+".png\"></div></div>")
+        document.write("<div class=\"container\" style=\"grid-column: "+obj.Spheres[i].Sphere[j].world.split(" ")[1]+"\"><div class=\"filterPlayer\"><img class=\" "+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+"\" src=\"img/"+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+".png\"></div><div class=\"img-container\"><img  src=\"sprite/"+obj.Spheres[i].Sphere[j].what.replace('%20',' ')+".png\"></div></div>")
         
     }
     document.write("</div><br><br><br>")
