@@ -3,12 +3,32 @@ body{
     color: aliceblue;
 }
 
+.surTete{
+    background-color: rgb(53, 53, 53);
+    align-content: center;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 1vh;
+    border-radius: 1vh 1vh 0 0;
+}
+
+.enTete{
+    background-color: rgb(212, 212, 212);
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+    align-content: center;
+    text-align: center;
+    width: 36vh;
+    height: 5vh;
+}
+
 .test{
     display:grid;
     grid-template-rows: auto 1fr auto;
-    
-
-    width: 100vw;
+    border: solid black;
+    border-radius: 1.5vh 1.5vh 0 0;
+    width: fit-content;
     
     /* grid-template-columns: ; */
 }
@@ -17,8 +37,8 @@ body{
     height: 17vh;
     width: 30vh;
     margin: 0.5vh;
+    padding-left: 5vh;
     background-color: rgba(255, 255, 255, 0);
-    grid-row-start: 2;
 }
 
 .container *{
@@ -55,6 +75,25 @@ body{
     padding-bottom: 1vh;
     display: grid;
     place-content: center;
+}
+
+.overlay{
+    opacity:0;
+}
+
+.img-container:hover > .overlay{
+    height: 15vh;
+    width: 15vh;
+    border-radius: 0 1vh 1vh 0;
+    max-height: 15vh;
+    margin-left: -2vh;
+    padding-right: 4vh;
+    margin-top: -1vh;
+    padding-bottom: 2vh;
+    position:absolute;
+    background-color:#000;
+    transition: opacity 0.3s ease;
+    opacity:0.6;
 }
 
 .img-container img{

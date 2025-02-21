@@ -2,6 +2,8 @@ let isSpheres = false;
 let isSphere = false;
 let txt = "";
 let worldCnt = 1;
+let lastColumn = 0;
+let row = 2;
 
 function formatage(textFilePath) { //set a variable
     var rawFile = new XMLHttpRequest();
@@ -120,10 +122,13 @@ const obj = JSON.parse(txt);
 
 
 for (let i = 0; i < obj.Spheres.length; i++) {
-    document.write("<div class=\"test\" style=\"grid-template-columns: "+(100/worldCnt)+"%;\">Sphere N°"+i)
+    document.write("<div class=\"test\" style=\"grid-template-columns: repeat(40vh);\"><div class=\"surTete\" style=\" grid-column: 1/"+(worldCnt+1)+"\">Sphere N°"+i+"</div>")
+    for (let k = 0; k < worldCnt; k++) {document.write("<div class=\"enTete\" style=\"grid-row: 2; grid-column: "+(k+1)+"\">Monde "+(k+1)+"</div>")}
     for (let j = 0; j < obj.Spheres[i].Sphere.length; j++) {
-        document.write("<div class=\"container\" style=\"grid-column: "+obj.Spheres[i].Sphere[j].world.split(" ")[1]+"\"><div class=\"filterPlayer\"><img class=\" "+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+"\" src=\"img/"+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+".png\"></div><div class=\"img-container\"><img  src=\"sprite/"+obj.Spheres[i].Sphere[j].what.replace('%20',' ')+".png\"></div></div>")
-        
+        if(lastColumn !== obj.Spheres[i].Sphere[j].world.split(" ")[1]){row = 3;}
+        document.write("<div class=\"container\" style=\"grid-row: "+row+"; grid-column: "+obj.Spheres[i].Sphere[j].world.split(" ")[1]+"\"><div class=\"filterPlayer\"><img class=\" "+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+"\" src=\"img/"+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+".png\"></div><div class=\"img-container\"><div class=\"overlay\"></div><img src=\"sprite/"+obj.Spheres[i].Sphere[j].what.replace('%20',' ')+".png\"></div></div>");
+        row++;
+        lastColumn = obj.Spheres[i].Sphere[j].world.split(" ")[1];
     }
     document.write("</div><br><br><br>")
 }
