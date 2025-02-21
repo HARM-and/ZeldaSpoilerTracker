@@ -1,4 +1,9 @@
+body{
+    background-color: rgb(75, 64, 42);
+}
+
 .container{
+    
     height: 15vh;
     padding: 0%;
 }
@@ -11,6 +16,7 @@
 }
 
 .under{
+    background-color: bisque;
     position: absolute;
     height: 15vh;
     width: auto;
