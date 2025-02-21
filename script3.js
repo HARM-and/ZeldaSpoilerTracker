@@ -4,17 +4,9 @@ let txt = "";
 let worldCnt = 1;
 let lastColumn = 0;
 let row = 2;
+let extractTxt = "";
 
-function formatage(textFilePath) { //set a variable
-    var rawFile = new XMLHttpRequest();
-    rawFile.open("GET", textFilePath, false); //user variable here
-    let fileNameArray= [];//defined array here for now
-    rawFile.onreadystatechange = function (){
-          if(rawFile.readyState === 4)
-          {
-             if(rawFile.status === 200 || rawFile.status == 0)
-             {
-                 var allText = rawFile.responseText;
+function formatage(allText) { //set a variable
                  //console.log(allText); //check in broswer console
 
                  fileNameArray = allText.split('\n'); //split by line break and add to array
@@ -105,18 +97,26 @@ function formatage(textFilePath) { //set a variable
                 }
 
               }
-           }
-     }
-     rawFile.send(null);
-}
+           
+
+const inputElement = document.getElementById("input");
+inputElement.addEventListener("change", generation);
 
 function generation() {
     
     txt = txt+"{";
+
+    const file = document.getElementById("input").files[0];
+
     
-    formatage("OoTMM-Spoiler-H0uaUKSo.txt"); // call function and pass relative path of text file here
-    
-    txt = txt.slice(0,-1);
+
+    const reader = new FileReader();
+    reader.onload = (evt) => {
+       formatage(evt.target.result);
+       console.log(txt);
+    };
+    reader.onloadend = () => {
+        txt = txt.slice(0,-1);
     txt = txt+"}]}";
     txt = txt.replace("{\"Sphere\" : [],","{\"Sphere\" : []},{")
     //document.write(txt)
@@ -160,9 +160,13 @@ function generation() {
             
         });
     }
+    }
+    reader.readAsText(file);
+    
+    
 }
 
-generation();
+
 
 
     

@@ -6,7 +6,18 @@ body{
     background-attachment: fixed;
     color: aliceblue;
     margin: 0%;
-    padding: 0.5%;
+    padding: 0%;
+}
+
+#leftMenu{
+    height: 100vh;
+    width: 20vh;
+    background-color: red;
+    display: inline;
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
 }
 
 .surTete{
@@ -15,11 +26,8 @@ body{
     text-align: center;
     text-transform: uppercase;
     padding: 1vh;
-    border-radius: 1vh;
-}
-
-.test:hover .container{
-    display: block;
+    border-radius: 1vh 1vh 0 0;
+    width: 106vh;
 }
 
 .enTete{
@@ -31,6 +39,7 @@ body{
     text-align: center;
     width: 36vh;
     height: 5vh;
+    display: none;
 }
 
 .test{
@@ -40,8 +49,7 @@ body{
     border-radius: 1.5vh;
     width: fit-content;
     background-color: rgba(206, 206, 154, 0.295);
-    
-    /* grid-template-columns: ; */
+    margin: 1vh 0 0 11vw;
 }
 
 .container{
@@ -50,6 +58,8 @@ body{
     margin: 0.5vh;
     padding-left: 5vh;
     background-color: rgba(255, 255, 255, 0);
+    transition: height 0.3s ease;
+    display: none;
 }
 
 .container *{
