@@ -20,3 +20,23 @@
     padding-left: 1vh;
     padding-right: 1vh;
 }
+
+.P1{
+    filter: hue-rotate(0turn);
+}
+
+.P2{
+    filter: hue-rotate(0.2turn);
+}
+
+.P3{
+    filter: hue-rotate(0.4turn);
+}
+
+.P4{
+    filter: hue-rotate(0.6turn);
+}
+
+.P5{
+    filter: hue-rotate(0.8turn);
+}

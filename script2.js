@@ -109,7 +109,7 @@ const obj = JSON.parse(txt);
 for (let i = 0; i < obj.Spheres.length; i++) {
     document.write("<div>Sphere N°"+i+"</div>")
     for (let j = 0; j < obj.Spheres[i].Sphere.length; j++) {
-        document.write("<div class=\"container\"><img class=\"under\" src=\"sprite/"+obj.Spheres[i].Sphere[j].what.replace('%20',' ')+".png\"><img class=\"filterPlayer\" src=\"img/"+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+".png\"></div><br>")
+        document.write("<div class=\"container\"><img class=\"under\" src=\"sprite/"+obj.Spheres[i].Sphere[j].what.replace('%20',' ')+".png\"><img class=\"filterPlayer "+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+"\" src=\"img/"+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+".png\"></div><br>")
         
     }
     document.write("<br><br><br>")
