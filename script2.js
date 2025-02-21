@@ -1,6 +1,7 @@
 let isSpheres = false;
 let isSphere = false;
 let txt = "";
+let worldCnt = 1;
 
 function formatage(textFilePath) { //set a variable
     var rawFile = new XMLHttpRequest();
@@ -32,6 +33,9 @@ function formatage(textFilePath) { //set a variable
                         part1 = part1.trimEnd();
                     } catch (error) {
                         
+                    }
+                    if(!part0.startsWith("Spheres") && part0.startsWith("players")){
+                        worldCnt = part1; // Define how many worlds
                     }
                     if(part0.startsWith("Spheres")){
                         isSpheres = true;
@@ -118,7 +122,7 @@ const obj = JSON.parse(txt);
 for (let i = 0; i < obj.Spheres.length; i++) {
     document.write("<div>Sphere N°"+i)
     for (let j = 0; j < obj.Spheres[i].Sphere.length; j++) {
-        document.write("<div class=\"container\"><div class=\"filterPlayer\"><img class=\" "+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+"\" src=\"img/"+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+".png\"></div><div class=\"img-container\"><img  src=\"sprite/"+obj.Spheres[i].Sphere[j].what.replace('%20',' ')+".png\"></div></div>")
+        document.write("<div class=\"container\">"+obj.Spheres[i].Sphere[j].world.split(" ")[0]+obj.Spheres[i].Sphere[j].world.split(" ")[1]+"<div class=\"filterPlayer\"><img class=\" "+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+"\" src=\"img/"+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+".png\"></div><div class=\"img-container\"><img  src=\"sprite/"+obj.Spheres[i].Sphere[j].what.replace('%20',' ')+".png\"></div></div>")
         
     }
     document.write("</div><br><br><br>")
