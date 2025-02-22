@@ -28,7 +28,8 @@ body{
     text-transform: uppercase;
     padding: 1vh;
     border-radius: 1vh 1vh 0 0;
-    width: 106vh;
+    min-width: 106vh;
+    width: 99%;
 }
 
 .enTete{
