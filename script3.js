@@ -122,7 +122,7 @@ function generation() {
         txt = txt.slice(0,-1);
     txt = txt+"}]}";
     txt = txt.replace("{\"Sphere\" : [],","{\"Sphere\" : []},{")
-    //document.write(txt)
+    console.log(txt)
     const obj = JSON.parse(txt);
     let myTarget = document.getElementById("myTarget");
     

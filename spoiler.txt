@@ -558,4 +558,7 @@ Spheres
     Location - World 2 OOT Market Bazaar Item 3: Player 1 Stone of Agony (OoT)
     Location - World 2 OOT Market Bazaar Item 7: Player 1 Progressive Scale (Oot)
 
+  Sphere 2
+    Event - World 1 Beat Ganon
+
 ===========================================================================
