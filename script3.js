@@ -5,6 +5,7 @@ let worldCnt = 1;
 let lastColumn = 0;
 let row = 2;
 let extractTxt = "";
+let fillerContent = "";
 
 function formatage(allText) { //set a variable
                  //console.log(allText); //check in broswer console
@@ -104,6 +105,8 @@ inputElement.addEventListener("change", generation);
 
 function generation() {
     
+    document.getElementById("leftMenu").style.display = "none";
+
     txt = txt+"{";
 
     const file = document.getElementById("input").files[0];
@@ -113,7 +116,7 @@ function generation() {
     const reader = new FileReader();
     reader.onload = (evt) => {
        formatage(evt.target.result);
-       console.log(txt);
+       //console.log(txt);
     };
     reader.onloadend = () => {
         txt = txt.slice(0,-1);
@@ -121,20 +124,21 @@ function generation() {
     txt = txt.replace("{\"Sphere\" : [],","{\"Sphere\" : []},{")
     //document.write(txt)
     const obj = JSON.parse(txt);
-    
+    let myTarget = document.getElementById("myTarget");
     
     for (let i = 0; i < obj.Spheres.length; i++) {
-        document.write("<div class=\"test\" id=\"sphere"+i+"\" style=\"grid-template-columns: repeat(40vh);\"><div class=\"surTete\" style=\" grid-column: 1/"+(worldCnt+1)+"\">Sphere N°"+i+"</div>")
-        for (let k = 0; k < worldCnt; k++) {document.write("<div class=\"enTete\" style=\"grid-row: 2; grid-column: "+(k+1)+"\">Monde "+(k+1)+"</div>")}
+        fillerContent += "<div class=\"test\" id=\"sphere"+i+"\" style=\"grid-template-columns: repeat(40vh);\"><div class=\"surTete\" style=\" grid-column: 1/"+(worldCnt+1)+"\">Sphere N°"+i+"</div>";
+        for (let k = 0; k < worldCnt; k++) {fillerContent += "<div class=\"enTete\" style=\"grid-row: 2; grid-column: "+(k+1)+"\">Monde "+(k+1)+"</div>"}
         for (let j = 0; j < obj.Spheres[i].Sphere.length; j++) {
             if(lastColumn !== obj.Spheres[i].Sphere[j].world.split(" ")[1]){row = 3;}
-            document.write("<div class=\"container\" style=\"grid-row: "+row+"; grid-column: "+obj.Spheres[i].Sphere[j].world.split(" ")[1]+"\"><div class=\"filterPlayer\"><img class=\" "+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+"\" src=\"img/"+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+".png\"></div><div class=\"img-container\"><div class=\"overlay\">"+obj.Spheres[i].Sphere[j].where+"</div><img src=\"sprite/"+obj.Spheres[i].Sphere[j].what.replace('%20',' ')+".png\"></div></div>");
+            fillerContent += "<div class=\"container\" style=\"grid-row: "+row+"; grid-column: "+obj.Spheres[i].Sphere[j].world.split(" ")[1]+"\"><div class=\"filterPlayer\"><img class=\" "+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+"\" src=\"img/"+obj.Spheres[i].Sphere[j].who.charAt(0)+obj.Spheres[i].Sphere[j].who.charAt(obj.Spheres[i].Sphere[j].who.length-1)+".png\"></div><div class=\"img-container\"><div class=\"overlay\">"+obj.Spheres[i].Sphere[j].where+"</div><img src=\"sprite/"+obj.Spheres[i].Sphere[j].what.replace('%20',' ')+".png\"></div></div>";
             row++;
             lastColumn = obj.Spheres[i].Sphere[j].world.split(" ")[1];
         }
-        document.write("</div>")
+        fillerContent += "</div>"
     }
     
+    myTarget.innerHTML += fillerContent;
     let poule = document.getElementsByClassName("test")
     
     for (let i = 0; i < poule.length; i++) {
@@ -164,7 +168,9 @@ function generation() {
     reader.readAsText(file);
     
     
+    
 }
+
 
 
 

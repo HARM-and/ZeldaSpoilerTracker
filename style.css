@@ -10,14 +10,15 @@ body{
 }
 
 #leftMenu{
-    height: 100vh;
-    width: 20vh;
+    height: 50px;
+    width: 300px;
     background-color: red;
     display: inline;
     position: fixed;
     top: 0;
     left: 0;
     margin: 0;
+    align-content: center;
 }
 
 .surTete{
